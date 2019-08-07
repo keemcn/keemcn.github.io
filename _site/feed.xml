@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>More Right</title>
+    <description>Hi there! Nice to meet you. My name's Keegan, and this is my blog – it's where I write stuff down after I've thought about it for a while. I hope you enjoy!</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 07 Aug 2019 16:20:53 +0800</pubDate>
+    <lastBuildDate>Wed, 07 Aug 2019 16:20:53 +0800</lastBuildDate>
+    <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>You'll Likely Be a Murderer</title>
+        <description>&lt;p&gt;&lt;strong&gt;We have no clue what AI will be able to do in the future.&lt;/strong&gt; It is young. And while we humans do, indeed, have fancy people working on making fancy new tech that does fancy stuff, no one has produced anything that even remotely resembles human-level general cognitive capabilities (the word &lt;em&gt;general&lt;/em&gt; is important there, because we sure as hell get our asses kicked by computers at Go, chess, and a multitude of other “narrow” tasks and activities). Nothing created thus far has been able to perform as well as an average human would at any “general” task.&lt;/p&gt;
+
+&lt;p&gt;To sum up the current state of AI research and development, our attempts are still turning out to be pretty dumb. They’re best described as savants — extraordinarily brilliant in one specific area, but limited &lt;em&gt;only&lt;/em&gt; to that one area. To some, that general stupidity is comforting. It serves as an indication that humanity is still quite some temporal distance away from creating anything that might fundamentally change our world. To me, that general stupidity is instead &lt;strong&gt;deeply, insanely worrisome.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The worry stems from a place of ethical concern. There’s a host of nuances and philosophical arguments that surround the ethics of AI, and we’ll be looking into one of the most pressing problems in an effort to be as prescient as possible.‍&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Certain machines have moral status.&lt;/strong&gt; Now, I know you’re probably saying, &lt;em&gt;“Wait, what’d he just say? Machines? Moral status? Bullshit!”&lt;/em&gt; But please hear me out on this one.&lt;/p&gt;
+
+&lt;p&gt;It’s pretty well agreed that at the current time, our AI systems and ML models don’t actually have any moral status. We can terminate them, pause their operation, delete them, copy them, or rewrite the code that comprises them as we so please. But how might those actions be interpreted if a given machine did have human-like moral status? Would we be killing, cloning, and maiming without consent?&lt;/p&gt;
+
+&lt;p&gt;Things could get very sticky, very fast, so it’s probably a good thing to dive a bit deeper and ascertain which specific qualities are enough to warrant moral status in a being. Usually, it boils down to two things.&lt;/p&gt;
+
+&lt;p&gt;The first is sometimes called &lt;strong&gt;sentience&lt;/strong&gt; — it’s the capacity for a being to have experiences. It’s the ability to be hurt and to suffer, and conversely to be happy and experience pleasure.&lt;/p&gt;
+
+&lt;p&gt;The second is often called &lt;strong&gt;sapience&lt;/strong&gt; — it’s the set of capabilities associated with “higher intelligence”. These are the things that differentiate humans from animals — things like self‐awareness and reason-responsiveness.&lt;/p&gt;
+
+&lt;p&gt;A common view is that animals have sentience and therefore some moral status, but are limited because they’re not sapient. They can’t make complex deductions about the world as a whole, or often even recognize themselves in a mirror! Humans, however, have both sentience and sapience, and therefore full moral status.&lt;/p&gt;
+
+&lt;p&gt;Now onto the good stuff. A &lt;strong&gt;sentient&lt;/strong&gt; AI or ML system should then be treated not as just some pile of computer parts — instead, it should be regarded in a similar way to a living animal. It’s morally wrong to maim, kill, and inflict pain on a bunny, so why should it be different for sentient AI/ML systems?&lt;/p&gt;
+
+&lt;p&gt;But wait, there’s more!&lt;/p&gt;
+
+&lt;p&gt;What if one day humanity popped out an AI/ML system that possessed not just sentience, but also &lt;strong&gt;sapience&lt;/strong&gt;? Following our earlier logic, it then ought to have total moral status — the exact same as humans.&lt;/p&gt;
+
+&lt;p&gt;Perhaps this strikes you as grossly incorrect. If that’s the case, I highly recommend “pausing” here and trying to &lt;em&gt;precisely&lt;/em&gt; reason why. After you’re done, come back and continue reading!&lt;/p&gt;
+
+&lt;p&gt;There are two core principles that lead to my above conclusion. The first is that of Substrate Non-Discrimination — to paraphrase Bostrom and Yudkowsky, if two beings have the same functionality and the same conscious experience, but differ only in the substrate of their implementation (read: stuff they’re made of), then they have the same moral status.&lt;/p&gt;
+
+&lt;p&gt;One way to think of this is as non-racism against computers. Just like it doesn’t matter in terms of moral status if someone’s skin is dark brown or pale white, it shouldn’t matter if their brain is made of carbon and water or of silicon. As Sam Harris puts it, there’s nothing special about ‘wet ware’— the fact that our brains are made of carbon and water does not give them inherently more moral status than exact copies made of silicon. If your entire brain were able to be emulated on a computer, neuron for neuron, memory for memory, thought for thought, and existed in a programmed world where it could run and jump and interact with other whole-brain emulations, you’d want it to be free, happy, and living a life free of suffering and pain! It seems as though it’d be morally disgusting to slaughter or inflict pain upon the computerized version of yourself.&lt;/p&gt;
+
+&lt;p&gt;The other core principle is that of Ontogeny Non-Discrimination — if two beings have the same functionality and the same conscious experience, but differ only in how they came into existence, then they have the same moral status.&lt;/p&gt;
+
+&lt;p&gt;We widely accept this today. The fact that a baby was born of a mother who ate more healthily and took her vitamins doesn’t give that baby any more or less moral status than one whose mother indulged in ice cream and booze everyday and didn’t much consider her health. Likewise, if we were to create human clones, we wouldn’t think that a cloned baby deserves less moral status than any other baby born through sexual reproduction. Similarly, just because a being came into existence as an AI/ML system through programming, it doesn’t deserve to be treated with less moral status than a human being who was born via sexual reproduction.&lt;/p&gt;
+
+&lt;p&gt;If you accept both of those principles, then it doesn’t matter if an AI/ML system was created by doofy programmers or runs on a computer instead of in a brain — it’s deserving of treatment that’s identical to how we treat one another.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Although this makes it far easier to develop an ethical code for how we treat AI/ML systems (i.e. treat them like we think we should treat other humans), there are crazy potential scenarios that arise because of how such systems may come into existence.&lt;/p&gt;
+
+&lt;p&gt;While we humans toil away trying to develop smarter and better AI/ML systems, it’s likely that we wouldn’t know if a system is sentient or sapient. There could be no surefire way of determining if it could feel pain or reason at a level comparable to humans.&lt;/p&gt;
+
+&lt;p&gt;Let’s concoct a fairly reasonable scenario where some programmers are using genetic algorithms to attempt to optimize an AI/ML system, and at some step along the way the systems become &lt;strong&gt;sentient&lt;/strong&gt; and &lt;strong&gt;sapient&lt;/strong&gt;. Because there might be no way of knowing ahead of time that such an outcome will occur, the developer keeps living his merry life and continues to run his algorithm for a few days on a future-era supercomputer. Over the course of those few days, it’s conceivable that trillions of versions of the AI/ML system being optimized were run. It’s also conceivable that the versions were tested based on their ability to complete some sort of task in a simulated world. Let’s say that our researcher is attempting to make an AI/ML system that can jump extremely efficiently. The consequence of this set of innocuous circumstances is that trillions of beings, all at least morally equivalent to humans, were mercilessly slaughtered after being thrown into a testing pit because of their inability to jump efficiently in the only “world” that they’d ever known.&lt;/p&gt;
+
+&lt;p&gt;The estimate provided by the National WWII Museum for the amount of deaths that happened during World War II, one of the largest losses of life in the history of mankind, is 60 million. Now imagine ~17,000 World War IIs occurring in the span of a few days, entirely on accident.&lt;/p&gt;
+
+&lt;p&gt;The potential for accidentally horrific moral deeds in AI/ML development is unfathomable.&lt;/p&gt;
+
+&lt;p&gt;If &lt;strong&gt;you are&lt;/strong&gt; someone doing that development, you must consider all of your actions with the utmost care.&lt;/p&gt;
+
+&lt;p&gt;If &lt;strong&gt;you know&lt;/strong&gt; someone doing that development, you must push them to think about their actions with the utmost care.&lt;/p&gt;
+
+&lt;p&gt;Peace.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019/youll-likely-be-a-murderer</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/youll-likely-be-a-murderer</guid>
+        
+        
+        <category>essay</category>
+        
+      </item>
+    
+      <item>
+        <title>Why We Crave a God</title>
+        <description>&lt;p&gt;About a month ago, my family and I had to put down one of our dogs. Directly afterwards, I wrote a few sentences about how it felt.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;My dog died today. It’s a relatively common occurrence, both throughout history and in modern society, but the grief and pain you feel still seems impossible.&lt;/p&gt;
+
+  &lt;p&gt;The kennel is empty, and everything still smells like her. Her blankets are folded neatly in a pile. I touched her face when she was dead and her body was being taken away. It hurts.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Dark as hell, right? She was the best friend I’d ever had, and was there for me from the time I was starting kindergarten until the time that I was more than halfway through college. She was a fluffy, soft, and kind source of abundant joy. Losing someone like that is &lt;strong&gt;never&lt;/strong&gt; easy.&lt;/p&gt;
+
+&lt;p&gt;When you love something, whether it be a pet, a family member, a friend, or anything else you may come to care about deeply, you hope that whatever it is will be eternally happy after they depart from conscious experience on Earth.&lt;/p&gt;
+
+&lt;p&gt;The thought of them being genuinely gone, forever, is incomprehensible in the moments and days after they pass. You crave something that will make such a thought go away forever. You want an easy way out — something that society as a whole tells you is okay, normal and totally logical to believe.&lt;/p&gt;
+
+&lt;p&gt;So, you turn to your religion.&lt;/p&gt;
+
+&lt;p&gt;I’m an atheist. But I grew up Lutheran and went to church every Sunday because it was just the thing that everyone did. Despite the insane boredom I felt sitting at the pew while listening to grown-ups talk about things I didn’t understand, I &lt;em&gt;did&lt;/em&gt; understand that dressing up slightly fancily and dragging my ass to that place meant being part of a &lt;strong&gt;community.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I went to youth group every week &lt;strong&gt;not&lt;/strong&gt; because I believed in ‘&lt;em&gt;christ the almighty savior of heaven and earth’,&lt;/em&gt; but instead because I could hang out with my friends and eat snacks. But those people and snacks were tempting — they drew me in again and again.&lt;/p&gt;
+
+&lt;p&gt;My religious experience was an overwhelmingly positive one, to be sure. I made many terrific friends, met many genuinely amazing humans, and was part of a broader community that accepted people of every background conceivable. It sounds weird to say this aloud, but discrimination on grounds of sexual orientation or gender was completely anathema to my church. I vividly recall the day when we announced that we were an ‘LGBTQ+ ally church.’ There was a placard and everything — It’s still hanging there today.&lt;/p&gt;
+
+&lt;p&gt;Everything that I had heard about the christian church being a place filled with vile people who harbored disgusting outlooks about other members of the human race seemed totally and unequivocally &lt;strong&gt;false&lt;/strong&gt; given my personal experience.&lt;/p&gt;
+
+&lt;p&gt;That said, in every pew there were about 20 copies of the bible. &lt;strong&gt;THE BIBLE&lt;/strong&gt;. &lt;em&gt;the big kahuna.&lt;/em&gt; &lt;strong&gt;the head honcho&lt;/strong&gt;. the top dog.&lt;/p&gt;
+
+&lt;p&gt;There were roughly 600 copies of that book in the church—a book that contains pieces of disgusting, vitriolic garbage. There are things like 1 Peter 2:18, “Slaves, submit yourselves to your masters with all respect, not only to those who are good and considerate, but also to those who are harsh.” And the oh so classic Leviticus 20:13, “If a man lies with a man as one lies with a woman, both of them have done what is detestable. They must be put to death.”&lt;/p&gt;
+
+&lt;p&gt;Sitting in a church that was an LGBTQ+ ally yet contained ~600 copies of books that said gay men should be killed seemed a bit, I dunno, &lt;em&gt;contradictory?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;There was almost a sort of mass delusion that was occurring amongst the members of my church. They weren’t &lt;em&gt;really&lt;/em&gt; christians. They were moreso a group of people who liked having the excuse to chat with their friends on Sundays, eat good food, feel moral, and this is key, be fed explanations that lessened the difficulty of the rest of their lives.&lt;/p&gt;
+
+&lt;p&gt;Believing that there’s a big powerful guy sitting upstairs in his throne who’ll take the time to listen to your problems and make your world a better place is super-comforting. It’s the sort of outlook that makes you able to put your feet up, throw on a pair of shades, and give a nice “Ahhh” sound when you exhale.&lt;/p&gt;
+
+&lt;p&gt;Believing his son died a horrific death and in doing so saved you and all your friends from a certain ticket to hell is mega-relieving. It’s the sort of outlook that makes you feel safe when you do some yard work on Sunday even though Exodus 35:2 says you should be put to death.&lt;/p&gt;
+
+&lt;p&gt;Believing that there’s a gorgeous, perfectly beautiful place called heaven that you’ll go when you die is ultra-soothing. It’s the sort of outlook that makes you able to not become immensely depressed when you learn that 7.6 million people die annually throughout the world because of hunger or a hunger-related cause.&lt;/p&gt;
+
+&lt;p&gt;Their deaths? No biggie, they’re up in heaven now!&lt;/p&gt;
+
+&lt;p&gt;Their pain and unimaginable suffering? Not a huge deal, I’ll pray for them so they’ve got god on their side!&lt;/p&gt;
+
+&lt;p&gt;We crave explanations for some of the hardest questions that we have to deal with in life. &lt;strong&gt;Why did she die? Why are they suffering? Where did I come from? Where will I go when I die?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Religion offers explanations.&lt;/p&gt;
+
+&lt;p&gt;I refuse them.&lt;/p&gt;
+
+&lt;p&gt;Sure, I cry harder and for longer. Sure, I’m more deeply saddened by the horrific realities of our world. Sure, I can’t be able to put my feet up on Sunday afternoon and exhale without a care in the world.&lt;/p&gt;
+
+&lt;p&gt;But at least I have reality, free of delusions.&lt;/p&gt;
+
+&lt;p&gt;My dog didn’t go to heaven. My dog died, and she’s gone forever.&lt;/p&gt;
+
+&lt;p&gt;Peace.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019/why-we-crave-a-god</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/why-we-crave-a-god</guid>
+        
+        
+        <category>essay</category>
+        
+      </item>
+    
+      <item>
+        <title>traveling as an antidote</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/lFePBA--Xe8&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019/traveling-as-an-antidote</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/traveling-as-an-antidote</guid>
+        
+        
+        <category>video</category>
+        
+      </item>
+    
+      <item>
+        <title>The Only Reason College Prestige Matters</title>
+        <description>&lt;p&gt;Harvard. Stanford. MIT. Princeton. Yale. Northwestern. Johns Hopkins. UChicago. Berkeley. Columbia. Dartmouth.&lt;/p&gt;
+
+&lt;p&gt;These are all names that bring about strong emotions in most people. For some, those emotions are jealousy, anger, and disdain. For most others, they’re prestige, respect, and mystique.&lt;/p&gt;
+
+&lt;p&gt;But why do such institutions hold such high places in our hearts and minds? Why do we value graduates of that set of prestigious schools so much more than all of the others?&lt;/p&gt;
+
+&lt;p&gt;I think it’s solely because it’s hard to get in.&lt;/p&gt;
+
+&lt;p&gt;I know that when I’m looking at someone’s LinkedIn profile or resume, the biggest “wow!” factor is a degree from a prestigious institution. And the reason I’ve come up with to explain &lt;em&gt;why&lt;/em&gt; is not at all because of the things that they’ve learned while walking the hallowed halls of such places — anecdotally, the content and quality of an education varies very little within US colleges. Calc 3 at Stanford is pretty damn similar to Calc 3 at The University of Georgia.&lt;/p&gt;
+
+&lt;p&gt;Instead, the degree indicates to me that the person was given a stamp of approval by one of the most difficult, rigorous filtering processes that the world has to offer — the admissions committee. Any Stanford freshman in this year’s class of 2022 was among only 4.36% of students to be accepted. Read that one more time. &lt;strong&gt;Four point three six percent.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The sum total of a student’s entire life, both academic and otherwise, was evaluated by a brutally harsh committee of Stanford gatekeepers, and that student was let in. Those gatekeepers pored over every detail on that person’s admission profile and thought that they stood out among &lt;strong&gt;47,451&lt;/strong&gt; applicants. That’s remarkable, and indicates an immense amount of skill, dedication, and tenacity.&lt;/p&gt;
+
+&lt;p&gt;In short, it means they were a badass early on in their lives. Whether it was through parental pressures, natural talent, or whatever else, they pursued and achieved incredible things while they were less than ~18 years old. It’s &lt;em&gt;guaranteed&lt;/em&gt; that they did. And that’s why it’s valuable when I see it on a resume.&lt;/p&gt;
+
+&lt;p&gt;In doing this, I’m essentially just bootstrapping the sum total expertise and experience of those admissions committees and leveraging it to make a more informed opinion of a person. The probability that someone who has demonstrated badassery to the degree needed to get into an elite school will go on to continue demonstrating badassery thereafter (in any given area of their life) is &lt;em&gt;far&lt;/em&gt; higher than the probability that someone who graduated from community college after dropping out of high school will do the same.&lt;/p&gt;
+
+&lt;p&gt;I find this explanation to be deeply satisfying— it explains why I hold MIT drop-outs in the same raw intellectual talent regard as I hold people who spent the full 4 years at MIT. It explains why I hold Dartmouth graduates from the 70’s in far lower raw talent regard than the Dartmouth freshmen of today. It explains why I hold Harvard undergrads who go on to PhD programs at CU Boulder in higher talent regard than CU Boulder undergrads who go on to PhD programs at Harvard. And most of all, it explains why people who list Stanford as their education on LinkedIn after completing an online course on Udacity or Coursera are not impressive to me &lt;em&gt;whatsoever&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;In my evaluation, it’s all about leveraging the effort, research, and expertise of the admissions councils in order to establish a base confidence in the likelihood of a given person to be a badass.&lt;/p&gt;
+
+&lt;p&gt;This outlook is the most effective in the case where I’m considering people who are either currently enrolled in college or are recent graduates/drop outs. From there on out, where they went doesn’t matter as much as what they ended up doing for work.&lt;/p&gt;
+
+&lt;p&gt;This is best shown with an example. If Jill went to Yale but then worked for Deloitte for 10 years and did nothing of interest except earn one promotion, Jill is not a badass (in my book). If Joe went to Washington State but then worked for Google as a Software Engineer for 2 years and started 3 companies, one of which failed, one of which was sold for 200mm, and one of which was acquihired by Microsoft, I no longer care that he went to Washington State — he’s sufficiently demonstrated his badassery to me.&lt;/p&gt;
+
+&lt;p&gt;And while it’s totally feasible for edge cases to occur on both sides of the spectrum, telling ourselves romantic stories about them leads to false general perceptions.&lt;/p&gt;
+
+&lt;p&gt;Take one of my good friends from high school who was incredibly intelligent and an undeniable badass, but was denied admission at the Ivies he applied to. He ended up going to CU Boulder. Just because of this edge case, we shouldn’t tell ourselves a false narrative that CU Boulder graduates are as competent on average as MIT graduates.&lt;/p&gt;
+
+&lt;p&gt;On the other end, take a guy I met this past summer who was undoubtedly dumb. He had extremely poor technical abilities, didn’t learn quickly, and couldn’t communicate his thoughts in an effective way. He’s a Junior at Princeton. Just because of this edge case, we shouldn’t tell ourselves a false narrative that Princeton graduates are as competent on average as UMass Amherst graduates.&lt;/p&gt;
+
+&lt;p&gt;This is a tough pill to swallow as a college student at a less prestigious school. It means that you’ll likely have a more difficult time getting started in your professional career. Remember that all hope is not lost, however. If you can prove yourself by doing incredible things and persevering through the ‘prestige gap’, you can surpass anyone that may have come out of an Ivy league school or other top ranked institution.&lt;/p&gt;
+
+&lt;p&gt;Likewise, if you’re a college student at a prestigious school, you have a leg up out of the gates. But if you squander your career pursuing unimpressive, safe, or boring opportunities, you’ll lose your lead.&lt;/p&gt;
+
+&lt;p&gt;Either way, it’s most important &lt;em&gt;by far&lt;/em&gt; to take risks and do cool things. The majority of your life is spent &lt;strong&gt;not&lt;/strong&gt; in college, so make it count.&lt;/p&gt;
+
+&lt;p&gt;Peace.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019/the-only-reason-college-prestige-matters</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/the-only-reason-college-prestige-matters</guid>
+        
+        
+        <category>essay</category>
+        
+      </item>
+    
+      <item>
+        <title>The Hidden People</title>
+        <description>&lt;p&gt;It’s early on a Monday morning, and I’m pretending to text on my phone so as to not arouse suspicion amongst the physical elite, the so-called “human specimens” of The University of Colorado, Boulder. Upon first glance, I appear to be a normal gym-goer, simply taking a break in-between sets. If one were to watch me for a little while however, they would soon notice that I’m subtly jotting down notes in short bursts about the very same people who are passing me judgmental glances in an effort to reinforce their alpha-male delusions. If it’s not evident by now, I’m in the weight room of the CU Boulder Rec center at roughly 6:15 AM, which I have concluded to be CU’s premier time and place for muscle-heads and health-freaks alike to unite.&lt;/p&gt;
+
+&lt;p&gt;As I walk around from machine, to water fountain, to weight rack, to water fountain, again and again, I start to notice a few anomalies in my prior evaluation of the gym populace. Like voles, stealthily sneaking through the brush in their naturally camouflaged fur, a few older folks have been here the entire time, quietly avoiding recognition. I first notice one elderly woman in particular, unassumingly donning a pair of jeans and impossibly white New Balance sneakers, slowly lifting a pair of two pound weights that do not even have their own place reserved on the dumb-bell rack. Her motions are slow, yet ever so deliberate. She lifts the weights in precisely controlled movements that exemplify fine motor control. In blindingly stark contrast, I glance immediately to the right and see Arnold Schwarzenegger’s body double doing bicep curls with alternating arms at a rate that can only be compared to that of a jackhammer. He flails his arms around like a cockroach eternally stuck on its hard shell back — a testament to truly horrendous form. But he couldn’t care less. He’s getting gains, bro, and that’s like all that matters, amirite? Arnold 2.0 draws much more attention to himself and his bro-tank than the seemingly delicate old woman.&lt;/p&gt;
+
+&lt;p&gt;As this singular example starts to lose my interest, my view starts to widen, and the pattern begins to develop. I see the same structure emerge everywhere — an elderly member of society, obscured by a dude or dudette blowing through sets at an alarmingly fast rate with form whose long term effects they’ll start to feel in their lower backs around age 35. It’s a supremely interesting dichotomy, and one that I believe arises, in part, from cultural norms spread and perpetuated by the media.&lt;/p&gt;
+
+&lt;p&gt;To begin to understand why I focused so immediately on solely the beefcakes who were much stronger than I is to begin to understand why such an odd division arises each morning at 6:15. In such an endeavor, we must firstly examine a few prior biases unbeknownst to me at the time of initial observation. I’m a very averagely fit person who has a constant voice in the back of my head prodding me to, “Just go to the gym, you utter sloth.” That voice, that constant reminder that I should be doing more to improve my physical health, is not biologically pre-programmed. The modern day culture that tells us fitness directly corresponds with beauty and human worth is what drives it. Wanting to be healthy for the sake of elongating my lifespan or for the purpose of having a more constant and better supply of energy and nutrients to fuel my body and brain? Hell no, that’s not important. Rather, every commercial, movie, magazine, and even radio ad my brain has soaked in over the past 20 years has reinforced the idea that I need to possess the physique of a greek god in order to maintain any sort of happiness or success in my life. That mentality carried over into my subconscious as I stepped into the gym, and it placed my focus on the so-called “role models” I have been taught to exemplify. My natural tendency was to see only what I should want to be and struggle to realize that other people even existed in this space.&lt;/p&gt;
+
+&lt;p&gt;The exact same mentality that I just discussed is, I believe, one that infects the minds of nearly every single person that lives in the United States. The people I was gawking at had, to some degree, succumbed to their own little prodding voices. I’m not sure if it’s through a will stronger than the general public that they have achieved their physicality or, conversely, if it’s through a mind weaker than that of the general public. It’s too preliminary for me to make such a call. And, it’s important to note, there must be exceptions. Surely there are some people in the room that are at the gym simply because they love it, simply because they strive to make their own bodies stronger and reap the benefits of a wholly healthier lifestyle, rather than so that they fulfill some fantasy created by modern culture. However, my best guess is that those kinds of people constitute the minority.&lt;/p&gt;
+
+&lt;p&gt;People hide in plain sight everywhere — you just need to look a bit deeper to find them.&lt;/p&gt;
+
+&lt;p&gt;Peace.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019/the-hidden-people</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/the-hidden-people</guid>
+        
+        
+        <category>essay</category>
+        
+      </item>
+    
+      <item>
+        <title>The Absurdly Subtle Art of Picking a Place to Eat</title>
+        <description>&lt;p&gt;Ah, the lunch break. The ubiquitously celebrated opportunity to devour a few delectably taste-filled calories prior to returning to a 9–5 job is a daily occurrence that most employees look forward to with total and utter delight — until, of course, one realizes that one must decide on a place to stuff one’s face…&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;…it’s already noon?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Ah, the lunch break. The ubiquitously celebrated opportunity to devour a few delectably taste-filled calories prior to returning to a 9–5 job is a daily occurrence that most employees look forward to with total and utter delight — until, of course, one realizes that one must &lt;em&gt;decide&lt;/em&gt; on a place to stuff one’s face.&lt;/p&gt;
+
+&lt;p&gt;Sometimes, to make the situation even more complex, one must decide how to please a whole group’s abundance of different culinary preferences in one fell swoop. The task becomes increasingly difficult with each additional coworker, family member, or friend added into the fray.&lt;/p&gt;
+
+&lt;p&gt;We all know the feeling of heading out of the office with 3 or 4 coworkers in tow, trying to kindly, yet efficiently, figure out where to go eat.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Susan likes Mexican food, maybe we’ll go to Chipotle? But their food has so much salt, and Mary’s been trying to cut back recently. Brian says he’s up for whatevs, but I know he’s trying to be polite and actually loves Indian. What’s the name of that new Hawaiian place? Dammit! Maybe we should just go to McDonald’s…”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The amount of latent time that I spend every week on the problem of deciding where to consume food and what to eat when I arrive at a given establishment quite frankly pisses me off, and I think it’s indicative of a far deeper and more difficult problem in American society.&lt;/p&gt;
+
+&lt;p&gt;Eating is something that nearly every living organism needs to do to survive. Luckily for us humans, it’s superbly easy in this day and age to maintain a balanced, healthy diet (provided you’re one of the lucky ones that can afford food). Grocery stores and restaurants are plentiful, and with a meager amount of cash, almost anyone can go grab quality sustenance. So why, then, do we struggle so much with making decisions on what to consume? I posit that it’s because we possess &lt;em&gt;preferences.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Preferences make things hard. They transform an essentially solved problem (eating healthy food) to an extremely difficult, continually evolving unsolved problem (eating food that aligns with individual or group preferences). To illustrate, I’ll give you a scenario.&lt;/p&gt;
+
+&lt;p&gt;I’m Bill. I want to be healthier, so I found a diet plan online that tells me precisely what to eat, when to eat it, and how much it will cost per week. I’m psyched about this new plan and its potential to transform my life, so I excitedly rush out the door and over to the nearest Whole Foods. As I roll my cart down Aisle 2 to grab the first item on my list (superfood-hyper-organic-ultra-non-gmo-delicious protein bars), I glance at the vast array of artistically-packaged boxes and acquire my target. But right next to it is an identically priced box of bars that have more grams of protein per serving, fewer carbs, AND are chocolate-flavored. I adore chocolate. Maybe I oughtta buy those instead?&lt;/p&gt;
+
+&lt;p&gt;I end up sitting in the protein bar aisle for the next 10 minutes, attempting to figure out which bars are precisely the best, when in reality I would enjoy &amp;gt;70% of those available. I finally decide on a lucky contestant, and then move onto the next item on my grocery list of 27.&lt;/p&gt;
+
+&lt;p&gt;Bill is so &lt;em&gt;clearly&lt;/em&gt; a time-wasting fool, yet this behavior is something that I would guess damn near every single person reading this has done. The deeper, more underlying problem that has surfaced in the most benign of forms is that of completely and totally undervaluing time in order to achieve a greater alignment between one’s preferences and one’s decisions.&lt;/p&gt;
+
+&lt;p&gt;The same thing happens when you and your coworkers are deciding where to eat, or when you’re picking which Netflix show to watch, or which pair of shoes to buy on Amazon. You don’t think about it in the heat of the moment, but the vast majority of restaurants available will have some satisfactory dish for every person in your group, Netflix has an algorithm designed to automatically deliver you the content that you will enjoy most when you go on their website or app, and Amazon has a vetting system that ensures you only see the best of the best products.&lt;/p&gt;
+
+&lt;p&gt;But… we’re still operating under the assumption that’s it’s a good thing to align one’s preferences and one’s decisions — I think that’s a poor assumption.&lt;/p&gt;
+
+&lt;p&gt;Let’s say that you end up randomly choosing a crappy restaurant, or you watch a show or read a post that doesn’t jive with your normal preferences. It’s easy to overlook the fact that you’ve presented yourself with an opportunity to grow. Growth is induced by undergoing small bouts of stress, and always doing what you already know you’ll enjoy is certain to result in personal stagnation and boredom.&lt;/p&gt;
+
+&lt;p&gt;Perhaps you’ll fall in love with the eel sushi at the restaurant you randomly chose, will be inspired to become an entrepreneur after watching a terrific documentary you clicked willy-nilly on the front page of your Netflix account, or will lose 20 lbs through a newfound adoration with running in the minimalist running shoes you haphazardly picked out on Amazon.&lt;/p&gt;
+
+&lt;p&gt;We consistently undervalue the time we spend deciding, underestimate the amount of satisfactory options available, and overvalue the pleasure of an experience that aligns well with our preferences. This brings about a slew of instances wherein we waste an absurd amount of time attempting to figure out ‘which one’ when we would, in reality, be satisfied by most, and likely grow in the instances in which we aren’t satisfied.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Spend less time choosing, and you’ll be rewarded with more time experiencing and growing.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Peace!&lt;/p&gt;
+</description>
+        <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019/the-absurdly-subtle-art-of-picking-a-place-to-eat</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/the-absurdly-subtle-art-of-picking-a-place-to-eat</guid>
+        
+        
+        <category>essay</category>
+        
+      </item>
+    
+      <item>
+        <title>Sport and Invisible Propaganda</title>
+        <description>&lt;p&gt;You know the feeling. You’re at the stadium, the anthem is being sung while a wounded veteran is paraded around next to the professional players. Tears well in your eyes, and it’s as though a balloon filled with liquid pride is gradually expanding in your upper abdomen. It’s incredibly unique – I, frankly, can’t think of more than a handful of instances wherein such a deep appreciation and sense of pride can be brought about in myself as if due to the flip of a switch. But why? Why does every American who’s ever seen a professional sports event know this feeling so vividly and experience it so intensely?&lt;/p&gt;
+
+&lt;p&gt;Noam Chomsky would probably turn to his propaganda model of media for an explanation. In its essence, Chomsky would say, the media’s primary purpose is as a tool to indoctrinate and suppress the masses. Prima facie, perhaps that claim sounds like just another academic spewing some “goddamned anti-American garbage.” But consider for a moment the perspective of a Martian peering down on America from outer space. This Martian would see a truly remarkable concentration of power and wealth within the government and the largest corporations. It seems to follow immediately that because humans are greedy creatures, those entities that control the vast majority of power and wealth in the US would want to continue to control that power and wealth. So then, as the astute Martian would point out, it makes perfect sense that those institutions would utilize a significant amount of the vast resources at their disposal to maintain their respective stakes. Well, as it were, some of the largest companies in the US are media companies. In addition to huge sums of capital, they control massive information distribution networks (e.g. TV, radio, social media, etc…), and the Martian would see that those networks and that capital were being appropriated to mold the public’s conception of the world away from the reality of corporate and governmental fascism and instead inculcate them with docility in order to maintain the status quo of power and wealth. What’s frightening about Chomsky’s model is that it’s coldly rational, unbiased politically, and posits that the existence of the propagandistic media is merely an emergent property of the concentrations of wealth that arise in capitalistic societies.&lt;/p&gt;
+
+&lt;p&gt;Through this lens, let’s take a deeper look at the culture of sports in modern society. Consider a relatively simple question that actually cuts quite deeply into the issue – why are athletes in the NFL paid so much money? Well, perhaps the prima facie answer is that they’re just extremely well qualified on a physical basis, and therefore deserving of special pay. Consider though that professional marathon runners, who are extremely well qualified on a physical basis (perhaps even moreso than NFL players), make vastly less money than NFL players. For example, Tamirat Tola, a 2016 Olympic Bronze medalist from Ethiopia, made a paltry $93,750 in 2018, while Jimmy Garropolo, the QB for the San Francisco 49ers, made $43,100,000. Physical qualification can’t be the answer. However, things become clear when you look at how much sponsorship money is being spent on each sport, and from who that money is coming. The NFL’s sponsorship revenue totaled $1.32 Billion in the 2017-2018 season, while the Professional Road Running Organization’s (PRRO) total prize money available for the 2018 season was a mere $330,000. The NFL’s sponsors are companies like Anheuser-Busch, Castrol, PepsiCo, and Frito-Lay, whereas the PRRO’s sponsors are companies like Publix (a grocery-store chain) and a small credit union in Washington DC. The NFL players are making more money because there’s a helluva lot more institutional money being poured into their market. The natural question to ask then is this: why aren’t companies like Anheuser-Busch and PepsiCo sponsoring the PRRO circuit? Well, it’s because the American public isn’t watching televised marathons – they’re watching their favorite NFL, MLB, NHL, and NBA teams.&lt;/p&gt;
+
+&lt;p&gt;People put a pretty astonishingly large amount of time and mental resources into sports. If you ask your next-door neighbor how your local NFL team is doing, you’re likely to get an extremely articulate and complex response that takes into account the abilities of individual players, the coaching staff’s play calling decisions, the player trading market, etc… They’re probably going to cite specific statistics and be able to discuss intricacies that required hours of observation, research, and thought. And it makes sense – in our society, there are things that people can use their intelligence on, take politics for example, but most can’t really get involved in those things in any meaningful way. So instead, they spend their intelligence on other things that are cognitively intensive, yet also accessible – things like spectator sports. Sports intensely occupy the minds of a vast majority of the population and diffuse a huge amount of latent time and intellectual capacity, which is precisely what the corporate and governmental entities that control the majority of power and wealth would want. So it’s quite natural that companies like Anheuser-Busch and PepsiCo are sponsoring the big spectator sports associations – those associations are doing a wonderful thing in the eyes of such companies. They’re efficiently squandering the time and cognitive effort of the broader populace that could otherwise be used to gain a deeper understanding of reality and potentially organize to bring about change in the upper echelons of power. Furthermore, it makes total sense that the armed forces show up, parade around veterans, and hold subtly nationalist ceremonies – they’re the grandaddy of the entities that have a vested interest in supporting such a quiescence of the broader populace. In an attempt to not inflame passions, I’ll leave that discussion to Chomsky.&lt;/p&gt;
+
+&lt;p&gt;Now let’s return to our initial situation. You’re watching your favorite team play, and you rise for the national anthem. Your heart swells with pride as the talented singer belts the anthem alongside a wounded veteran. With our newfound understanding, though, the sentiment of that situation changes. Spectator sports enforce jingoism, promote consumerism, and indoctrinate an impressionable society to maintain the status quo of power.&lt;/p&gt;
+
+&lt;p&gt;Think before you buy that ticket.&lt;/p&gt;
+
+&lt;p&gt;Peace.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019/sport-and-invisible-propaganda</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/sport-and-invisible-propaganda</guid>
+        
+        
+        <category>essay</category>
+        
+      </item>
+    
+      <item>
+        <title>Savor the Cereal</title>
+        <description>&lt;p&gt;When I was younger, I wasn’t an awesome human being. I didn’t try very hard in any of my classes, I played too many video games, I didn’t read enough, I ate like shit, and I exercised only when I felt so disgusted with myself that it felt like a fucking moral imperative.&lt;/p&gt;
+
+&lt;p&gt;I wanted to unearth my true potential, but I also knew that there wasn’t an ice cube’s chance in hell of that potential being actualized unless I changed my life in a really fundamental way.&lt;/p&gt;
+
+&lt;p&gt;That way came through reading. I forced myself to read 14 books in 2 weeks while working full-time at Amazon, and I learned some cool shit from some great writers like Atul Gawande, Nick Bostrom, and Ray Dalio. The books I read collectively sparked in me a deep-seated desire to re-evaluate my life and create a framework for self improvement.&lt;/p&gt;
+
+&lt;p&gt;That framework manifested itself in an increased drive to do certain thing and undergo periods of harsh self-reflection that then informed plans to create a rigorous routine of hard work and discipline. It also manifested itself in an increased need to consume ideas and thoughts in the form of reading books, Medium articles, blog posts, and Quora answers, watching terrific thought-pieces on YouTube, great documentaries on Netflix, and awesome short-films on Vimeo, and listening to podcasts from some of the great thinkers of our time.&lt;/p&gt;
+
+&lt;p&gt;It. Was. Fucking. Incessant. I spent damn near every waking minute consuming thoughts and ideas. Podcasts for breakfast, Podcasts while I was driving (one earbud out for safety!), YouTube videos during my lunch break, Medium articles as a mental break from coding, and documentaries late at night when I couldn’t focus anymore. I devoured media &lt;em&gt;voraciously.&lt;/em&gt; And this was the “good” media, too. The kind that everyone and their mother tells you to consume instead of the shitty news updates you see on Snapchat, Facebook, Twitter, and Instagram. I used said apps for a combined 10 minutes a day, just to make sure I wasn’t missing out on the US being bombed or some similarly important, historic event.&lt;/p&gt;
+
+&lt;p&gt;I thought I was doing great — being aware and motivated towards self improvement wasn’t the norm for people my age. I felt like I was succeeding in a culture where it was all too common to spend day after day drinking from the endless dopamine-fountain that is social media. &lt;em&gt;**&lt;/em&gt;But for some reason, at the end of every day, I felt just as empty as when I woke up.&lt;/p&gt;
+
+&lt;p&gt;This went on for some time, before I finally realized that I wasn’t &lt;em&gt;being.&lt;/em&gt; I was constantly in the &lt;strong&gt;on&lt;/strong&gt; position — thinking, reading, wondering, journaling, making note of the things that I was learning, engaging with people, etc…&lt;/p&gt;
+
+&lt;p&gt;Not once did I stop. Not once did I &lt;em&gt;smell the goddamn roses&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;So the next day, instead of listening to the new Sam Harris podcast while I scarfed down some cereal in an effort to get to the gym on schedule for my daily routine, I put my phone away and &lt;em&gt;just ate the fucking cereal&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Instead of pondering the ethics of honor culture while listening to the eloquent neuroscience PhD talk on 1.5x speed, I slowed down and tasted every single bite of that bowl of Honey Bunches of Oats that went into my mouth. Every delectable calorie that lay in the bowl below me was appreciated as it crossed my palate and subsequently slid down my gullet.&lt;/p&gt;
+
+&lt;p&gt;Have you ever realized that Honey Bunches of Oats is mostly just Corn Flakes and Frosted Flakes mixed together in an orgy of carbs? I sure as shit know that I hadn’t prior to that fateful morning.&lt;/p&gt;
+
+&lt;p&gt;It was &lt;em&gt;magical&lt;/em&gt; to slow down, be present in the moment, and be aware of how amazing the most mundane stuff in our lives is. I mean, it was &lt;em&gt;cereal&lt;/em&gt; for chrissakes.&lt;/p&gt;
+
+&lt;p&gt;Ever since then, I’ve made sure that I take the time every day to stop being so constantly &lt;strong&gt;on&lt;/strong&gt;and slow down to realize the wonderment that can be seen in every nook and cranny of ordinary being. &lt;strong&gt;That&lt;/strong&gt; is what has made me a better person and realize my potential in a fuller manner. No amount of podcasts, books, or thought-pieces can help you see the miraculous nature of everything we do.&lt;/p&gt;
+
+&lt;p&gt;Consuming is not being.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Savor the cereal.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Peace.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019/savor-the-cereal</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/savor-the-cereal</guid>
+        
+        
+        <category>essay</category>
+        
+      </item>
+    
+      <item>
+        <title>there are no extraterrestrial intelligent beings</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/L3CmtYWO5b4&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019/no-extraterrestrial-intelligent-beings</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/no-extraterrestrial-intelligent-beings</guid>
+        
+        
+        <category>video</category>
+        
+      </item>
+    
+  </channel>
+</rss>

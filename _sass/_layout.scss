@@ -53,10 +53,10 @@ p {
   padding:0;
 
   a {
-    color: #d21717;
+    color: #ff5858;
     &:hover,
     &:focus {
-      color: #E40000;
+      color: #032535;
     }
   }
   .module {
@@ -73,15 +73,20 @@ p {
 
 nav {
   a {
+    color: #e15249 !important;
     padding: 0.4em;
     background: #fff;
+    border: 3px solid #fff;
     display:inline-block;
     &:nth-child(2n) {
       margin: 10px;
     }
     &:hover {
-      background: $link-hover;
-      border: 0;
+      box-sizing: border-box;
+      -moz-box-sizing: border-box;
+      -webkit-box-sizing: border-box;
+      background: #e15249;
+      border: 3px solid #fff;
       color: #fff !important;
       // for now
     }
@@ -107,11 +112,11 @@ nav {
     }
 
     a {
-      color: #000;
+      color: #fff;
       font-weight: normal;
       &:hover,
       &:focus {
-        color: #000;
+        color: #e6e6e6;
       }
     }
 }
@@ -128,6 +133,7 @@ header {
 
 article {
   p {
+    color: #2a2a2b;
     a {
       border-bottom: .125em solid #ccc;
       padding: 0 0 .15em 0;
@@ -135,7 +141,7 @@ article {
       &:hover {
         background: $link-hover;
         border: 0;
-        color: #fff !important;
+        color: #303030 !important;
       }
     }
   }

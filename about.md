@@ -4,8 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+<div><p>I'm an ex-<strong>Research Scientist Intern</strong> at <a href="https://aws.amazon.com/" target="_blank">Amazon</a>, where in the summer of ‘18 I worked on the Data Center Systems team and analyzed the power draw of different components inside of Amazon’s global network of Data Centers. I interned there in the summer of ‘17, too, where I did a large-scale analysis of hard drive failures.</p><p class="" style="white-space:pre-wrap;">I'm a <strong>Venture Partner</strong> for <a href="http://contrarycap.com/" target="_blank">Contrary Capital</a>, a student-led micro VC fund where I source deals and find the best startups at my home institution - the <a href="https://www.colorado.edu/" target="_blank">University of Colorado, Boulder</a>.</p><p class="" style="white-space:pre-wrap;">I interned in a slew of roles at some terrific startups when I was in high school. These include <strong>Graphic Design</strong> @ <a href="http://humandesign.com/" target="_blank">Human Design</a>, <strong>QA Engineering</strong> and <strong>Front-end Development</strong> @ <a href="https://www.wayin.com/" target="_blank">Wayin</a>, and <strong>QA Engineering</strong> @ <a href="https://www.gloo.us/" target="_blank">Gloo</a>.</p><p class="" style="white-space:pre-wrap;">Currently, I'm pursuing a Bachelor's degree in Mathematics with a minor in Astronomy at CU Boulder.</p></div>
