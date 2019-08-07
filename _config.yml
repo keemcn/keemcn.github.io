@@ -1,0 +1,15 @@
+# Site settings
+title:        "More Right"
+description:  "Hi there! Nice to meet you. My name's Keegan, and this is my blog – it's where I write stuff down after I've thought about it for a while. I hope you enjoy!"
+baseurl:      "/blog" # the subpath of your site, e.g. /blog/
+url:          "https://keeganm.org" # the base hostname & protocol for your site
+permalink:    /:year/:title
+github:       ""
+twitter:      "keegan_mcnamara"
+email:        "keemcn1@gmail.com"
+disqus-id:    "" #leave blank if you dont want comments.
+
+# Build settings
+markdown:     kramdown
+sass:
+    style: :compressed
