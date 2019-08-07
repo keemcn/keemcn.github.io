@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Savor the Cereal"
-date:   2019-01-01
+date:   2018-10-21
 categories: essay
 ---
 

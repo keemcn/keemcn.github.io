@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why We Crave a God"
-date:   2019-01-01
+date:   2018-11-10
 categories: essay
 ---
 

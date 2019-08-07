@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "You'll Likely Be a Murderer"
-date:   2019-01-01
+date:   2018-06-24
 categories: essay
 ---
 

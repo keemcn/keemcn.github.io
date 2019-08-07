@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Only Reason College Prestige Matters"
-date:   2019-01-01
+date:   2019-02-01
 categories: essay
 ---
 

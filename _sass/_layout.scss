@@ -6,6 +6,7 @@
 }
 .color3 {
     background: white;
+    border: 5px solid #2a2a2b;
 }
 .color4 {
     background: $green;
@@ -73,9 +74,9 @@ p {
 
 nav {
   a {
-    color: #e15249 !important;
+    color: #fff !important;
     padding: 0.4em;
-    background: #fff;
+    background: #bb1542;
     border: 3px solid #fff;
     display:inline-block;
     &:nth-child(2n) {
@@ -85,9 +86,9 @@ nav {
       box-sizing: border-box;
       -moz-box-sizing: border-box;
       -webkit-box-sizing: border-box;
-      background: #e15249;
+      background: #fff;
       border: 3px solid #fff;
-      color: #fff !important;
+      color: #bb1542 !important;
       // for now
     }
   }
@@ -116,7 +117,7 @@ nav {
       font-weight: normal;
       &:hover,
       &:focus {
-        color: #e6e6e6;
+        color: #fff;
       }
     }
 }

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Hidden People"
-date:   2019-01-01
+date:   2018-04-19
 categories: essay
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "traveling as an antidote"
-date:   2019-01-01
+date:   2018-08-01
 categories: video
 ---
 

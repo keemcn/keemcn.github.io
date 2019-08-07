@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sport and Invisible Propaganda"
-date:   2019-01-01
+date:   2019-05-27
 categories: essay
 ---
 
