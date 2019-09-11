@@ -5,8 +5,6 @@ date:   2018-07-10
 categories: essay
 ---
 
-Ah, the lunch break. The ubiquitously celebrated opportunity to devour a few delectably taste-filled calories prior to returning to a 9--5 job is a daily occurrence that most employees look forward to with total and utter delight --- until, of course, one realizes that one must decide on a place to stuff one's face...
-
 *...it's already noon?*
 
 Ah, the lunch break. The ubiquitously celebrated opportunity to devour a few delectably taste-filled calories prior to returning to a 9--5 job is a daily occurrence that most employees look forward to with total and utter delight --- until, of course, one realizes that one must *decide* on a place to stuff one's face.
