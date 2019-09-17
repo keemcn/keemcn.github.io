@@ -15,7 +15,7 @@ That framework manifested itself in an increased drive to do certain thing and u
 
 It. Was. Fucking. Incessant. I spent damn near every waking minute consuming thoughts and ideas. Podcasts for breakfast, Podcasts while I was driving (one earbud out for safety!), YouTube videos during my lunch break, Medium articles as a mental break from coding, and documentaries late at night when I couldn't focus anymore. I devoured media *voraciously.* And this was the "good" media, too. The kind that everyone and their mother tells you to consume instead of the shitty news updates you see on Snapchat, Facebook, Twitter, and Instagram. I used said apps for a combined 10 minutes a day, just to make sure I wasn't missing out on the US being bombed or some similarly important, historic event.
 
-I thought I was doing great --- being aware and motivated towards self improvement wasn't the norm for people my age. I felt like I was succeeding in a culture where it was all too common to spend day after day drinking from the endless dopamine-fountain that is social media. ****But for some reason, at the end of every day, I felt just as empty as when I woke up.
+I thought I was doing great --- being aware and motivated towards self improvement wasn't the norm for people my age. I felt like I was succeeding in a culture where it was all too common to spend day after day drinking from the endless dopamine-fountain that is social media. But for some reason, at the end of every day, I felt just as empty as when I woke up.
 
 This went on for some time, before I finally realized that I wasn't *being.* I was constantly in the **on** position --- thinking, reading, wondering, journaling, making note of the things that I was learning, engaging with people, etc...
 
@@ -29,7 +29,7 @@ Have you ever realized that Honey Bunches of Oats is mostly just Corn Flakes and
 
 It was *magical* to slow down, be present in the moment, and be aware of how amazing the most mundane stuff in our lives is. I mean, it was *cereal* for chrissakes.
 
-Ever since then, I've made sure that I take the time every day to stop being so constantly **on**and slow down to realize the wonderment that can be seen in every nook and cranny of ordinary being. **That** is what has made me a better person and realize my potential in a fuller manner. No amount of podcasts, books, or thought-pieces can help you see the miraculous nature of everything we do.
+Ever since then, I've made sure that I take the time every day to stop being so constantly **on** and slow down to realize the wonderment that can be seen in every nook and cranny of ordinary being. **That** is what has made me a better person and realize my potential in a fuller manner. No amount of podcasts, books, or thought-pieces can help you see the miraculous nature of everything we do.
 
 Consuming is not being.
 
