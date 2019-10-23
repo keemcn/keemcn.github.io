@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
   <channel>
     <title>More Right</title>
-    <description>Hi there! Nice to meet you. My name's Keegan, and this is my blog – it's where I write stuff down after I've thought about it for a while. I hope you enjoy!</description>
+    <description>My name's Keegan, and this is my blog – it's where I write stuff down after I've thought about it for a while. Hope you get something useful out of your time here!</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 21 Oct 2019 21:46:59 +0800</pubDate>
-    <lastBuildDate>Mon, 21 Oct 2019 21:46:59 +0800</lastBuildDate>
+    <pubDate>Wed, 23 Oct 2019 21:45:43 +0800</pubDate>
+    <lastBuildDate>Wed, 23 Oct 2019 21:45:43 +0800</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
-        <title>my essay in Palladium Magazine</title>
+        <title>My Essay in Palladium Magazine</title>
         <description>&lt;p&gt;I wrote a piece for Palladium about the video game industry, the increasingly exploitative tools it uses to gain/retain users, and why we need change. Read it &lt;a href=&quot;https://palladiummag.com/2019/09/12/the-siren-call-of-video-games-amid-decaying-social-fabric/&amp;quot;&quot;&gt;here&lt;/a&gt;!&lt;/p&gt;
 </description>
         <pubDate>Fri, 13 Sep 2019 00:00:00 +0800</pubDate>

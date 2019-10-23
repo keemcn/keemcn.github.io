@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "my essay in Palladium Magazine"
+title:  "My Essay in Palladium Magazine"
 date:   2019-09-13
 categories: essay
 ---
