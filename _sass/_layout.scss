@@ -11,7 +11,10 @@
     background: white;
     border: $box-width solid $dark-grey;
     a {
-      color: $highlight !important;
+      color: $highlight;
+    }
+    .highlight {
+      color: $highlight;
     }
 }
 .color4 {
@@ -147,17 +150,35 @@ header {
 article {
   padding-left: $spacing-unit*2 !important;
   padding-right: $spacing-unit*2 !important;
+  h1 {
+    color: $highlight;
+  }
   li {
     color: $dark-grey;
     font-family: $serif-font-family;
     font-size: $base-font-size * .85;
+    line-height: 2em;
+    a {
+      border-bottom: .125em solid #ccc;
+      padding: 0 0 .125em 0;
+      display: inline;
+      color: $highlight !important;
+      &:hover {
+        background: $link-hover;
+        border: 0;
+        color: #303030 !important;
+      }
+    }
   }
-  span {
+  span.tag-or-cat {
     border: 1px solid $dark-grey;
     display: inline-block;
     padding: .3em;
     margin: .15em;
     font-size: $base-font-size * .7;
+    a {
+      color: $dark-grey !important;
+    }
   }
   p {
     

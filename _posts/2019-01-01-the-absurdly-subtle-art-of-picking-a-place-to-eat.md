@@ -3,7 +3,7 @@ layout: post
 title:  "The Absurdly Subtle Art of Picking a Place to Eat"
 date:   2018-07-10
 category: essay
-tags: []
+tags: [self-improvement,social-observation]
 ---
 
 *...it's already noon?*

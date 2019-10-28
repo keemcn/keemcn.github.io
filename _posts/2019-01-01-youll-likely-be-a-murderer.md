@@ -3,7 +3,7 @@ layout: post
 title:  "You'll Likely Be a Murderer"
 date:   2018-06-24
 category: essay
-tags: []
+tags: [artificial-intelligence,philosophy]
 ---
 
 **We have no clue what AI will be able to do in the future.** It is young. And while we humans do, indeed, have fancy people working on making fancy new tech that does fancy stuff, no one has produced anything that even remotely resembles human-level general cognitive capabilities (the word *general* is important there, because we sure as hell get our asses kicked by computers at Go, chess, and a multitude of other "narrow" tasks and activities). Nothing created thus far has been able to perform as well as an average human would at any "general" task.

@@ -2,12 +2,49 @@
 <rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
   <channel>
     <title>More Right</title>
-    <description>My name's Keegan, and this is my blog – it's where I write stuff down after I've thought about it for a while. Hope you get something useful out of your time here!</description>
+    <description>My name's Keegan, and this is my blog – it's where I write stuff down after I've given it some thought. Hope you get something useful out of your time here!</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 28 Oct 2019 18:45:29 +0800</pubDate>
-    <lastBuildDate>Mon, 28 Oct 2019 18:45:29 +0800</lastBuildDate>
+    <pubDate>Tue, 29 Oct 2019 00:31:04 +0800</pubDate>
+    <lastBuildDate>Tue, 29 Oct 2019 00:31:04 +0800</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>A new era of more right</title>
+        <description>&lt;h3 id=&quot;an-explanation&quot;&gt;an explanation&lt;/h3&gt;
+
+&lt;p&gt;Today is the day that I begin surfacing words from my personal reflection-journal/digital-thought-notebook thing. I have a (sort of) daily cadence of writing in it, because doing so helps me keep my head on straight. If I don’t work through the ambient thoughts in my brain in a systematic way like this, the thoughts either implode into nothingness or explode into existential and epistemic anxiety. Both of those outcomes are bad.&lt;/p&gt;
+
+&lt;p&gt;Plus, I tweeted &lt;a href=&quot;https://twitter.com/keegan_mcnamara/status/1188337574299013120&quot;&gt;this&lt;/a&gt; the other day, so I figured that instead of perpetuating the problems I pointed out, I’d start trying to solve them.&lt;/p&gt;
+
+&lt;p&gt;A large part of me hates disturbing the former serenity and distilled nature of this website with something as filthy and unkempt as mere &lt;em&gt;thoughts&lt;/em&gt; and &lt;em&gt;reflections&lt;/em&gt; (the bile bubbles to the back of my throat as I type), but I’ve decided that if there’s any net positive effect on humanity as a result of my making such things public, then I ought to do it. As anyone who has taken an Analysis course knows, net positivity is not difficult to do ( &lt;script type=&quot;math/tex&quot;&gt;\forall \epsilon &gt; 0,\exists...&lt;/script&gt;), so I think I indeed ought to start.&lt;/p&gt;
+
+&lt;h3 id=&quot;some-changes&quot;&gt;some changes&lt;/h3&gt;
+&lt;p&gt;I’d still like there to be features that allow for some semblance of filterability on my writings, so I’ve added a &lt;a href=&quot;https://keeganm.org/categories&quot;&gt;categories&lt;/a&gt; page and a &lt;a href=&quot;https://keeganm.org/tags&quot;&gt;tags&lt;/a&gt; page. Implementing categories and tags from scratch in Jekyll was a bit of a pain in the ass, but I think it’ll be worth it in the longer term. I also have a fair number of thoughts about math and physics-related things, so I added MathJax support (do you even &lt;script type=&quot;math/tex&quot;&gt;\LaTeX&lt;/script&gt;, bro?) for when I desperately need to reminisce on the days I spent breathing in toxic amounts of &lt;a href=&quot;https://www.youtube.com/watch?v=PhNUjg9X4g8&quot;&gt;Hagoromo&lt;/a&gt; dust. Again, Jekyll is kind of a pain in the ass to do stuff like this with, but as my good friend Brennie would say, the ‘worth is high’.&lt;/p&gt;
+
+&lt;p&gt;I’ll be categorizing these more spontaneous thoughts and writings as ‘posts’, as opposed to the far more time-consuming to produce ‘essays’ and ‘videos’. Perhaps someday I’ll gather the courage to put my poetry and prose on here. We’ll see.&lt;/p&gt;
+
+&lt;p&gt;I’ve also changed the look and feel of the site. More specifically…&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;I changed the paragraph font to what I consider the most beautiful of all serifs, Libre Baskerville. I previously used Helvetica, which is nice for headings, but miserable to read for long periods of time. Such is the life of a sans.&lt;/li&gt;
+  &lt;li&gt;I removed all of the colors from the site, with the notable exception of salmon (&lt;span style=&quot;color: #ff5858;&quot;&gt;#ff5858&lt;/span&gt;). I use the same salmon color on my &lt;a href=&quot;https://twitter.com/keegan_mcnamara&quot;&gt;twitter profile&lt;/a&gt;, and I enjoy having a cohesive brand identity in this one, very limited way. I’m also a proponent of design minimalism, which leads me to…&lt;/li&gt;
+  &lt;li&gt;I thinned out all of the lines used for bounding boxes. This allows the elements on the screen to breathe, and it also focuses attention on the ones that matter. The bounding boxes themselves are actually totally unnecessary, but I like how they demarcate territory and group related elements together. They’re also somewhat of an homage to Engelbart and Kay’s invention of the notion of ‘windows’ for computer graphical user interfaces (read more &lt;a href=&quot;https://en.wikipedia.org/wiki/History_of_the_graphical_user_interface&quot;&gt;here&lt;/a&gt;). Rectangles are cool.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;That’s everything pertinent that I can think of for the moment. Sláinte!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 28 Oct 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019/a-new-era-of-more-right</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/a-new-era-of-more-right</guid>
+        
+        <category>meta</category>
+        
+        <category>design</category>
+        
+        
+        <category>post</category>
+        
+      </item>
     
       <item>
         <title>My Essay in Palladium Magazine</title>
@@ -45,6 +82,8 @@
         <pubDate>Mon, 27 May 2019 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/2019/sport-and-invisible-propaganda</link>
         <guid isPermaLink="true">http://localhost:4000/2019/sport-and-invisible-propaganda</guid>
+        
+        <category>social-observation</category>
         
         
         <category>essay</category>
@@ -97,6 +136,10 @@
         <link>http://localhost:4000/2019/the-only-reason-college-prestige-matters</link>
         <guid isPermaLink="true">http://localhost:4000/2019/the-only-reason-college-prestige-matters</guid>
         
+        <category>college</category>
+        
+        <category>social-observation</category>
+        
         
         <category>essay</category>
         
@@ -140,6 +183,8 @@
         <link>http://localhost:4000/2018/savor-the-cereal</link>
         <guid isPermaLink="true">http://localhost:4000/2018/savor-the-cereal</guid>
         
+        <category>self-improvement</category>
+        
         
         <category>essay</category>
         
@@ -153,6 +198,10 @@
         <link>http://localhost:4000/2018/no-extraterrestrial-intelligent-beings</link>
         <guid isPermaLink="true">http://localhost:4000/2018/no-extraterrestrial-intelligent-beings</guid>
         
+        <category>artificial-intelligence</category>
+        
+        <category>philosophy</category>
+        
         
         <category>video</category>
         
@@ -165,6 +214,10 @@
         <pubDate>Wed, 01 Aug 2018 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/2018/traveling-as-an-antidote</link>
         <guid isPermaLink="true">http://localhost:4000/2018/traveling-as-an-antidote</guid>
+        
+        <category>self-improvement</category>
+        
+        <category>travel</category>
         
         
         <category>video</category>
@@ -214,6 +267,10 @@
         <pubDate>Tue, 10 Jul 2018 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/2018/the-absurdly-subtle-art-of-picking-a-place-to-eat</link>
         <guid isPermaLink="true">http://localhost:4000/2018/the-absurdly-subtle-art-of-picking-a-place-to-eat</guid>
+        
+        <category>self-improvement</category>
+        
+        <category>social-observation</category>
         
         
         <category>essay</category>
@@ -282,6 +339,10 @@
         <link>http://localhost:4000/2018/youll-likely-be-a-murderer</link>
         <guid isPermaLink="true">http://localhost:4000/2018/youll-likely-be-a-murderer</guid>
         
+        <category>artificial-intelligence</category>
+        
+        <category>philosophy</category>
+        
         
         <category>essay</category>
         
@@ -349,30 +410,9 @@
         <link>http://localhost:4000/2018/why-we-crave-a-god</link>
         <guid isPermaLink="true">http://localhost:4000/2018/why-we-crave-a-god</guid>
         
+        <category>grief</category>
         
-        <category>essay</category>
-        
-      </item>
-    
-      <item>
-        <title>The Hidden People</title>
-        <description>&lt;p&gt;It’s early on a Monday morning, and I’m pretending to text on my phone so as to not arouse suspicion amongst the physical elite, the so-called “human specimens” of The University of Colorado, Boulder. Upon first glance, I appear to be a normal gym-goer, simply taking a break in-between sets. If one were to watch me for a little while however, they would soon notice that I’m subtly jotting down notes in short bursts about the very same people who are passing me judgmental glances in an effort to reinforce their alpha-male delusions. If it’s not evident by now, I’m in the weight room of the CU Boulder Rec center at roughly 6:15 AM, which I have concluded to be CU’s premier time and place for muscle-heads and health-freaks alike to unite.&lt;/p&gt;
-
-&lt;p&gt;As I walk around from machine, to water fountain, to weight rack, to water fountain, again and again, I start to notice a few anomalies in my prior evaluation of the gym populace. Like voles, stealthily sneaking through the brush in their naturally camouflaged fur, a few older folks have been here the entire time, quietly avoiding recognition. I first notice one elderly woman in particular, unassumingly donning a pair of jeans and impossibly white New Balance sneakers, slowly lifting a pair of two pound weights that do not even have their own place reserved on the dumb-bell rack. Her motions are slow, yet ever so deliberate. She lifts the weights in precisely controlled movements that exemplify fine motor control. In blindingly stark contrast, I glance immediately to the right and see Arnold Schwarzenegger’s body double doing bicep curls with alternating arms at a rate that can only be compared to that of a jackhammer. He flails his arms around like a cockroach eternally stuck on its hard shell back — a testament to truly horrendous form. But he couldn’t care less. He’s getting gains, bro, and that’s like all that matters, amirite? Arnold 2.0 draws much more attention to himself and his bro-tank than the seemingly delicate old woman.&lt;/p&gt;
-
-&lt;p&gt;As this singular example starts to lose my interest, my view starts to widen, and the pattern begins to develop. I see the same structure emerge everywhere — an elderly member of society, obscured by a dude or dudette blowing through sets at an alarmingly fast rate with form whose long term effects they’ll start to feel in their lower backs around age 35. It’s a supremely interesting dichotomy, and one that I believe arises, in part, from cultural norms spread and perpetuated by the media.&lt;/p&gt;
-
-&lt;p&gt;To begin to understand why I focused so immediately on solely the beefcakes who were much stronger than I is to begin to understand why such an odd division arises each morning at 6:15. In such an endeavor, we must firstly examine a few prior biases unbeknownst to me at the time of initial observation. I’m a very averagely fit person who has a constant voice in the back of my head prodding me to, “Just go to the gym, you utter sloth.” That voice, that constant reminder that I should be doing more to improve my physical health, is not biologically pre-programmed. The modern day culture that tells us fitness directly corresponds with beauty and human worth is what drives it. Wanting to be healthy for the sake of elongating my lifespan or for the purpose of having a more constant and better supply of energy and nutrients to fuel my body and brain? Hell no, that’s not important. Rather, every commercial, movie, magazine, and even radio ad my brain has soaked in over the past 20 years has reinforced the idea that I need to possess the physique of a greek god in order to maintain any sort of happiness or success in my life. That mentality carried over into my subconscious as I stepped into the gym, and it placed my focus on the so-called “role models” I have been taught to exemplify. My natural tendency was to see only what I should want to be and struggle to realize that other people even existed in this space.&lt;/p&gt;
-
-&lt;p&gt;The exact same mentality that I just discussed is, I believe, one that infects the minds of nearly every single person that lives in the United States. The people I was gawking at had, to some degree, succumbed to their own little prodding voices. I’m not sure if it’s through a will stronger than the general public that they have achieved their physicality or, conversely, if it’s through a mind weaker than that of the general public. It’s too preliminary for me to make such a call. And, it’s important to note, there must be exceptions. Surely there are some people in the room that are at the gym simply because they love it, simply because they strive to make their own bodies stronger and reap the benefits of a wholly healthier lifestyle, rather than so that they fulfill some fantasy created by modern culture. However, my best guess is that those kinds of people constitute the minority.&lt;/p&gt;
-
-&lt;p&gt;People hide in plain sight everywhere — you just need to look a bit deeper to find them.&lt;/p&gt;
-
-&lt;p&gt;Peace.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 19 Apr 2018 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2018/the-hidden-people</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/the-hidden-people</guid>
+        <category>religion</category>
         
         
         <category>essay</category>

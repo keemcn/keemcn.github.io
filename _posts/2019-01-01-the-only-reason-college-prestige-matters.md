@@ -3,7 +3,7 @@ layout: post
 title:  "The Only Reason College Prestige Matters"
 date:   2019-02-01
 category: essay
-tags: []
+tags: [college,social-observation]
 ---
 
 Harvard. Stanford. MIT. Princeton. Yale. Northwestern. Johns Hopkins. UChicago. Berkeley. Columbia. Dartmouth.

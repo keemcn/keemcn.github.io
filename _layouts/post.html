@@ -5,9 +5,9 @@ layout: default
 <article class="color3 module">
   <a href="{{ page.url }}"><h1>{{ page.title }}</h1></a>
     <div>
-      <span>{{ page.category }}</span>
+      <span class="tag-or-cat"><a href="/categories/#{{ page.category }}">{{ page.category }}</a></span>
       {% for tag in page.tags %}
-        <span>{{ tag }}</span>
+        <span class="tag-or-cat"><a href="/tags/#{{ tag }}">{{ tag }}</a></span>
       {% endfor %}
     </div>
   <time>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</time>
@@ -15,8 +15,4 @@ layout: default
   {{ content }}
 </article>
 
-<!-- {% include disqus.html %} -->
-
-<!-- {% for tag in page.tags %}
-  <a href="#{{ tag | slugify }}"> {{ tag }} </a>
-{% endfor %} -->
+<!--  include disqus.html  -->

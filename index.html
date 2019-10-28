@@ -5,11 +5,12 @@ layout: default
 {% for post in site.posts limit:1 %}
   <article class="module color3">
     <h2>
-      <a class="red" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      <a class="highlight" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
     </h2>
     <time>{{ post.date| date: "%m/%d/%Y" }}</time>
     <p>
-      {{ post.content | strip_html | truncate: 250 }}
+      <!-- {{ post.content | strip_html | truncate: 250 }} -->
+      {{post.preview}}
     </p>
   </article>
 {% endfor %}
@@ -17,7 +18,7 @@ layout: default
 {% for post in site.posts offset:1 limit:4 %}
   <article class="module color3">
     <h2>
-      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      <a class="highlight" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
     </h2>
     <time>{{ post.date| date: "%m/%d/%Y" }}</time>
 </article>

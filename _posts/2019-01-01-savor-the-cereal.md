@@ -3,7 +3,7 @@ layout: post
 title:  "Savor the Cereal"
 date:   2018-10-21
 category: essay
-tags: []
+tags: [self-improvement]
 ---
 
 When I was younger, I wasn't an awesome human being. I didn't try very hard in any of my classes, I played too many video games, I didn't read enough, I ate like shit, and I exercised only when I felt so disgusted with myself that it felt like a fucking moral imperative.

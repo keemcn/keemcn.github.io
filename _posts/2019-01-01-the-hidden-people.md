@@ -3,7 +3,7 @@ layout: post
 title:  "The Hidden People"
 date:   2018-04-19
 category: essay
-tags: []
+tags: [college,social-observation]
 ---
 
 It’s early on a Monday morning, and I’m pretending to text on my phone so as to not arouse suspicion amongst the physical elite, the so-called “human specimens” of The University of Colorado, Boulder. Upon first glance, I appear to be a normal gym-goer, simply taking a break in-between sets. If one were to watch me for a little while however, they would soon notice that I’m subtly jotting down notes in short bursts about the very same people who are passing me judgmental glances in an effort to reinforce their alpha-male delusions. If it’s not evident by now, I’m in the weight room of the CU Boulder Rec center at roughly 6:15 AM, which I have concluded to be CU’s premier time and place for muscle-heads and health-freaks alike to unite.
