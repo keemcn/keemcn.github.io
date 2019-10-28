@@ -2,7 +2,8 @@
 layout: post
 title:  "The Absurdly Subtle Art of Picking a Place to Eat"
 date:   2018-07-10
-categories: essay
+category: essay
+tags: []
 ---
 
 *...it's already noon?*

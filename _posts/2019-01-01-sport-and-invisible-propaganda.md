@@ -2,7 +2,8 @@
 layout: post
 title:  "Sport and Invisible Propaganda"
 date:   2019-05-27
-categories: essay
+category: essay
+tags: []
 ---
 
 You know the feeling. You're at the stadium, the anthem is being sung while a wounded veteran is paraded around next to the professional players. Tears well in your eyes, and it's as though a balloon filled with liquid pride is gradually expanding in your upper abdomen. It's incredibly unique – I, frankly, can't think of more than a handful of instances wherein such a deep appreciation and sense of pride can be brought about in myself as if due to the flip of a switch. But why? Why does every American who's ever seen a professional sports event know this feeling so vividly and experience it so intensely?

@@ -2,7 +2,8 @@
 layout: post
 title:  "Why We Crave a God"
 date:   2018-6-10
-categories: essay
+category: essay
+tags: []
 ---
 
 About a month ago, my family and I had to put down one of our dogs. Directly afterwards, I wrote a few sentences about how it felt.

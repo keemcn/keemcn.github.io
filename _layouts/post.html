@@ -4,9 +4,19 @@ layout: default
 
 <article class="color3 module">
   <a href="{{ page.url }}"><h1>{{ page.title }}</h1></a>
-  <hr>
+    <div>
+      <span>{{ page.category }}</span>
+      {% for tag in page.tags %}
+        <span>{{ tag }}</span>
+      {% endfor %}
+    </div>
+    <br>
   <time>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</time>
   {{ content }}
 </article>
 
 <!-- {% include disqus.html %} -->
+
+<!-- {% for tag in page.tags %}
+  <a href="#{{ tag | slugify }}"> {{ tag }} </a>
+{% endfor %} -->

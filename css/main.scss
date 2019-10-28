@@ -10,17 +10,15 @@ $base-font-family:  sans-serif;
 $serif-font-family: 'Libre Baskerville', serif;
 $base-font-size:    22px;
 $base-line-height:  1.6;
+$box-width:         2px;
 $link-hover:        #fff;
 $spacing-unit:      1.5em;
-$salmon:            #ff5858;
-$purple:            #61234e;
-$rose:              #bb1542;
+// $salmon:            #ff5858;
+// $purple:            #61234e;
+// $rose:              #bb1542;
 $dark-grey:         #2a2a2b;
+$light-grey:        #bdc3c7;
 $highlight:         #ff5858;
-// $highlight:         #0962ea;
-// $salmon:            #2c3e50;
-// $purple:            #34495e;
-// $rose:             #3498db;
 $body-background:   #fff;
 
 // Import partials from `sass_dir` (defaults to `_sass`)

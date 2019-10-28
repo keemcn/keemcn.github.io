@@ -5,8 +5,8 @@
     <description>My name's Keegan, and this is my blog – it's where I write stuff down after I've thought about it for a while. Hope you get something useful out of your time here!</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 25 Oct 2019 01:42:48 +0800</pubDate>
-    <lastBuildDate>Fri, 25 Oct 2019 01:42:48 +0800</lastBuildDate>
+    <pubDate>Mon, 28 Oct 2019 18:17:23 +0800</pubDate>
+    <lastBuildDate>Mon, 28 Oct 2019 18:17:23 +0800</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -16,6 +16,10 @@
         <pubDate>Fri, 13 Sep 2019 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/2019/palladium-piece</link>
         <guid isPermaLink="true">http://localhost:4000/2019/palladium-piece</guid>
+        
+        <category>gaming</category>
+        
+        <category>governance</category>
         
         
         <category>essay</category>
