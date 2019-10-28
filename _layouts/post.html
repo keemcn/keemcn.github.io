@@ -10,8 +10,8 @@ layout: default
         <span>{{ tag }}</span>
       {% endfor %}
     </div>
-    <br>
   <time>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</time>
+  <br>
   {{ content }}
 </article>
 
