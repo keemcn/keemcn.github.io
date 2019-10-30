@@ -1,11 +1,14 @@
 .color1 {
     background: white;
-    border: $box-width solid $dark-grey;
+    border: $box-width solid $dark-grey;    
 }
 .color2 {
     background: white;
     border: $box-width solid $dark-grey;
     color: $dark-grey;
+    font-family: $serif-font-family;
+    padding: $spacing-unit*1.2 !important;
+    // font-size: $base-font-size;
 }
 .color3 {
     background: white;
@@ -16,6 +19,9 @@
     .highlight {
       color: $highlight;
     }
+    // .homepage {
+    //   padding-left: $spacing-unit*2 !important;
+    // }
 }
 .color4 {
     background: white;
@@ -138,6 +144,7 @@ header {
   background: white;
   border: $box-width solid $dark-grey;
   color: $highlight;
+  padding: $spacing-unit*1.2 !important;
   // text-shadow: 2.2px 2.2px 0 #565659, 4.5px 4.5px 0 #b3b3ba;
 }
 
@@ -148,15 +155,15 @@ header {
 /*****************************************************************************/
 
 article {
-  padding-left: $spacing-unit*2 !important;
-  padding-right: $spacing-unit*2 !important;
+  padding-left: $spacing-unit*3 !important;
+  padding-right: $spacing-unit*3 !important;
   h1 {
     color: $highlight;
   }
   li {
     color: $dark-grey;
     font-family: $serif-font-family;
-    font-size: $base-font-size * .85;
+    font-size: $base-font-size * .9;
     line-height: 2em;
     a {
       border-bottom: .125em solid #ccc;
@@ -175,7 +182,7 @@ article {
     display: inline-block;
     padding: .3em;
     margin: .15em;
-    font-size: $base-font-size * .7;
+    font-size: $base-font-size * .8;
     a {
       color: $dark-grey !important;
     }
@@ -185,7 +192,7 @@ article {
     line-height: 2em;
     color: $dark-grey;
     font-family: $serif-font-family;
-    font-size: $base-font-size * .85;
+    font-size: $base-font-size * .9;
     a {
       border-bottom: .125em solid #ccc;
       padding: 0 0 .125em 0;
@@ -203,8 +210,9 @@ article {
 time {
     color: $dark-grey;
     position: absolute;
-    top: 0.75em;
-    right: 0.75em;
+    top: 1.2em;
+    right: 1.2em;
+    font-size: $base-font-size * .9;
 }
 
 hr {

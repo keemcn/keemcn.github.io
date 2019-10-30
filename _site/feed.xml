@@ -5,9 +5,38 @@
     <description>My name's Keegan, and this is my blog – it's where I write stuff down after I've given it some thought. Hope you get something useful out of your time here!</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 29 Oct 2019 00:31:04 +0800</pubDate>
-    <lastBuildDate>Tue, 29 Oct 2019 00:31:04 +0800</lastBuildDate>
+    <pubDate>Wed, 30 Oct 2019 11:41:38 +0800</pubDate>
+    <lastBuildDate>Wed, 30 Oct 2019 11:41:38 +0800</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>Literature as evidence</title>
+        <description>&lt;p&gt;There is a long history of social-scientists using literature as foundational evidence for their ideas and theories. If you want proof of such a claim, go take a look at the now archaic &lt;em&gt;Totem and Taboo&lt;/em&gt; or even the OG &lt;em&gt;Communist Manifesto&lt;/em&gt;. For a more modern version, just crack open &lt;em&gt;Things Hidden since the Foundation of the World&lt;/em&gt;. You’ll be inundated.&lt;/p&gt;
+
+&lt;p&gt;At first, this seems laughable. Literature? As scientific evidence? Aren’t most great works of literature &lt;em&gt;fictional?&lt;/em&gt; How can something fictional possibly be used rigorously?&lt;/p&gt;
+
+&lt;p&gt;Alas, it cannot! Obviously, one should not use fictional literature as &lt;em&gt;rigorous, scientific&lt;/em&gt; evidence in the sense of ‘providing explicit information about an event or occurrence.’ If I claim that Alice killed Bob (the poor bastard), and then justify my claim by citing a classic Dostoevsky novel where Alice kills Bob (in this hypothetical world, such a novel exists), you’d rightly inform me of my idiocy.&lt;/p&gt;
+
+&lt;p&gt;As scholars of the humanities and social sciences love to point out, rigorous science isn’t everything. Speaking from experience, this is a hard pill to swallow. Despite the fact that extracting precise scientific value from literature is nearly impossible, literature does have an interesting characteristic that allows for the embedding and subsequent extraction of useful information.&lt;/p&gt;
+
+&lt;p&gt;The characteristic of which I speak stems from the fact that literature is a subset of books, and books are &lt;a href=&quot;https://en.wikipedia.org/wiki/Lindy_effect&quot;&gt;Lindy&lt;/a&gt;. This means that any literature in the zeitgeist of the current day has survived the cumulative literary scrutiny of all human beings who lived between the publishing of such literature and now. This is an extremely difficult thing to do, which is why we see such a tiny number of pieces of older literature that have maintained their high graces in the cultural tastes of every era since they were published.&lt;/p&gt;
+
+&lt;p&gt;This is a useful trait! We can roughly deduce that old literature that has been in the zeitgeist for a long time encodes something deep about the preferences of human beings. I suspect this is the utility that people like Freud, Marx, and Girard see in it. Analyzing literature is then akin to analyzing a highly-agreed-upon version of human values and preferences, something that is extremely valuable if you’re studying human values and preferences.&lt;/p&gt;
+
+&lt;p&gt;The next time that you encounter a claim that makes use of literature for evidence, do your best to evaluate it while keeping the above characteristic in mind. Social science often seems like useless and obscurantist gobbledegook, but some of the people that operate in this space know what they’re doing, and their ideas are good.&lt;/p&gt;
+
+&lt;p&gt;Sláinte!&lt;/p&gt;
+</description>
+        <pubDate>Tue, 29 Oct 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019/literature-as-evidence</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/literature-as-evidence</guid>
+        
+        <category>literature</category>
+        
+        
+        <category>post</category>
+        
+      </item>
     
       <item>
         <title>A new era of more right</title>
@@ -342,77 +371,6 @@
         <category>artificial-intelligence</category>
         
         <category>philosophy</category>
-        
-        
-        <category>essay</category>
-        
-      </item>
-    
-      <item>
-        <title>Why We Crave a God</title>
-        <description>&lt;p&gt;About a month ago, my family and I had to put down one of our dogs. Directly afterwards, I wrote a few sentences about how it felt.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;My dog died today. It’s a relatively common occurrence, both throughout history and in modern society, but the grief and pain you feel still seems impossible.&lt;/p&gt;
-
-  &lt;p&gt;The kennel is empty, and everything still smells like her. Her blankets are folded neatly in a pile. I touched her face when she was dead and her body was being taken away. It hurts.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Dark as hell, right? She was the best friend I’d ever had, and was there for me from the time I was starting kindergarten until the time that I was more than halfway through college. She was a fluffy, soft, and kind source of abundant joy. Losing someone like that is &lt;strong&gt;never&lt;/strong&gt; easy.&lt;/p&gt;
-
-&lt;p&gt;When you love something, whether it be a pet, a family member, a friend, or anything else you may come to care about deeply, you hope that whatever it is will be eternally happy after they depart from conscious experience on Earth.&lt;/p&gt;
-
-&lt;p&gt;The thought of them being genuinely gone, forever, is incomprehensible in the moments and days after they pass. You crave something that will make such a thought go away forever. You want an easy way out — something that society as a whole tells you is okay, normal and totally logical to believe.&lt;/p&gt;
-
-&lt;p&gt;So, you turn to your religion.&lt;/p&gt;
-
-&lt;p&gt;I’m an atheist. But I grew up Lutheran and went to church every Sunday because it was just the thing that everyone did. Despite the insane boredom I felt sitting at the pew while listening to grown-ups talk about things I didn’t understand, I &lt;em&gt;did&lt;/em&gt; understand that dressing up slightly fancily and dragging my ass to that place meant being part of a &lt;strong&gt;community.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;I went to youth group every week &lt;strong&gt;not&lt;/strong&gt; because I believed in ‘&lt;em&gt;christ the almighty savior of heaven and earth’,&lt;/em&gt; but instead because I could hang out with my friends and eat snacks. But those people and snacks were tempting — they drew me in again and again.&lt;/p&gt;
-
-&lt;p&gt;My religious experience was an overwhelmingly positive one, to be sure. I made many terrific friends, met many genuinely amazing humans, and was part of a broader community that accepted people of every background conceivable. It sounds weird to say this aloud, but discrimination on grounds of sexual orientation or gender was completely anathema to my church. I vividly recall the day when we announced that we were an ‘LGBTQ+ ally church.’ There was a placard and everything — It’s still hanging there today.&lt;/p&gt;
-
-&lt;p&gt;Everything that I had heard about the christian church being a place filled with vile people who harbored disgusting outlooks about other members of the human race seemed totally and unequivocally &lt;strong&gt;false&lt;/strong&gt; given my personal experience.&lt;/p&gt;
-
-&lt;p&gt;That said, in every pew there were about 20 copies of the bible. &lt;strong&gt;THE BIBLE&lt;/strong&gt;. &lt;em&gt;the big kahuna.&lt;/em&gt; &lt;strong&gt;the head honcho&lt;/strong&gt;. the top dog.&lt;/p&gt;
-
-&lt;p&gt;There were roughly 600 copies of that book in the church—a book that contains pieces of disgusting, vitriolic garbage. There are things like 1 Peter 2:18, “Slaves, submit yourselves to your masters with all respect, not only to those who are good and considerate, but also to those who are harsh.” And the oh so classic Leviticus 20:13, “If a man lies with a man as one lies with a woman, both of them have done what is detestable. They must be put to death.”&lt;/p&gt;
-
-&lt;p&gt;Sitting in a church that was an LGBTQ+ ally yet contained ~600 copies of books that said gay men should be killed seemed a bit, I dunno, &lt;em&gt;contradictory?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;There was almost a sort of mass delusion that was occurring amongst the members of my church. They weren’t &lt;em&gt;really&lt;/em&gt; christians. They were moreso a group of people who liked having the excuse to chat with their friends on Sundays, eat good food, feel moral, and this is key, be fed explanations that lessened the difficulty of the rest of their lives.&lt;/p&gt;
-
-&lt;p&gt;Believing that there’s a big powerful guy sitting upstairs in his throne who’ll take the time to listen to your problems and make your world a better place is super-comforting. It’s the sort of outlook that makes you able to put your feet up, throw on a pair of shades, and give a nice “Ahhh” sound when you exhale.&lt;/p&gt;
-
-&lt;p&gt;Believing his son died a horrific death and in doing so saved you and all your friends from a certain ticket to hell is mega-relieving. It’s the sort of outlook that makes you feel safe when you do some yard work on Sunday even though Exodus 35:2 says you should be put to death.&lt;/p&gt;
-
-&lt;p&gt;Believing that there’s a gorgeous, perfectly beautiful place called heaven that you’ll go when you die is ultra-soothing. It’s the sort of outlook that makes you able to not become immensely depressed when you learn that 7.6 million people die annually throughout the world because of hunger or a hunger-related cause.&lt;/p&gt;
-
-&lt;p&gt;Their deaths? No biggie, they’re up in heaven now!&lt;/p&gt;
-
-&lt;p&gt;Their pain and unimaginable suffering? Not a huge deal, I’ll pray for them so they’ve got god on their side!&lt;/p&gt;
-
-&lt;p&gt;We crave explanations for some of the hardest questions that we have to deal with in life. &lt;strong&gt;Why did she die? Why are they suffering? Where did I come from? Where will I go when I die?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Religion offers explanations.&lt;/p&gt;
-
-&lt;p&gt;I refuse them.&lt;/p&gt;
-
-&lt;p&gt;Sure, I cry harder and for longer. Sure, I’m more deeply saddened by the horrific realities of our world. Sure, I can’t be able to put my feet up on Sunday afternoon and exhale without a care in the world.&lt;/p&gt;
-
-&lt;p&gt;But at least I have reality, free of delusions.&lt;/p&gt;
-
-&lt;p&gt;My dog didn’t go to heaven. My dog died, and she’s gone forever.&lt;/p&gt;
-
-&lt;p&gt;Peace.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 10 Jun 2018 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2018/why-we-crave-a-god</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/why-we-crave-a-god</guid>
-        
-        <category>grief</category>
-        
-        <category>religion</category>
         
         
         <category>essay</category>
