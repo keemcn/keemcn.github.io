@@ -5,9 +5,44 @@
     <description>My name's Keegan, and this is my blog – it's where I write stuff down after I've given it some thought. Hope you get something useful out of your time here!</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 30 Oct 2019 11:41:38 +0800</pubDate>
-    <lastBuildDate>Wed, 30 Oct 2019 11:41:38 +0800</lastBuildDate>
+    <pubDate>Thu, 31 Oct 2019 00:30:34 +0800</pubDate>
+    <lastBuildDate>Thu, 31 Oct 2019 00:30:34 +0800</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>The illusory stupidity of politicians</title>
+        <description>&lt;p&gt;American media has a long history of portraying politicians, and people of power more generally, as stupid and naive. Saturday Night Live’s &lt;a href=&quot;https://www.youtube.com/watch?v=JUWSLlz0Fdo&amp;amp;list=PLIMQGnRxY3JH4jtVG5zjmW0Eqqt_jzWSF&quot;&gt;political skits&lt;/a&gt; are wonderful examples of this. SNL has a distinctly liberal lean, and so tends to focus on GOP figures, but there are many examples of analogous media portrayals from the conservative side of the Overton window, too. Articles and TV segments abound from all across the political spectrum that propound the blatant idiocy and plebeian nature of the other side’s figureheads.&lt;/p&gt;
+
+&lt;p&gt;Despite the media portrayals, are politicians actually stupid and naive? I think the answer is a resounding &lt;em&gt;hell no&lt;/em&gt;. Take someone like Steve Bannon, who has been pilloried by the media (see &lt;a href=&quot;https://www.politico.com/magazine/story/2018/01/04/steve-bannon-michael-wolff-book-donald-trump-216243&quot;&gt;here&lt;/a&gt;, &lt;a href=&quot;https://www.themarysue.com/steve-bannon-stupid-trump-documentary/&quot;&gt;here&lt;/a&gt;, and recently &lt;a href=&quot;https://www.thedailybeast.com/steve-bannon-has-become-the-one-thing-we-never-thought-hed-be-boring&quot;&gt;here&lt;/a&gt;). It seems to me that the general characterization of Steve Bannon is as a naive, corrupt, sometimes idiotic, and boring guy. If you’re politically liberal and reading this, I’d guess that you agree (if you don’t, send me an email or a DM!). Now, try to gently put that conception aside for a moment and watch &lt;a href=&quot;https://www.youtube.com/watch?v=qH5QzuzD01A&quot;&gt;this video&lt;/a&gt; of him discussing China.&lt;/p&gt;
+
+&lt;p&gt;When I first saw it, I was blown away at how articulate he was and how parsimonious some of his explanations were. Surely there was a mistake. This was &lt;em&gt;Steve Bannon&lt;/em&gt;, a known dumbass, a ‘lying, fascist prick!’ That fool couldn’t possibly be referencing 老百姓 and Chinese political philosophy! He just, you know, spends all day reading the shit that Breitbart writers spew… he, he…&lt;/p&gt;
+
+&lt;p&gt;I implore you to try this exercise with any politician you think is stupid or naive (with the exception of Trump – Trump seems to either be (1) a counterexample to this pattern, or (2) secretly intelligent). Try and find a longer interview or piece of writing from the politician that was created during a period when they weren’t in the heyday of their political career. I suspect that you’ll be surprised by their cogency.&lt;/p&gt;
+
+&lt;p&gt;The question then becomes &lt;em&gt;why?&lt;/em&gt; Why are we deluded by the media about the intelligence and ability of our politicians?&lt;/p&gt;
+
+&lt;p&gt;One explanation is that it’s just another example of partisan conflict. The powers that be on either side of the political spectrum want their political opposition to seem stupid, naive, weak, etc. so that voters are less inclined to vote for said opposition. While perhaps correct, this is uninteresting. It’s the same story we’ve heard for years.&lt;/p&gt;
+
+&lt;p&gt;A more interesting question to ask is not just ‘why are we deluded by the media’, but rather &lt;em&gt;why do people eat it up?&lt;/em&gt; The media can propagate whatever messaging it wants, but at some fundamental level, the populace has to swallow what it’s being fed. Various psychological tricks are routinely used to make the act of swallowing easier on us poor bastards, but there must be some degree of deep acceptance of the information.&lt;/p&gt;
+
+&lt;p&gt;In the case of the illusory stupidity of politicians, I’d chalk it up to an innate desire to feel as though one is smarter than one actually is. It’s tempting to believe that you could be doing what the politicians are doing. It’s tempting to tell yourself that if circumstances had been a bit different, if you had really given it a good college try, you could &lt;em&gt;totally&lt;/em&gt; have gotten elected. In the safety of your own head, it’s all too easy to ‘know’ that you’re an expert on the issues that face the nation and the difficulties of becoming an elected official.&lt;/p&gt;
+
+&lt;p&gt;The Dunning-Kruger effect rears its ugly head here – most Americans simply aren’t conscientious enough to realize that the world of foreign affairs and public policy is extremely difficult to think about and act competently inside of.&lt;/p&gt;
+
+&lt;p&gt;Perhaps most things are like this! &lt;em&gt;Perhaps the world is a bit more complex than how the media portrays it!&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 30 Oct 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019/the-illusory-stupidity-of-politicians</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/the-illusory-stupidity-of-politicians</guid>
+        
+        <category>politics</category>
+        
+        <category>media</category>
+        
+        
+        <category>post</category>
+        
+      </item>
     
       <item>
         <title>Literature as evidence</title>
@@ -300,77 +335,6 @@
         <category>self-improvement</category>
         
         <category>social-observation</category>
-        
-        
-        <category>essay</category>
-        
-      </item>
-    
-      <item>
-        <title>You'll Likely Be a Murderer</title>
-        <description>&lt;p&gt;&lt;strong&gt;We have no clue what AI will be able to do in the future.&lt;/strong&gt; It is young. And while we humans do, indeed, have fancy people working on making fancy new tech that does fancy stuff, no one has produced anything that even remotely resembles human-level general cognitive capabilities (the word &lt;em&gt;general&lt;/em&gt; is important there, because we sure as hell get our asses kicked by computers at Go, chess, and a multitude of other “narrow” tasks and activities). Nothing created thus far has been able to perform as well as an average human would at any “general” task.&lt;/p&gt;
-
-&lt;p&gt;To sum up the current state of AI research and development, our attempts are still turning out to be pretty dumb. They’re best described as savants — extraordinarily brilliant in one specific area, but limited &lt;em&gt;only&lt;/em&gt; to that one area. To some, that general stupidity is comforting. It serves as an indication that humanity is still quite some temporal distance away from creating anything that might fundamentally change our world. To me, that general stupidity is instead &lt;strong&gt;deeply, insanely worrisome.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The worry stems from a place of ethical concern. There’s a host of nuances and philosophical arguments that surround the ethics of AI, and we’ll be looking into one of the most pressing problems in an effort to be as prescient as possible.‍&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Certain machines have moral status.&lt;/strong&gt; Now, I know you’re probably saying, &lt;em&gt;“Wait, what’d he just say? Machines? Moral status? Bullshit!”&lt;/em&gt; But please hear me out on this one.&lt;/p&gt;
-
-&lt;p&gt;It’s pretty well agreed that at the current time, our AI systems and ML models don’t actually have any moral status. We can terminate them, pause their operation, delete them, copy them, or rewrite the code that comprises them as we so please. But how might those actions be interpreted if a given machine did have human-like moral status? Would we be killing, cloning, and maiming without consent?&lt;/p&gt;
-
-&lt;p&gt;Things could get very sticky, very fast, so it’s probably a good thing to dive a bit deeper and ascertain which specific qualities are enough to warrant moral status in a being. Usually, it boils down to two things.&lt;/p&gt;
-
-&lt;p&gt;The first is sometimes called &lt;strong&gt;sentience&lt;/strong&gt; — it’s the capacity for a being to have experiences. It’s the ability to be hurt and to suffer, and conversely to be happy and experience pleasure.&lt;/p&gt;
-
-&lt;p&gt;The second is often called &lt;strong&gt;sapience&lt;/strong&gt; — it’s the set of capabilities associated with “higher intelligence”. These are the things that differentiate humans from animals — things like self‐awareness and reason-responsiveness.&lt;/p&gt;
-
-&lt;p&gt;A common view is that animals have sentience and therefore some moral status, but are limited because they’re not sapient. They can’t make complex deductions about the world as a whole, or often even recognize themselves in a mirror! Humans, however, have both sentience and sapience, and therefore full moral status.&lt;/p&gt;
-
-&lt;p&gt;Now onto the good stuff. A &lt;strong&gt;sentient&lt;/strong&gt; AI or ML system should then be treated not as just some pile of computer parts — instead, it should be regarded in a similar way to a living animal. It’s morally wrong to maim, kill, and inflict pain on a bunny, so why should it be different for sentient AI/ML systems?&lt;/p&gt;
-
-&lt;p&gt;But wait, there’s more!&lt;/p&gt;
-
-&lt;p&gt;What if one day humanity popped out an AI/ML system that possessed not just sentience, but also &lt;strong&gt;sapience&lt;/strong&gt;? Following our earlier logic, it then ought to have total moral status — the exact same as humans.&lt;/p&gt;
-
-&lt;p&gt;Perhaps this strikes you as grossly incorrect. If that’s the case, I highly recommend “pausing” here and trying to &lt;em&gt;precisely&lt;/em&gt; reason why. After you’re done, come back and continue reading!&lt;/p&gt;
-
-&lt;p&gt;There are two core principles that lead to my above conclusion. The first is that of Substrate Non-Discrimination — to paraphrase Bostrom and Yudkowsky, if two beings have the same functionality and the same conscious experience, but differ only in the substrate of their implementation (read: stuff they’re made of), then they have the same moral status.&lt;/p&gt;
-
-&lt;p&gt;One way to think of this is as non-racism against computers. Just like it doesn’t matter in terms of moral status if someone’s skin is dark brown or pale white, it shouldn’t matter if their brain is made of carbon and water or of silicon. As Sam Harris puts it, there’s nothing special about ‘wet ware’— the fact that our brains are made of carbon and water does not give them inherently more moral status than exact copies made of silicon. If your entire brain were able to be emulated on a computer, neuron for neuron, memory for memory, thought for thought, and existed in a programmed world where it could run and jump and interact with other whole-brain emulations, you’d want it to be free, happy, and living a life free of suffering and pain! It seems as though it’d be morally disgusting to slaughter or inflict pain upon the computerized version of yourself.&lt;/p&gt;
-
-&lt;p&gt;The other core principle is that of Ontogeny Non-Discrimination — if two beings have the same functionality and the same conscious experience, but differ only in how they came into existence, then they have the same moral status.&lt;/p&gt;
-
-&lt;p&gt;We widely accept this today. The fact that a baby was born of a mother who ate more healthily and took her vitamins doesn’t give that baby any more or less moral status than one whose mother indulged in ice cream and booze everyday and didn’t much consider her health. Likewise, if we were to create human clones, we wouldn’t think that a cloned baby deserves less moral status than any other baby born through sexual reproduction. Similarly, just because a being came into existence as an AI/ML system through programming, it doesn’t deserve to be treated with less moral status than a human being who was born via sexual reproduction.&lt;/p&gt;
-
-&lt;p&gt;If you accept both of those principles, then it doesn’t matter if an AI/ML system was created by doofy programmers or runs on a computer instead of in a brain — it’s deserving of treatment that’s identical to how we treat one another.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Although this makes it far easier to develop an ethical code for how we treat AI/ML systems (i.e. treat them like we think we should treat other humans), there are crazy potential scenarios that arise because of how such systems may come into existence.&lt;/p&gt;
-
-&lt;p&gt;While we humans toil away trying to develop smarter and better AI/ML systems, it’s likely that we wouldn’t know if a system is sentient or sapient. There could be no surefire way of determining if it could feel pain or reason at a level comparable to humans.&lt;/p&gt;
-
-&lt;p&gt;Let’s concoct a fairly reasonable scenario where some programmers are using genetic algorithms to attempt to optimize an AI/ML system, and at some step along the way the systems become &lt;strong&gt;sentient&lt;/strong&gt; and &lt;strong&gt;sapient&lt;/strong&gt;. Because there might be no way of knowing ahead of time that such an outcome will occur, the developer keeps living his merry life and continues to run his algorithm for a few days on a future-era supercomputer. Over the course of those few days, it’s conceivable that trillions of versions of the AI/ML system being optimized were run. It’s also conceivable that the versions were tested based on their ability to complete some sort of task in a simulated world. Let’s say that our researcher is attempting to make an AI/ML system that can jump extremely efficiently. The consequence of this set of innocuous circumstances is that trillions of beings, all at least morally equivalent to humans, were mercilessly slaughtered after being thrown into a testing pit because of their inability to jump efficiently in the only “world” that they’d ever known.&lt;/p&gt;
-
-&lt;p&gt;The estimate provided by the National WWII Museum for the amount of deaths that happened during World War II, one of the largest losses of life in the history of mankind, is 60 million. Now imagine ~17,000 World War IIs occurring in the span of a few days, entirely on accident.&lt;/p&gt;
-
-&lt;p&gt;The potential for accidentally horrific moral deeds in AI/ML development is unfathomable.&lt;/p&gt;
-
-&lt;p&gt;If &lt;strong&gt;you are&lt;/strong&gt; someone doing that development, you must consider all of your actions with the utmost care.&lt;/p&gt;
-
-&lt;p&gt;If &lt;strong&gt;you know&lt;/strong&gt; someone doing that development, you must push them to think about their actions with the utmost care.&lt;/p&gt;
-
-&lt;p&gt;Peace.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 24 Jun 2018 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2018/youll-likely-be-a-murderer</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/youll-likely-be-a-murderer</guid>
-        
-        <category>artificial-intelligence</category>
-        
-        <category>philosophy</category>
         
         
         <category>essay</category>
