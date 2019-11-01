@@ -5,9 +5,194 @@
     <description>My name's Keegan, and this is my blog – it's where I write stuff down after I've given it some thought. Hope you get something useful out of your time here!</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 31 Oct 2019 00:30:34 +0800</pubDate>
-    <lastBuildDate>Thu, 31 Oct 2019 00:30:34 +0800</lastBuildDate>
+    <pubDate>Sat, 02 Nov 2019 03:33:30 +0800</pubDate>
+    <lastBuildDate>Sat, 02 Nov 2019 03:33:30 +0800</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>Graphs from scratch</title>
+        <description>&lt;h2 id=&quot;math-education-is-tragic&quot;&gt;Math education is tragic&lt;/h2&gt;
+
+&lt;p&gt;Most people despise math. They remember being forced to do arithmetic by hand in elementary school, algebra by hand in middle school, and (sometimes) calculus by hand in high school. They lament the inability to use a calculator when it’s &lt;em&gt;clearly&lt;/em&gt; always going to be possible to do so in ‘real life’. It is an absolute travesty that this process of low-utility algorithmic memorization is what the word ‘mathematics’ has come to mean in the minds of people all around the world. It has deprived billions of grasping the inherent beauty in pondering things that humans can &lt;em&gt;know&lt;/em&gt; to be true. When done correctly and in the right domain, reductionist reasoning allows one to perceive the numinous in the purest form that the universe can offer it.&lt;/p&gt;
+
+&lt;p&gt;This problem with math education, of course, has been noted by people both better at math and better at writing than I. The best explanation of it that I’ve found is &lt;em&gt;A Mathematician’s Lament&lt;/em&gt; by Paul Lockhart (&lt;a href=&quot;https://www.maa.org/external_archive/devlin/LockhartsLament.pdf&quot;&gt;link&lt;/a&gt;). I recommend you read the whole thing, but this excerpt is particularly salient.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The Standard School Mathematics Curriculum&lt;/p&gt;
+
+&lt;p&gt;LOWER SCHOOL MATH. The indoctrination begins. Students learn that mathematics is not
+something you do, but something that is done to you. Emphasis is placed on sitting still, filling
+out worksheets, and following directions. Children are expected to master a complex set of
+algorithms for manipulating Hindi symbols, unrelated to any real desire or curiosity on their part,
+and regarded only a few centuries ago as too difficult for the average adult. Multiplication tables
+are stressed, as are parents, teachers, and the kids themselves.&lt;/p&gt;
+
+&lt;p&gt;MIDDLE SCHOOL MATH. Students are taught to view mathematics as a set of procedures,
+akin to religious rites, which are eternal and set in stone. The holy tablets, or “Math Books,” are
+handed out, and the students learn to address the church elders as “they” (as in “What do they
+want here? Do they want me to divide?”) Contrived and artificial “word problems” will be
+introduced in order to make the mindless drudgery of arithmetic seem enjoyable by comparison.
+Students will be tested on a wide array of unnecessary technical terms, such as ‘whole number’
+and ‘proper fraction,’ without the slightest rationale for making such distinctions. Excellent
+preparation for Algebra I.&lt;/p&gt;
+
+&lt;p&gt;ALGEBRA I. So as not to waste valuable time thinking about numbers and their patterns, this
+course instead focuses on symbols and rules for their manipulation. The smooth narrative thread
+that leads from ancient Mesopotamian tablet problems to the high art of the Renaissance
+algebraists is discarded in favor of a disturbingly fractured, post-modern retelling with no
+characters, plot, or theme. The insistence that all numbers and expressions be put into various
+standard forms will provide additional confusion as to the meaning of identity and equality.
+Students must also memorize the quadratic formula for some reason.&lt;/p&gt;
+
+&lt;p&gt;…&lt;/p&gt;
+
+&lt;p&gt;There is such breathtaking depth and heartbreaking beauty in this ancient art form. How
+ironic that people dismiss mathematics as the antithesis of creativity. They are missing out on an
+art form older than any book, more profound than any poem, and more abstract than any abstract.
+And it is school that has done this! What a sad endless cycle of innocent teachers inflicting
+damage upon innocent students. We could all be having so much more fun.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;I hope that you sympathize with everyone that has undergone the experience Lockhart describes. It’s brutalizing. It’s soul-crushing. It’s sickening.&lt;/p&gt;
+
+&lt;p&gt;I studied math in college and was able to go beyond the layers of nonsense that were piled upon me by the K-12 educational system. I now understand that math is gorgeous, and I understand why people devote their entire lives to studying it. However, most people don’t understand, so I want to give a glimpse of the beauty that I speak of. To do so, we must begin from scratch.
+&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;graphs-from-scratch&quot;&gt;Graphs from scratch&lt;/h2&gt;
+
+&lt;p&gt;Imagine drawing a dot on the screen.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/graphs-from-scratch/img1.png&quot; alt=&quot;&quot; height=&quot;300px&quot; width=&quot;300px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now, imagine drawing another dot.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/graphs-from-scratch/img2.png&quot; alt=&quot;&quot; height=&quot;300px&quot; width=&quot;300px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And now a whole bunch more dots!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/graphs-from-scratch/img3.png&quot; alt=&quot;&quot; height=&quot;300px&quot; width=&quot;300px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Okay, so we’ve got a bunch of individual dots, all hanging out in 2-dimensional space. Let’s start connecting them while making sure that every dot is connected to at least one other dot.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/graphs-from-scratch/img4.png&quot; alt=&quot;&quot; height=&quot;300px&quot; width=&quot;300px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This looks pretty cool! Dots and connections between them are what mathematicians call &lt;em&gt;graphs&lt;/em&gt;. The best mathematicians in the world have been studying them, on and off, for about 200 years. This alone should tell you something interesting is happening here –- some of the smartest people in the world that study math full-time, the geekiest of the geeks, devote their entire professional lives to tinkering and studying these simple, cute little things.&lt;/p&gt;
+
+&lt;p&gt;Back to our imaginations, though. Notice how there are some places in the graph where you if you start at a certain dot and try to get to another dot, there’s no connection? This seems bad!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/graphs-from-scratch/img4.png&quot; alt=&quot;&quot; height=&quot;300px&quot; width=&quot;300px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Something about our rule from earlier, that ‘every dot needs to be connected to at least one other dot’, isn’t quite good enough. What we need to do is say that ‘starting at any dot in the graph, you need to be able to get to every other dot in the graph by going along the connections’. Let’s try and add some connections so that this works.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/graphs-from-scratch/img5.png&quot; alt=&quot;&quot; height=&quot;300px&quot; width=&quot;300px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Great! We can now pick any two dots in the entire graph, and there’s a way to go between them. Mathematicians call graphs where you can do this &lt;em&gt;connected.&lt;/em&gt; Connected graphs are a nice way to think about interesting shapes. For example, these shapes are all connected graphs!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/graphs-from-scratch/img6.jpg&quot; alt=&quot;&quot; height=&quot;300px&quot; width=&quot;300px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Although the above shapes are pretty, let’s look at two fairly basic connected graphs, the square and the pyramid. The square is nice, we can draw it flatly on paper. The pyramid, though, is a bit trickier. We’re forced to be clever when we squish it onto the paper, and because connections cross each other, it loses the structure that makes it look nice in 3D.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/graphs-from-scratch/img7.png&quot; alt=&quot;&quot; height=&quot;300px&quot; width=&quot;300px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It’d be nice if there were some way to represent the dots and connections of the pyramid without having to cleverly squish it down to a 2-dimensional drawing. How might we do this? Try giving it some thought. Think about which features of the graph are important – think about if these two graphs are the same:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/graphs-from-scratch/img8.png&quot; alt=&quot;&quot; height=&quot;300px&quot; width=&quot;300px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In some meaningful way, they are! In 99.9% of cases, mathematicians consider the above two graphs to be &lt;em&gt;identical&lt;/em&gt;. This is kind of weird though – it means that the only important thing about graphs is the dots and the relationships between them! In a way, then, this graph:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/graphs-from-scratch/img9.png&quot; alt=&quot;&quot; height=&quot;300px&quot; width=&quot;300px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Is the same thing as saying ‘There are 3 dots. Dot 1 and dot 2 are connected, dot 2 and dot 3 are connected, and dot 3 and dot 1 are connected.’ Let’s invent some way of expressing that with less words. If two dots are connected, let’s put them in some parentheses and separate them by a comma, like this: &lt;script type=&quot;math/tex&quot;&gt;(dot_{1},dot_{2})&lt;/script&gt;.&lt;/p&gt;
+
+&lt;p&gt;We can do better. Instead of calling them dot 1 and dot 2, let’s just use their numbers, like this: &lt;script type=&quot;math/tex&quot;&gt;(1,2)&lt;/script&gt;. The order of the numbers doesn’t matter though, so we could flip-flop any of them inside of their parentheses if we wanted to. In a way, these numbers and parentheses really &lt;em&gt;are&lt;/em&gt; the dots and edges.&lt;/p&gt;
+
+&lt;p&gt;And now, if we want to talk about a bunch of the dots and edges, we just list a bunch of those numbers and parentheses, like this: &lt;script type=&quot;math/tex&quot;&gt;(1,2), (2,3), (3,1)&lt;/script&gt;. It looks weird to not enclose those pairs of parentheses and numbers with something though, and it would be confusing to just use more parentheses, so let’s use curly braces, like this: &lt;script type=&quot;math/tex&quot;&gt;\{(1,2), (2,3), (3,1)\}&lt;/script&gt;.&lt;/p&gt;
+
+&lt;p&gt;Mathematicians have fancy names for all of the ideas that we just came up with, but fancy names make it hard to focus on the part of math that matters, so I’m not mentioning them here. If you want to read more, check out this footnote.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Let’s go back to that pyramid from earlier.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/graphs-from-scratch/img12.png&quot; alt=&quot;&quot; height=&quot;300px&quot; width=&quot;300px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;To accomplish our goal of representing the dots and connections of the pyramid without having to cleverly squish the 3-dimensional shape down to 2, all we have to do is label the dots and translate their connections into numbers and parentheses. Easy!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/graphs-from-scratch/img10.png&quot; alt=&quot;&quot; height=&quot;300px&quot; width=&quot;300px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The pyramid is actually just this list of pairs of numbers in parentheses: &lt;script type=&quot;math/tex&quot;&gt;\{(1,2),(2,3),(3,1),(1,4),(2,4),(3,4)\}&lt;/script&gt;. There’s a lot of repeated stuff in that list of parentheses and numbers though, so maybe there’s a better way to keep track of all the information. Let’s try doing that with a square of numbers, where if there’s a connection between dot a and dot b, we put a &lt;script type=&quot;math/tex&quot;&gt;1&lt;/script&gt; in the &lt;script type=&quot;math/tex&quot;&gt;a&lt;/script&gt;th column and &lt;script type=&quot;math/tex&quot;&gt;b&lt;/script&gt;th row of the square. That’s a lot to think about at once, so let’s go one pair of numbers in the list at a time!&lt;/p&gt;
+
+&lt;p&gt;We have 4 dots, so we need 4 columns and 4 rows in our square of numbers. Because of this, notice how we’ll always end up using &lt;em&gt;squares&lt;/em&gt; instead of ugly rectangles:&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;% &lt;![CDATA[
+\begin{bmatrix}0 &amp; 0 &amp; 0 &amp; 0 \\ 0 &amp; 0 &amp; 0 &amp; 0 \\ 0 &amp; 0 &amp; 0 &amp; 0 \\ 0 &amp; 0 &amp; 0 &amp; 0 \end{bmatrix} %]]&gt;&lt;/script&gt;
+
+&lt;p&gt;You’ve probably noticed that this is just a matrix. Matrices are, as it turns out, useful ways of encoding information about graphs. The word ‘matrix’ is burned into most peoples’ minds as quasi-traumatic though, and matrices are fundamentally just squares and rectangles of numbers, so I’ll keep calling them that. Now, the first pair is &lt;script type=&quot;math/tex&quot;&gt;(1,2)&lt;/script&gt;, so let’s put a &lt;script type=&quot;math/tex&quot;&gt;1&lt;/script&gt; in the spot at the 1st column and 2nd row:&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;% &lt;![CDATA[
+\begin{bmatrix}0 &amp; 0 &amp; 0 &amp; 0 \\ 1 &amp; 0 &amp; 0 &amp; 0 \\ 0 &amp; 0 &amp; 0 &amp; 0 \\ 0 &amp; 0 &amp; 0 &amp; 0 \end{bmatrix} %]]&gt;&lt;/script&gt;
+
+&lt;p&gt;But the order of the numbers in the pair doesn’t matter, so we also have to remember the pair &lt;script type=&quot;math/tex&quot;&gt;(2,1)&lt;/script&gt; and put a &lt;script type=&quot;math/tex&quot;&gt;1&lt;/script&gt; in the spot at the 2nd column and 1st row:&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;% &lt;![CDATA[
+\begin{bmatrix}0 &amp; 1 &amp; 0 &amp; 0 \\ 1 &amp; 0 &amp; 0 &amp; 0 \\ 0 &amp; 0 &amp; 0 &amp; 0 \\ 0 &amp; 0 &amp; 0 &amp; 0 \end{bmatrix} %]]&gt;&lt;/script&gt;
+
+&lt;p&gt;Notice how there’s a symmetry to the square! Because order doesn’t matter for the numbers in the pair, whichever pair you choose will always have a &lt;em&gt;twin&lt;/em&gt; pair where the numbers are flipped. In our number-square, the twins show up on the opposite side of the diagonal that runs from the top left to the bottom right!&lt;/p&gt;
+
+&lt;p&gt;Let’s do one more example of putting a pair and its twin into the square. The next pair in the original list is &lt;script type=&quot;math/tex&quot;&gt;(2,3)&lt;/script&gt;, and its twin is &lt;script type=&quot;math/tex&quot;&gt;(3,2)&lt;/script&gt;, so we put &lt;script type=&quot;math/tex&quot;&gt;1&lt;/script&gt;s in the 2nd column and 3rd row, and the 3rd column and 2nd row:&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;% &lt;![CDATA[
+\begin{bmatrix}0 &amp; 1 &amp; 0 &amp; 0 \\ 1 &amp; 0 &amp; 1 &amp; 0 \\ 0 &amp; 1 &amp; 0 &amp; 0 \\ 0 &amp; 0 &amp; 0 &amp; 0 \end{bmatrix} %]]&gt;&lt;/script&gt;
+
+&lt;p&gt;I’ll fill out the rest:&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;% &lt;![CDATA[
+\begin{bmatrix}0 &amp; 1 &amp; 1 &amp; 1 \\ 1 &amp; 0 &amp; 1 &amp; 1 \\ 1 &amp; 1 &amp; 0 &amp; 1 \\ 1 &amp; 1 &amp; 1 &amp; 0 \end{bmatrix} %]]&gt;&lt;/script&gt;
+
+&lt;p&gt;Woah! I hope you think this is cool! This beautiful looking square of numbers just popped out of nowhere! Let’s think about it though – why would we have a square where everything is filled in except the diagonal? I encourage you to stop and try to reason through it. If you’re not feeling up to it though, that’s cool too – just look below.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/graphs-from-scratch/img10.png&quot; alt=&quot;&quot; height=&quot;300px&quot; width=&quot;300px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Well, the spaces in the main diagonal represent connections between a dot and itself, but we don’t have any of those in the pyramid. The math-y word for ‘a connection between a dot and itself’ is a &lt;em&gt;loop.&lt;/em&gt; Loops look like this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/graphs-from-scratch/img11.png&quot; alt=&quot;&quot; height=&quot;300px&quot; width=&quot;300px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;So if a graph has no loops, then its corresponding square of numbers will have 0s in the main diagonal. But what about all the 1s? Why is &lt;em&gt;every other possible spot&lt;/em&gt; in the graph’s number-square filled with a 1? Well, it’s because &lt;em&gt;every dot in the graph is connected directly to every other dot.&lt;/em&gt; Look at the pyramid again, and think about this for a second:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/graphs-from-scratch/img10.png&quot; alt=&quot;&quot; height=&quot;300px&quot; width=&quot;300px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Whichever dot I pick in the pyramid, I can get to any other dot by only going across one connection! Mathematicians call this kind of graph &lt;em&gt;dense.&lt;/em&gt; We just figured out something really interesting – if we take a random, perhaps extremely complicated graph, and go through this simple operation of translating it into pairs of numbers and then a square of numbers, we can &lt;em&gt;instantly&lt;/em&gt; see whether or not it’s dense. All we have to do is check if there are any zeroes that &lt;em&gt;aren’t&lt;/em&gt; on the diagonal.&lt;/p&gt;
+
+&lt;p&gt;We started with nothing but our intuition and pictures, then made up a language for thinking about those pictures, then made up another language to think about our first language, and out popped a beautiful relationship! We can now translate &lt;em&gt;any&lt;/em&gt; graph into a number-square, and it magically becomes incredibly easy to know whether or not that graph is dense. We took a normally very complicated, difficult-to-test property, and made it easy enough for a pre-schooler to check.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;This&lt;/em&gt; is what math is. Math is the act of starting somewhere interesting and just messing around, playing, until cool things start popping out.&lt;/p&gt;
+
+&lt;p&gt;It’s enthralling, it’s visceral, and it’s extremely fun. Reasoning from scratch is one of the purest joys that our world has to offer, and I hope you see at least some of the beauty and appeal of doing it.&lt;/p&gt;
+
+&lt;p&gt;I’m deeply sorry if it wasn’t shown to you any earlier in your life, but now is your opportunity to go out and explore!&lt;/p&gt;
+
+&lt;p&gt;If you’re interested in stuff like this, check out &lt;a href=&quot;https://www.youtube.com/watch?v=xdIjYBtnvZU&quot;&gt;3blue1brown&lt;/a&gt; on YouTube. He makes beautiful videos that take you on this same type of mental adventure. The numinous awaits!&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Putting two numbers inside of parentheses is called a &lt;em&gt;pair.&lt;/em&gt; When it doesn’t matter in which order we put the numbers inside of the parentheses, it’s called an &lt;em&gt;unordered pair,&lt;/em&gt; and we’d write that for whatever dots you want, call them dot a and dot b, we have that &lt;script type=&quot;math/tex&quot;&gt;(a,b)=(b,a)&lt;/script&gt;. When it does matter in which order we put the numbers, it’s called an &lt;em&gt;ordered pair,&lt;/em&gt; and we’d write that &lt;script type=&quot;math/tex&quot;&gt;(a,b) \ne (b,a)&lt;/script&gt;. If the order of the dots in the parentheses doesn’t matter for the entire graph, we call the graph &lt;em&gt;undirected.&lt;/em&gt; If the order of the dots does matter, we call the graph &lt;em&gt;directed.&lt;/em&gt; The connections between dots in directed graphs are usually drawn with arrows instead of lines, because you can think of there being a correct way of going from one dot to another. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Fri, 01 Nov 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019/graphs-from-scratch</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/graphs-from-scratch</guid>
+        
+        <category>math</category>
+        
+        <category>education</category>
+        
+        
+        <category>post</category>
+        
+      </item>
     
       <item>
         <title>The illusory stupidity of politicians</title>
@@ -285,59 +470,6 @@
         
         
         <category>video</category>
-        
-      </item>
-    
-      <item>
-        <title>The Absurdly Subtle Art of Picking a Place to Eat</title>
-        <description>&lt;p&gt;&lt;em&gt;…it’s already noon?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Ah, the lunch break. The ubiquitously celebrated opportunity to devour a few delectably taste-filled calories prior to returning to a 9–5 job is a daily occurrence that most employees look forward to with total and utter delight — until, of course, one realizes that one must &lt;em&gt;decide&lt;/em&gt; on a place to stuff one’s face.&lt;/p&gt;
-
-&lt;p&gt;Sometimes, to make the situation even more complex, one must decide how to please a whole group’s abundance of different culinary preferences in one fell swoop. The task becomes increasingly difficult with each additional coworker, family member, or friend added into the fray.&lt;/p&gt;
-
-&lt;p&gt;We all know the feeling of heading out of the office with 3 or 4 coworkers in tow, trying to kindly, yet efficiently, figure out where to go eat.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“Susan likes Mexican food, maybe we’ll go to Chipotle? But their food has so much salt, and Mary’s been trying to cut back recently. Brian says he’s up for whatevs, but I know he’s trying to be polite and actually loves Indian. What’s the name of that new Hawaiian place? Dammit! Maybe we should just go to McDonald’s…”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The amount of latent time that I spend every week on the problem of deciding where to consume food and what to eat when I arrive at a given establishment quite frankly pisses me off, and I think it’s indicative of a far deeper and more difficult problem in American society.&lt;/p&gt;
-
-&lt;p&gt;Eating is something that nearly every living organism needs to do to survive. Luckily for us humans, it’s superbly easy in this day and age to maintain a balanced, healthy diet (provided you’re one of the lucky ones that can afford food). Grocery stores and restaurants are plentiful, and with a meager amount of cash, almost anyone can go grab quality sustenance. So why, then, do we struggle so much with making decisions on what to consume? I posit that it’s because we possess &lt;em&gt;preferences.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Preferences make things hard. They transform an essentially solved problem (eating healthy food) to an extremely difficult, continually evolving unsolved problem (eating food that aligns with individual or group preferences). To illustrate, I’ll give you a scenario.&lt;/p&gt;
-
-&lt;p&gt;I’m Bill. I want to be healthier, so I found a diet plan online that tells me precisely what to eat, when to eat it, and how much it will cost per week. I’m psyched about this new plan and its potential to transform my life, so I excitedly rush out the door and over to the nearest Whole Foods. As I roll my cart down Aisle 2 to grab the first item on my list (superfood-hyper-organic-ultra-non-gmo-delicious protein bars), I glance at the vast array of artistically-packaged boxes and acquire my target. But right next to it is an identically priced box of bars that have more grams of protein per serving, fewer carbs, AND are chocolate-flavored. I adore chocolate. Maybe I oughtta buy those instead?&lt;/p&gt;
-
-&lt;p&gt;I end up sitting in the protein bar aisle for the next 10 minutes, attempting to figure out which bars are precisely the best, when in reality I would enjoy &amp;gt;70% of those available. I finally decide on a lucky contestant, and then move onto the next item on my grocery list of 27.&lt;/p&gt;
-
-&lt;p&gt;Bill is so &lt;em&gt;clearly&lt;/em&gt; a time-wasting fool, yet this behavior is something that I would guess damn near every single person reading this has done. The deeper, more underlying problem that has surfaced in the most benign of forms is that of completely and totally undervaluing time in order to achieve a greater alignment between one’s preferences and one’s decisions.&lt;/p&gt;
-
-&lt;p&gt;The same thing happens when you and your coworkers are deciding where to eat, or when you’re picking which Netflix show to watch, or which pair of shoes to buy on Amazon. You don’t think about it in the heat of the moment, but the vast majority of restaurants available will have some satisfactory dish for every person in your group, Netflix has an algorithm designed to automatically deliver you the content that you will enjoy most when you go on their website or app, and Amazon has a vetting system that ensures you only see the best of the best products.&lt;/p&gt;
-
-&lt;p&gt;But… we’re still operating under the assumption that’s it’s a good thing to align one’s preferences and one’s decisions — I think that’s a poor assumption.&lt;/p&gt;
-
-&lt;p&gt;Let’s say that you end up randomly choosing a crappy restaurant, or you watch a show or read a post that doesn’t jive with your normal preferences. It’s easy to overlook the fact that you’ve presented yourself with an opportunity to grow. Growth is induced by undergoing small bouts of stress, and always doing what you already know you’ll enjoy is certain to result in personal stagnation and boredom.&lt;/p&gt;
-
-&lt;p&gt;Perhaps you’ll fall in love with the eel sushi at the restaurant you randomly chose, will be inspired to become an entrepreneur after watching a terrific documentary you clicked willy-nilly on the front page of your Netflix account, or will lose 20 lbs through a newfound adoration with running in the minimalist running shoes you haphazardly picked out on Amazon.&lt;/p&gt;
-
-&lt;p&gt;We consistently undervalue the time we spend deciding, underestimate the amount of satisfactory options available, and overvalue the pleasure of an experience that aligns well with our preferences. This brings about a slew of instances wherein we waste an absurd amount of time attempting to figure out ‘which one’ when we would, in reality, be satisfied by most, and likely grow in the instances in which we aren’t satisfied.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Spend less time choosing, and you’ll be rewarded with more time experiencing and growing.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Peace!&lt;/p&gt;
-</description>
-        <pubDate>Tue, 10 Jul 2018 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2018/the-absurdly-subtle-art-of-picking-a-place-to-eat</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/the-absurdly-subtle-art-of-picking-a-place-to-eat</guid>
-        
-        <category>self-improvement</category>
-        
-        <category>social-observation</category>
-        
-        
-        <category>essay</category>
         
       </item>
     
