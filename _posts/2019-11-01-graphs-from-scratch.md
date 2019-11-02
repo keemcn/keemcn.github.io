@@ -74,7 +74,7 @@ Okay, so we've got a bunch of individual dots, all hanging out in 2-dimensional 
 
 ![](../images/graphs-from-scratch/img4.png){:height="300px" width="300px"}
 
-This looks pretty cool! Dots and connections between them are what mathematicians call _graphs_. The best mathematicians in the world have been studying them, on and off, for about 200 years. This alone should tell you something interesting is happening here –- some of the smartest people in the world that study math full-time, the geekiest of the geeks, devote their entire professional lives to tinkering and studying these simple, cute little things.
+This looks pretty cool! Dots and connections between them are what mathematicians call _graphs_. The best mathematicians in the world have been studying them, on and off, for about 200 years. This alone should tell you something interesting is happening here -- some of the smartest people in the world that study math full-time, the geekiest of the geeks, devote their entire professional lives to tinkering with and studying these (seemingly) simple little things.
 
 Back to our imaginations, though. Notice how there are some places in the graph where you if you start at a certain dot and try to get to another dot, there's no connection? This seems bad!
 
@@ -132,7 +132,7 @@ But the order of the numbers in the pair doesn't matter, so we also have to reme
 
 $$\begin{bmatrix}0 & 1 & 0 & 0 \\ 1 & 0 & 0 & 0 \\ 0 & 0 & 0 & 0 \\ 0 & 0 & 0 & 0 \end{bmatrix}$$
 
-Notice how there's a symmetry to the square! Because order doesn't matter for the numbers in the pair, whichever pair you choose will always have a _twin_ pair where the numbers are flipped. In our number-square, the twins show up on the opposite side of the diagonal that runs from the top left to the bottom right!
+Notice how there's a symmetry to the square? Because order doesn't matter for the numbers in the pair, whichever pair you choose will always have a _twin_ pair where the numbers are flipped. In our number-square, the twins show up on the opposite side of the diagonal that runs from the top left to the bottom right!
 
 Let's do one more example of putting a pair and its twin into the square. The next pair in the original list is $$(2,3)$$, and its twin is $$(3,2)$$, so we put $$1$$s in the 2nd column and 3rd row, and the 3rd column and 2nd row:
 

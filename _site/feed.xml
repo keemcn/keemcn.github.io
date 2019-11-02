@@ -5,8 +5,8 @@
     <description>My name's Keegan, and this is my blog – it's where I write stuff down after I've given it some thought. Hope you get something useful out of your time here!</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 02 Nov 2019 13:43:16 +0800</pubDate>
-    <lastBuildDate>Sat, 02 Nov 2019 13:43:16 +0800</lastBuildDate>
+    <pubDate>Sat, 02 Nov 2019 14:20:13 +0800</pubDate>
+    <lastBuildDate>Sat, 02 Nov 2019 14:20:13 +0800</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -77,7 +77,7 @@ damage upon innocent students. We could all be having so much more fun.&lt;/p&gt
 
 &lt;p&gt;&lt;img src=&quot;../images/graphs-from-scratch/img4.png&quot; alt=&quot;&quot; height=&quot;300px&quot; width=&quot;300px&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;This looks pretty cool! Dots and connections between them are what mathematicians call &lt;em&gt;graphs&lt;/em&gt;. The best mathematicians in the world have been studying them, on and off, for about 200 years. This alone should tell you something interesting is happening here –- some of the smartest people in the world that study math full-time, the geekiest of the geeks, devote their entire professional lives to tinkering and studying these simple, cute little things.&lt;/p&gt;
+&lt;p&gt;This looks pretty cool! Dots and connections between them are what mathematicians call &lt;em&gt;graphs&lt;/em&gt;. The best mathematicians in the world have been studying them, on and off, for about 200 years. This alone should tell you something interesting is happening here – some of the smartest people in the world that study math full-time, the geekiest of the geeks, devote their entire professional lives to tinkering with and studying these (seemingly) simple little things.&lt;/p&gt;
 
 &lt;p&gt;Back to our imaginations, though. Notice how there are some places in the graph where you if you start at a certain dot and try to get to another dot, there’s no connection? This seems bad!&lt;/p&gt;
 
@@ -136,7 +136,7 @@ damage upon innocent students. We could all be having so much more fun.&lt;/p&gt
 &lt;script type=&quot;math/tex; mode=display&quot;&gt;% &lt;![CDATA[
 \begin{bmatrix}0 &amp; 1 &amp; 0 &amp; 0 \\ 1 &amp; 0 &amp; 0 &amp; 0 \\ 0 &amp; 0 &amp; 0 &amp; 0 \\ 0 &amp; 0 &amp; 0 &amp; 0 \end{bmatrix} %]]&gt;&lt;/script&gt;
 
-&lt;p&gt;Notice how there’s a symmetry to the square! Because order doesn’t matter for the numbers in the pair, whichever pair you choose will always have a &lt;em&gt;twin&lt;/em&gt; pair where the numbers are flipped. In our number-square, the twins show up on the opposite side of the diagonal that runs from the top left to the bottom right!&lt;/p&gt;
+&lt;p&gt;Notice how there’s a symmetry to the square? Because order doesn’t matter for the numbers in the pair, whichever pair you choose will always have a &lt;em&gt;twin&lt;/em&gt; pair where the numbers are flipped. In our number-square, the twins show up on the opposite side of the diagonal that runs from the top left to the bottom right!&lt;/p&gt;
 
 &lt;p&gt;Let’s do one more example of putting a pair and its twin into the square. The next pair in the original list is &lt;script type=&quot;math/tex&quot;&gt;(2,3)&lt;/script&gt;, and its twin is &lt;script type=&quot;math/tex&quot;&gt;(3,2)&lt;/script&gt;, so we put &lt;script type=&quot;math/tex&quot;&gt;1&lt;/script&gt;s in the 2nd column and 3rd row, and the 3rd column and 2nd row:&lt;/p&gt;
 
