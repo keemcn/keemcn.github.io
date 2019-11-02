@@ -244,6 +244,7 @@ blockquote {
 /*****************************************************************************/
 
 @media (max-width: 850px) {
+  
     body {
         font-size: large;
     }
@@ -252,15 +253,25 @@ blockquote {
         width: 100%;
         padding: 0.75em;
     }
+    aside header {
+        margin-top: 0px;      
+    }
+    
+    aside .module {
+        margin-right: 0px;
+    }
     .main-header .module {
         margin-left: 0;
     }
     .main-content .module {
         margin-top: 0;
+        margin-right: -1.5em;
     }
     article.module {
         margin-left: 1.5em;
-        margin-right: 0;
+        margin-right: -1.5em;
+        padding-left: $spacing-unit*1.4 !important;
+        padding-right: $spacing-unit*1.4 !important;
         p {
           font-size: medium;  
         }
