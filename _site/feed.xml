@@ -5,15 +5,15 @@
     <description>My name's Keegan, and this is my blog – it's where I write stuff down after I've given it some thought. Hope you get something useful out of your time here!</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 03 Nov 2019 21:57:51 +0800</pubDate>
-    <lastBuildDate>Sun, 03 Nov 2019 21:57:51 +0800</lastBuildDate>
+    <pubDate>Sun, 03 Nov 2019 22:44:09 +0800</pubDate>
+    <lastBuildDate>Sun, 03 Nov 2019 22:44:09 +0800</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
         <title>Base pleasure</title>
         <description>&lt;p&gt;Where do the most visceral, intense pleasures in life come from? I’d say eating, procreating, and positive socializing. What about the most visceral, intense pains? I’d say bodily harm and negative socializing.&lt;/p&gt;
 
-&lt;p&gt;In addition to these &lt;em&gt;visceral&lt;/em&gt; pleasures and pains, humans experience a variety of other pleasures and pains that are more intellectual in nature – things like the contentment from solving an interesting problem, the altruistic buzz from helping another person that you don’t know, or the sadness from reflecting on an exam gone poorly. These sorts of pleasures and pains seem toned way down in terms of magnitude compared to the more visceral types.&lt;/p&gt;
+&lt;p&gt;In addition to these &lt;em&gt;visceral&lt;/em&gt; pleasures and pains, humans experience a variety of other pleasures and pains that are more intellectual in nature – things like the contentment from solving an interesting problem, the altruistic buzz from helping another person that you don’t know, or the sadness from reflecting on an exam gone poorly. These sorts of pleasures and pains seem toned way down in subjective magnitude compared to the more visceral types.&lt;/p&gt;
 
 &lt;p&gt;Interestingly, the visceral pleasures and pains I listed aren’t unique to humans. They arise for most forms of life on Earth! There’s a huge class of organisms that experience eating, procreating, positive socializing, bodily harm, and negative socializing.&lt;/p&gt;
 
@@ -21,9 +21,9 @@
 
 &lt;p&gt;The second claim seems more far-fetched because of a moral intuition most humans have. That moral intuition says ‘something like the number of neurons a given organism has plays an important role in the moral relevancy of its pleasure and pain’. Barring this moral intuition, we have no reason to believe that non-human organisms can’t experience morally significant pleasure and pain of the same degree as humans! A priori, why should we believe that rabbits aren’t capable of experiencing visceral pleasures and pains that are identically morally relevant to humans? What about &lt;a href=&quot;https://www.youtube.com/watch?v=lQBOidTHwgQ&quot;&gt;lady bugs&lt;/a&gt;? Rabbits, humans, and lady bugs all experience eating, procreating, positive socializing, bodily harm, and negative socializing!&lt;/p&gt;
 
-&lt;p&gt;The point of this reflection is to demonstrate that despite millennia of research and thought about the questions of meta-ethics and philosophy of mind, we’re still absolutely sure of almost nothing. Nearly all of our philosophizing about the universe is built up by using our moral intuitions, which we have no reason to believe reflect any sort of universal values! If an alien showed up tomorrow from a galaxy far, far away, it would probably hold moral intuitions that are completely different than nearly every single one of our ours.&lt;/p&gt;
+&lt;p&gt;The point of this reflection is to demonstrate that despite millennia of research and thought about the questions of meta-ethics and philosophy of mind, we’re still absolutely sure of almost nothing. Nearly all of our philosophizing about the universe is built up by using our moral intuitions, which we have no reason to believe reflect any sort of universal values! If an alien showed up tomorrow from a galaxy far, far away, it would probably hold moral intuitions completely different than nearly every single one of our ours.&lt;/p&gt;
 
-&lt;p&gt;Our entire system of ethics could well be false to any other forms of intelligent life in the universe – this would make for extremely difficult interspecies negotiation if aliens were to come to Earth, or even if we were to create sentient AI in a computational substrate.&lt;/p&gt;
+&lt;p&gt;Our entire system of ethics could well be false to &lt;em&gt;all&lt;/em&gt; other forms of intelligent life in the universe – this would make for extremely difficult interspecies negotiation if aliens were to come to Earth, or even if we were to create sentient AI here &lt;em&gt;on&lt;/em&gt; Earth.&lt;/p&gt;
 </description>
         <pubDate>Sat, 02 Nov 2019 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/2019/base-pleasure</link>
@@ -40,7 +40,7 @@
         <title>Graphs from scratch</title>
         <description>&lt;h2 id=&quot;math-education-is-tragic&quot;&gt;Math education is tragic&lt;/h2&gt;
 
-&lt;p&gt;Most people despise math. They remember being forced to do arithmetic by hand in elementary school, algebra by hand in middle school, and (sometimes) calculus by hand in high school. They lament the inability to use a calculator when it’s &lt;em&gt;clearly&lt;/em&gt; always going to be possible to do so in ‘real life’. It is an absolute travesty that this process of low-utility algorithmic memorization is what the word ‘mathematics’ has come to mean in the minds of people all around the world. It has deprived billions of grasping the inherent beauty in pondering things that humans can &lt;em&gt;know&lt;/em&gt; to be true. When done correctly and in the right domain, reductionist reasoning allows one to perceive the numinous in the purest form that the universe can offer it.&lt;/p&gt;
+&lt;p&gt;Most people despise math. They remember being forced to do arithmetic by hand in elementary school, algebra by hand in middle school, and (sometimes) calculus by hand in high school. They lament the inability to use a calculator when it’s &lt;em&gt;clearly&lt;/em&gt; always going to be possible to do so in ‘real life’. It is an absolute travesty that this process of low-utility algorithmic memorization is what the word ‘mathematics’ has come to mean in the minds of people all around the world. It has deprived billions of people from grasping the inherent beauty in pondering things that humans can &lt;em&gt;know&lt;/em&gt; to be true. When done correctly and in the right domain, reductionist reasoning allows one to perceive the numinous in the purest form that the universe can offer it.&lt;/p&gt;
 
 &lt;p&gt;This problem with math education, of course, has been noted by people both better at math and better at writing than I. The best explanation of it that I’ve found is &lt;em&gt;A Mathematician’s Lament&lt;/em&gt; by Paul Lockhart (&lt;a href=&quot;https://www.maa.org/external_archive/devlin/LockhartsLament.pdf&quot;&gt;link&lt;/a&gt;). I recommend you read the whole thing, but this excerpt is particularly salient.&lt;/p&gt;
 
@@ -84,7 +84,7 @@ damage upon innocent students. We could all be having so much more fun.&lt;/p&gt
 
 &lt;p&gt;I hope that you sympathize with everyone that has undergone the experience Lockhart describes. It’s brutalizing. It’s soul-crushing. It’s sickening.&lt;/p&gt;
 
-&lt;p&gt;I studied math in college and was able to go beyond the layers of nonsense that were piled upon me by the K-12 educational system. I now understand that math is gorgeous, and I understand why people devote their entire lives to studying it. However, most people don’t understand, so I want to give a glimpse of the beauty that I speak of. To do so, we must begin from scratch.
+&lt;p&gt;Luckily, I studied math in college and was able to go beyond the layers of nonsense that were piled upon me by the K-12 educational system. I now understand that math is gorgeous, and I understand why people devote their entire lives to studying it. However, most people &lt;em&gt;don’t&lt;/em&gt; understand, so I want to give a glimpse of the beauty that I speak of. To do so, we must begin from scratch.
 &lt;br /&gt;&lt;/p&gt;
 &lt;h2 id=&quot;graphs-from-scratch&quot;&gt;Graphs from scratch&lt;/h2&gt;
 
@@ -104,7 +104,7 @@ damage upon innocent students. We could all be having so much more fun.&lt;/p&gt
 
 &lt;p&gt;&lt;img src=&quot;../images/graphs-from-scratch/img4.png&quot; alt=&quot;&quot; height=&quot;300px&quot; width=&quot;300px&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;This looks pretty cool! Dots and connections between them are what mathematicians call &lt;em&gt;graphs&lt;/em&gt;. The best mathematicians in the world have been studying them, on and off, for about 200 years. This alone should tell you something interesting is happening here – some of the smartest people in the world that study math full-time, the geekiest of the geeks, devote their entire professional lives to tinkering with and studying these (seemingly) simple little things.&lt;/p&gt;
+&lt;p&gt;This looks pretty cool! Dots and connections between them are what mathematicians call &lt;em&gt;graphs&lt;/em&gt;. The best mathematicians in the world have been studying them, on and off, for about 200 years. This alone should tell you something interesting is happening here – some of the smartest people in the world, the geekiest of the geeks, devote their entire professional lives to tinkering with and studying these (seemingly) simple little things.&lt;/p&gt;
 
 &lt;p&gt;Back to our imaginations, though. Notice how there are some places in the graph where you if you start at a certain dot and try to get to another dot, there’s no connection? This seems bad!&lt;/p&gt;
 
@@ -130,7 +130,7 @@ damage upon innocent students. We could all be having so much more fun.&lt;/p&gt
 
 &lt;p&gt;&lt;img src=&quot;../images/graphs-from-scratch/img9.png&quot; alt=&quot;&quot; height=&quot;300px&quot; width=&quot;300px&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Is the same thing as saying ‘There are 3 dots. Dot 1 and dot 2 are connected, dot 2 and dot 3 are connected, and dot 3 and dot 1 are connected.’ Let’s invent some way of expressing that with less words. If two dots are connected, let’s put them in some parentheses and separate them by a comma, like this: &lt;script type=&quot;math/tex&quot;&gt;(dot_{1},dot_{2})&lt;/script&gt;.&lt;/p&gt;
+&lt;p&gt;Is the same thing as merely &lt;em&gt;saying&lt;/em&gt; that ‘There are 3 dots. Dot 1 and dot 2 are connected, dot 2 and dot 3 are connected, and dot 3 and dot 1 are connected.’ Let’s invent some way of expressing those relationships with less words. If two dots are connected, let’s put them in some parentheses and separate them by a comma, like this: &lt;script type=&quot;math/tex&quot;&gt;(dot_{1},dot_{2})&lt;/script&gt;.&lt;/p&gt;
 
 &lt;p&gt;We can do better. Instead of calling them dot 1 and dot 2, let’s just use their numbers, like this: &lt;script type=&quot;math/tex&quot;&gt;(1,2)&lt;/script&gt;. The order of the numbers doesn’t matter though, so we could flip-flop any of them inside of their parentheses if we wanted to. In a way, these numbers and parentheses really &lt;em&gt;are&lt;/em&gt; the dots and edges.&lt;/p&gt;
 
@@ -142,35 +142,35 @@ damage upon innocent students. We could all be having so much more fun.&lt;/p&gt
 
 &lt;p&gt;&lt;img src=&quot;../images/graphs-from-scratch/img12.png&quot; alt=&quot;&quot; height=&quot;300px&quot; width=&quot;300px&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;To accomplish our goal of representing the dots and connections of the pyramid without having to cleverly squish the 3-dimensional shape down to 2, all we have to do is label the dots and translate their connections into numbers and parentheses. Easy!&lt;/p&gt;
+&lt;p&gt;To accomplish our goal of representing the dots and connections of the pyramid without having to cleverly squish the 3-dimensional shape down to 2, all we have to do is label the dots and then translate their relationships into numbers and parentheses. Easy!&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;../images/graphs-from-scratch/img10.png&quot; alt=&quot;&quot; height=&quot;300px&quot; width=&quot;300px&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;The pyramid is actually just this list of pairs of numbers in parentheses: &lt;script type=&quot;math/tex&quot;&gt;\{(1,2),(2,3),(3,1),(1,4),(2,4),(3,4)\}&lt;/script&gt;. There’s a lot of repeated stuff in that list of parentheses and numbers though, so maybe there’s a better way to keep track of all the information. Let’s try doing that with a square of numbers, where if there’s a connection between dot a and dot b, we put a &lt;script type=&quot;math/tex&quot;&gt;1&lt;/script&gt; in the &lt;script type=&quot;math/tex&quot;&gt;a&lt;/script&gt;th column and &lt;script type=&quot;math/tex&quot;&gt;b&lt;/script&gt;th row of the square. That’s a lot to think about at once, so let’s go one pair of numbers in the list at a time!&lt;/p&gt;
+&lt;p&gt;After translation, the pyramid is actually just this list of pairs of numbers in parentheses: &lt;script type=&quot;math/tex&quot;&gt;\{(1,2),(2,3),(3,1),(1,4),(2,4),(3,4)\}&lt;/script&gt;. There’s a lot of repeated stuff in that list of parentheses and numbers though, so maybe there’s a better way to keep track of all the information. Let’s try doing that with a square of numbers, where if there’s a connection between dot a and dot b, we put a &lt;script type=&quot;math/tex&quot;&gt;1&lt;/script&gt; in the &lt;script type=&quot;math/tex&quot;&gt;a&lt;/script&gt;th column and &lt;script type=&quot;math/tex&quot;&gt;b&lt;/script&gt;th row of the square. That’s a lot to think about at once, so let’s go one pair of numbers in the list at a time!&lt;/p&gt;
 
 &lt;p&gt;We have 4 dots, so we need 4 columns and 4 rows in our square of numbers. Because of this, notice how we’ll always end up using &lt;em&gt;squares&lt;/em&gt; instead of ugly rectangles:&lt;/p&gt;
 
 &lt;script type=&quot;math/tex; mode=display&quot;&gt;% &lt;![CDATA[
 \begin{bmatrix}0 &amp; 0 &amp; 0 &amp; 0 \\ 0 &amp; 0 &amp; 0 &amp; 0 \\ 0 &amp; 0 &amp; 0 &amp; 0 \\ 0 &amp; 0 &amp; 0 &amp; 0 \end{bmatrix} %]]&gt;&lt;/script&gt;
 
-&lt;p&gt;You’ve probably noticed that this is just a matrix. Matrices are, as it turns out, useful ways of encoding information about graphs. The word ‘matrix’ is burned into most peoples’ minds as quasi-traumatic though, and matrices are fundamentally just squares and rectangles of numbers, so I’ll keep calling them that. Now, the first pair is &lt;script type=&quot;math/tex&quot;&gt;(1,2)&lt;/script&gt;, so let’s put a &lt;script type=&quot;math/tex&quot;&gt;1&lt;/script&gt; in the spot at the 1st column and 2nd row:&lt;/p&gt;
+&lt;p&gt;If you graduated high school, you’ve probably noticed that this is just a matrix. Matrices are, as it turns out, useful ways of encoding information about graphs. Unfortunately, the word ‘matrix’ is burned into most peoples’ minds as quasi-traumatic, and matrices are fundamentally just squares and rectangles of numbers, so I’ll keep calling them that. Now, the first pair is &lt;script type=&quot;math/tex&quot;&gt;(1,2)&lt;/script&gt;, so let’s put a &lt;script type=&quot;math/tex&quot;&gt;1&lt;/script&gt; in the spot at the 1st column and 2nd row:&lt;/p&gt;
 
 &lt;script type=&quot;math/tex; mode=display&quot;&gt;% &lt;![CDATA[
 \begin{bmatrix}0 &amp; 0 &amp; 0 &amp; 0 \\ 1 &amp; 0 &amp; 0 &amp; 0 \\ 0 &amp; 0 &amp; 0 &amp; 0 \\ 0 &amp; 0 &amp; 0 &amp; 0 \end{bmatrix} %]]&gt;&lt;/script&gt;
 
-&lt;p&gt;But the order of the numbers in the pair doesn’t matter, so we also have to remember the pair &lt;script type=&quot;math/tex&quot;&gt;(2,1)&lt;/script&gt; and put a &lt;script type=&quot;math/tex&quot;&gt;1&lt;/script&gt; in the spot at the 2nd column and 1st row:&lt;/p&gt;
+&lt;p&gt;But the order of the numbers in the pair doesn’t matter, so we also have to remember the pair &lt;script type=&quot;math/tex&quot;&gt;(2,1)&lt;/script&gt; and then put a &lt;script type=&quot;math/tex&quot;&gt;1&lt;/script&gt; in the spot at the 2nd column and 1st row:&lt;/p&gt;
 
 &lt;script type=&quot;math/tex; mode=display&quot;&gt;% &lt;![CDATA[
 \begin{bmatrix}0 &amp; 1 &amp; 0 &amp; 0 \\ 1 &amp; 0 &amp; 0 &amp; 0 \\ 0 &amp; 0 &amp; 0 &amp; 0 \\ 0 &amp; 0 &amp; 0 &amp; 0 \end{bmatrix} %]]&gt;&lt;/script&gt;
 
 &lt;p&gt;Notice how there’s a symmetry to the square? Because order doesn’t matter for the numbers in the pair, whichever pair you choose will always have a &lt;em&gt;twin&lt;/em&gt; pair where the numbers are flipped. In our number-square, the twins show up on the opposite side of the diagonal that runs from the top left to the bottom right!&lt;/p&gt;
 
-&lt;p&gt;Let’s do one more example of putting a pair and its twin into the square. The next pair in the original list is &lt;script type=&quot;math/tex&quot;&gt;(2,3)&lt;/script&gt;, and its twin is &lt;script type=&quot;math/tex&quot;&gt;(3,2)&lt;/script&gt;, so we put &lt;script type=&quot;math/tex&quot;&gt;1&lt;/script&gt;s in the 2nd column and 3rd row, and the 3rd column and 2nd row:&lt;/p&gt;
+&lt;p&gt;Let’s do one more example of putting a pair and its twin into the square. The next pair in the original list is &lt;script type=&quot;math/tex&quot;&gt;(2,3)&lt;/script&gt;, and its twin is &lt;script type=&quot;math/tex&quot;&gt;(3,2)&lt;/script&gt;, so we put &lt;script type=&quot;math/tex&quot;&gt;1&lt;/script&gt;s into the spot at the 2nd column and 3rd row, and also into the spot at the 3rd column and 2nd row:&lt;/p&gt;
 
 &lt;script type=&quot;math/tex; mode=display&quot;&gt;% &lt;![CDATA[
 \begin{bmatrix}0 &amp; 1 &amp; 0 &amp; 0 \\ 1 &amp; 0 &amp; 1 &amp; 0 \\ 0 &amp; 1 &amp; 0 &amp; 0 \\ 0 &amp; 0 &amp; 0 &amp; 0 \end{bmatrix} %]]&gt;&lt;/script&gt;
 
-&lt;p&gt;I’ll fill out the rest:&lt;/p&gt;
+&lt;p&gt;I’ll fill out the rest for you:&lt;/p&gt;
 
 &lt;script type=&quot;math/tex; mode=display&quot;&gt;% &lt;![CDATA[
 \begin{bmatrix}0 &amp; 1 &amp; 1 &amp; 1 \\ 1 &amp; 0 &amp; 1 &amp; 1 \\ 1 &amp; 1 &amp; 0 &amp; 1 \\ 1 &amp; 1 &amp; 1 &amp; 0 \end{bmatrix} %]]&gt;&lt;/script&gt;
@@ -187,7 +187,7 @@ damage upon innocent students. We could all be having so much more fun.&lt;/p&gt
 
 &lt;p&gt;&lt;img src=&quot;../images/graphs-from-scratch/img10.png&quot; alt=&quot;&quot; height=&quot;300px&quot; width=&quot;300px&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Whichever dot I pick in the pyramid, I can get to any other dot by only going across one connection! Mathematicians call this kind of graph &lt;em&gt;dense.&lt;/em&gt; We just figured out something really interesting – if we take a random, perhaps extremely complicated graph, and go through this simple operation of translating it into pairs of numbers and then a square of numbers, we can &lt;em&gt;instantly&lt;/em&gt; see whether or not it’s dense. All we have to do is check if there are any zeroes that &lt;em&gt;aren’t&lt;/em&gt; on the diagonal.&lt;/p&gt;
+&lt;p&gt;Whichever dot I pick in the pyramid, I can get to any other dot by only going across one connection! Mathematicians usually call this kind of graph &lt;em&gt;dense.&lt;/em&gt; We just figured out something really interesting – if we take a random, perhaps extremely complicated graph, and go through this simple operation of translating it into pairs of numbers and then a square of numbers, we can &lt;em&gt;instantly&lt;/em&gt; see whether or not it’s dense. All we have to do is check if there are any zeroes that &lt;em&gt;aren’t&lt;/em&gt; on the diagonal.&lt;/p&gt;
 
 &lt;p&gt;We started with nothing but our intuition and pictures, then made up a language for thinking about those pictures, then made up another language to think about our first language, and out popped a beautiful relationship! We can now translate &lt;em&gt;any&lt;/em&gt; graph into a number-square, and it magically becomes incredibly easy to know whether or not that graph is dense. We took a normally very complicated, difficult-to-test property, and made it easy enough for a pre-schooler to check.&lt;/p&gt;
 
@@ -196,6 +196,8 @@ damage upon innocent students. We could all be having so much more fun.&lt;/p&gt
 &lt;p&gt;It’s enthralling, it’s visceral, and it’s extremely fun. Reasoning from scratch is one of the purest joys that our world has to offer, and I hope you see at least some of the beauty and appeal of doing it.&lt;/p&gt;
 
 &lt;p&gt;I’m deeply sorry if it wasn’t shown to you any earlier in your life, but now is your opportunity to go out and explore!&lt;/p&gt;
+
+&lt;p&gt;As some fun follow-up questions to get you started, can you think about what a dense graph would look like with 5 dots instead of 4? What about 6, 7, or 10,000 dots? Can you write down what the number-squares would look like for those graphs, even without knowing what the graphs look like themselves?&lt;/p&gt;
 
 &lt;p&gt;If you’re interested in stuff like this, check out &lt;a href=&quot;https://www.youtube.com/watch?v=xdIjYBtnvZU&quot;&gt;3blue1brown&lt;/a&gt; on YouTube. He makes beautiful videos that take you on this same type of mental adventure. The numinous awaits!&lt;/p&gt;
 
@@ -227,9 +229,9 @@ damage upon innocent students. We could all be having so much more fun.&lt;/p&gt
 
 &lt;p&gt;Despite the media portrayals, are politicians actually stupid and naive? I think the answer is a resounding &lt;em&gt;hell no&lt;/em&gt;. Take someone like Steve Bannon, who has been pilloried by the media (see &lt;a href=&quot;https://www.politico.com/magazine/story/2018/01/04/steve-bannon-michael-wolff-book-donald-trump-216243&quot;&gt;here&lt;/a&gt;, &lt;a href=&quot;https://www.themarysue.com/steve-bannon-stupid-trump-documentary/&quot;&gt;here&lt;/a&gt;, and recently &lt;a href=&quot;https://www.thedailybeast.com/steve-bannon-has-become-the-one-thing-we-never-thought-hed-be-boring&quot;&gt;here&lt;/a&gt;). It seems to me that the general characterization of Steve Bannon is as a naive, corrupt, sometimes idiotic, and boring guy. If you’re politically liberal and reading this, I’d guess that you agree (if you don’t, send me an email or a DM!). Now, try to gently put that conception aside for a moment and watch &lt;a href=&quot;https://www.youtube.com/watch?v=qH5QzuzD01A&quot;&gt;this video&lt;/a&gt; of him discussing China.&lt;/p&gt;
 
-&lt;p&gt;When I first saw it, I was blown away at how articulate he was and how parsimonious some of his explanations were. Surely there was a mistake. This was &lt;em&gt;Steve Bannon&lt;/em&gt;, a known dumbass, a ‘lying, fascist prick!’ That fool couldn’t possibly be referencing 老百姓 and Chinese political philosophy! He just, you know, spends all day reading the shit that Breitbart writers spew… he, he…&lt;/p&gt;
+&lt;p&gt;When I first saw it, I was blown away at how articulate he was and how parsimonious some of his explanations were. Surely there was a mistake. This was &lt;em&gt;Steve Bannon&lt;/em&gt;, a known dumbass, a ‘lying, fascist prick’! That fool couldn’t possibly be referencing 老百姓 and Chinese political philosophy! He just, you know, spends all day reading the shit that Breitbart writers spew… he, he…&lt;/p&gt;
 
-&lt;p&gt;I implore you to try this exercise with any politician you think is stupid or naive (with the exception of Trump – Trump seems to either be (1) a counterexample to this pattern, or (2) secretly intelligent). Try and find a longer interview or piece of writing from the politician that was created during a period when they weren’t in the heyday of their political career. I suspect that you’ll be surprised by their cogency.&lt;/p&gt;
+&lt;p&gt;I implore you to try this exercise with any politician you think is stupid and/or naive (with the exception of Trump – Trump seems to either be (1) a counterexample to this pattern, or (2) very secretly intelligent). Try and find a longer interview or piece of writing from the politician that was created during a period when they weren’t in the heyday of their political career. I suspect that you’ll be surprised by their cogency.&lt;/p&gt;
 
 &lt;p&gt;The question then becomes &lt;em&gt;why?&lt;/em&gt; Why are we deluded by the media about the intelligence and ability of our politicians?&lt;/p&gt;
 
@@ -268,7 +270,7 @@ damage upon innocent students. We could all be having so much more fun.&lt;/p&gt
 
 &lt;p&gt;The characteristic of which I speak stems from the fact that literature is a subset of books, and books are &lt;a href=&quot;https://en.wikipedia.org/wiki/Lindy_effect&quot;&gt;Lindy&lt;/a&gt;. This means that any literature in the zeitgeist of the current day has survived the cumulative literary scrutiny of all human beings who lived between the publishing of such literature and now. This is an extremely difficult thing to do, which is why we see such a tiny number of pieces of older literature that have maintained their high graces in the cultural tastes of every era since they were published.&lt;/p&gt;
 
-&lt;p&gt;This is a useful trait! We can roughly deduce that old literature that has been in the zeitgeist for a long time encodes something deep about the preferences of human beings. I suspect this is the utility that people like Freud, Marx, and Girard see in it. Analyzing literature is then akin to analyzing a highly-agreed-upon version of human values and preferences, something that is extremely valuable if you’re studying human values and preferences.&lt;/p&gt;
+&lt;p&gt;It’s also a useful trait! We can (roughly) deduce that old literature which has been in the zeitgeist for a long time encodes something deep about the preferences of human beings. I suspect this is the utility that people like Freud, Marx, and Girard saw in it. Analyzing literature is then akin to analyzing a highly-agreed-upon version of human values and preferences, something which is extremely valuable if you’re studying human values and preferences.&lt;/p&gt;
 
 &lt;p&gt;The next time that you encounter a claim that makes use of literature for evidence, do your best to evaluate it while keeping the above characteristic in mind. Social science often seems like useless and obscurantist gobbledegook, but some of the people that operate in this space know what they’re doing, and their ideas are good.&lt;/p&gt;
 
