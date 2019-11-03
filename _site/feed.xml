@@ -5,9 +5,36 @@
     <description>My name's Keegan, and this is my blog – it's where I write stuff down after I've given it some thought. Hope you get something useful out of your time here!</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 02 Nov 2019 14:20:13 +0800</pubDate>
-    <lastBuildDate>Sat, 02 Nov 2019 14:20:13 +0800</lastBuildDate>
+    <pubDate>Sun, 03 Nov 2019 21:57:51 +0800</pubDate>
+    <lastBuildDate>Sun, 03 Nov 2019 21:57:51 +0800</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>Base pleasure</title>
+        <description>&lt;p&gt;Where do the most visceral, intense pleasures in life come from? I’d say eating, procreating, and positive socializing. What about the most visceral, intense pains? I’d say bodily harm and negative socializing.&lt;/p&gt;
+
+&lt;p&gt;In addition to these &lt;em&gt;visceral&lt;/em&gt; pleasures and pains, humans experience a variety of other pleasures and pains that are more intellectual in nature – things like the contentment from solving an interesting problem, the altruistic buzz from helping another person that you don’t know, or the sadness from reflecting on an exam gone poorly. These sorts of pleasures and pains seem toned way down in terms of magnitude compared to the more visceral types.&lt;/p&gt;
+
+&lt;p&gt;Interestingly, the visceral pleasures and pains I listed aren’t unique to humans. They arise for most forms of life on Earth! There’s a huge class of organisms that experience eating, procreating, positive socializing, bodily harm, and negative socializing.&lt;/p&gt;
+
+&lt;p&gt;We consider it a pretty standard, well-accepted view that such a class of organisms is capable of experiencing &lt;em&gt;some&lt;/em&gt; amount of morally significant pleasure and pain. What seems more far-fetched is that that such a class of organisms is capable of experiencing morally significant pleasure and pain of &lt;em&gt;the same degree as humans.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The second claim seems more far-fetched because of a moral intuition most humans have. That moral intuition says ‘something like the number of neurons a given organism has plays an important role in the moral relevancy of its pleasure and pain’. Barring this moral intuition, we have no reason to believe that non-human organisms can’t experience morally significant pleasure and pain of the same degree as humans! A priori, why should we believe that rabbits aren’t capable of experiencing visceral pleasures and pains that are identically morally relevant to humans? What about &lt;a href=&quot;https://www.youtube.com/watch?v=lQBOidTHwgQ&quot;&gt;lady bugs&lt;/a&gt;? Rabbits, humans, and lady bugs all experience eating, procreating, positive socializing, bodily harm, and negative socializing!&lt;/p&gt;
+
+&lt;p&gt;The point of this reflection is to demonstrate that despite millennia of research and thought about the questions of meta-ethics and philosophy of mind, we’re still absolutely sure of almost nothing. Nearly all of our philosophizing about the universe is built up by using our moral intuitions, which we have no reason to believe reflect any sort of universal values! If an alien showed up tomorrow from a galaxy far, far away, it would probably hold moral intuitions that are completely different than nearly every single one of our ours.&lt;/p&gt;
+
+&lt;p&gt;Our entire system of ethics could well be false to any other forms of intelligent life in the universe – this would make for extremely difficult interspecies negotiation if aliens were to come to Earth, or even if we were to create sentient AI in a computational substrate.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 02 Nov 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019/base-pleasure</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/base-pleasure</guid>
+        
+        <category>ethics</category>
+        
+        
+        <category>post</category>
+        
+      </item>
     
       <item>
         <title>Graphs from scratch</title>
@@ -450,23 +477,6 @@ damage upon innocent students. We could all be having so much more fun.&lt;/p&gt
         <category>artificial-intelligence</category>
         
         <category>philosophy</category>
-        
-        
-        <category>video</category>
-        
-      </item>
-    
-      <item>
-        <title>traveling as an antidote</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/lFePBA--Xe8&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-</description>
-        <pubDate>Wed, 01 Aug 2018 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2018/traveling-as-an-antidote</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/traveling-as-an-antidote</guid>
-        
-        <category>self-improvement</category>
-        
-        <category>travel</category>
         
         
         <category>video</category>
