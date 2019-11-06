@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Graphs from scratch
-date: 2019-11-01
+date: 2019-11-04
 category: post
 tags: [math, education]
 use_math: true

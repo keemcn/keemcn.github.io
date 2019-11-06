@@ -5,36 +5,9 @@
     <description>My name's Keegan, and this is my blog – it's where I write stuff down after I've given it some thought. Hope you get something useful out of your time here!</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 03 Nov 2019 22:44:09 +0800</pubDate>
-    <lastBuildDate>Sun, 03 Nov 2019 22:44:09 +0800</lastBuildDate>
+    <pubDate>Wed, 06 Nov 2019 12:19:17 +0800</pubDate>
+    <lastBuildDate>Wed, 06 Nov 2019 12:19:17 +0800</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
-    
-      <item>
-        <title>Base pleasure</title>
-        <description>&lt;p&gt;Where do the most visceral, intense pleasures in life come from? I’d say eating, procreating, and positive socializing. What about the most visceral, intense pains? I’d say bodily harm and negative socializing.&lt;/p&gt;
-
-&lt;p&gt;In addition to these &lt;em&gt;visceral&lt;/em&gt; pleasures and pains, humans experience a variety of other pleasures and pains that are more intellectual in nature – things like the contentment from solving an interesting problem, the altruistic buzz from helping another person that you don’t know, or the sadness from reflecting on an exam gone poorly. These sorts of pleasures and pains seem toned way down in subjective magnitude compared to the more visceral types.&lt;/p&gt;
-
-&lt;p&gt;Interestingly, the visceral pleasures and pains I listed aren’t unique to humans. They arise for most forms of life on Earth! There’s a huge class of organisms that experience eating, procreating, positive socializing, bodily harm, and negative socializing.&lt;/p&gt;
-
-&lt;p&gt;We consider it a pretty standard, well-accepted view that such a class of organisms is capable of experiencing &lt;em&gt;some&lt;/em&gt; amount of morally significant pleasure and pain. What seems more far-fetched is that that such a class of organisms is capable of experiencing morally significant pleasure and pain of &lt;em&gt;the same degree as humans.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;The second claim seems more far-fetched because of a moral intuition most humans have. That moral intuition says ‘something like the number of neurons a given organism has plays an important role in the moral relevancy of its pleasure and pain’. Barring this moral intuition, we have no reason to believe that non-human organisms can’t experience morally significant pleasure and pain of the same degree as humans! A priori, why should we believe that rabbits aren’t capable of experiencing visceral pleasures and pains that are identically morally relevant to humans? What about &lt;a href=&quot;https://www.youtube.com/watch?v=lQBOidTHwgQ&quot;&gt;lady bugs&lt;/a&gt;? Rabbits, humans, and lady bugs all experience eating, procreating, positive socializing, bodily harm, and negative socializing!&lt;/p&gt;
-
-&lt;p&gt;The point of this reflection is to demonstrate that despite millennia of research and thought about the questions of meta-ethics and philosophy of mind, we’re still absolutely sure of almost nothing. Nearly all of our philosophizing about the universe is built up by using our moral intuitions, which we have no reason to believe reflect any sort of universal values! If an alien showed up tomorrow from a galaxy far, far away, it would probably hold moral intuitions completely different than nearly every single one of our ours.&lt;/p&gt;
-
-&lt;p&gt;Our entire system of ethics could well be false to &lt;em&gt;all&lt;/em&gt; other forms of intelligent life in the universe – this would make for extremely difficult interspecies negotiation if aliens were to come to Earth, or even if we were to create sentient AI here &lt;em&gt;on&lt;/em&gt; Earth.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 02 Nov 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2019/base-pleasure</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/base-pleasure</guid>
-        
-        <category>ethics</category>
-        
-        
-        <category>post</category>
-        
-      </item>
     
       <item>
         <title>Graphs from scratch</title>
@@ -210,13 +183,69 @@ damage upon innocent students. We could all be having so much more fun.&lt;/p&gt
   &lt;/ol&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Fri, 01 Nov 2019 00:00:00 +0800</pubDate>
+        <pubDate>Mon, 04 Nov 2019 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/2019/graphs-from-scratch</link>
         <guid isPermaLink="true">http://localhost:4000/2019/graphs-from-scratch</guid>
         
         <category>math</category>
         
         <category>education</category>
+        
+        
+        <category>post</category>
+        
+      </item>
+    
+      <item>
+        <title>Literature as evidence</title>
+        <description>&lt;p&gt;There is a long history of social-scientists using literature as foundational evidence for their ideas and theories. If you want proof of such a claim, go take a look at the now archaic &lt;em&gt;Totem and Taboo&lt;/em&gt; or even the OG &lt;em&gt;Communist Manifesto&lt;/em&gt;. For a more modern version, just crack open &lt;em&gt;Things Hidden since the Foundation of the World&lt;/em&gt;. You’ll be inundated.&lt;/p&gt;
+
+&lt;p&gt;At first, this seems laughable. Literature? As scientific evidence? Aren’t most great works of literature &lt;em&gt;fictional?&lt;/em&gt; How can something fictional possibly be used rigorously?&lt;/p&gt;
+
+&lt;p&gt;Alas, it cannot! Obviously, one should not use fictional literature as &lt;em&gt;rigorous, scientific&lt;/em&gt; evidence in the sense of ‘providing explicit information about an event or occurrence.’ If I claim that Alice killed Bob (the poor bastard), and then justify my claim by citing a classic Dostoevsky novel where Alice kills Bob (in this hypothetical world, such a novel exists), you’d rightly inform me of my idiocy.&lt;/p&gt;
+
+&lt;p&gt;As scholars of the humanities and social sciences love to point out, rigorous science isn’t everything. Speaking from experience, this is a hard pill to swallow. Despite the fact that extracting precise scientific value from literature is nearly impossible, literature does have an interesting characteristic that allows for the embedding and subsequent extraction of useful information.&lt;/p&gt;
+
+&lt;p&gt;The characteristic of which I speak stems from the fact that literature is a subset of books, and books are &lt;a href=&quot;https://en.wikipedia.org/wiki/Lindy_effect&quot;&gt;Lindy&lt;/a&gt;. This means that any literature in the zeitgeist of the current day has survived the cumulative literary scrutiny of all human beings who lived between the publishing of such literature and now. This is an extremely difficult thing to do, which is why we see such a tiny number of pieces of older literature that have maintained their high graces in the cultural tastes of every era since they were published.&lt;/p&gt;
+
+&lt;p&gt;It’s also a useful trait! We can (roughly) deduce that old literature which has been in the zeitgeist for a long time encodes something deep about the preferences of human beings. I suspect this is the utility that people like Freud, Marx, and Girard saw in it. Analyzing literature is then akin to analyzing a highly-agreed-upon version of human values and preferences, something which is extremely valuable if you’re studying human values and preferences.&lt;/p&gt;
+
+&lt;p&gt;The next time that you encounter a claim that makes use of literature for evidence, do your best to evaluate it while keeping the above characteristic in mind. Social science often seems like useless and obscurantist gobbledegook, but some of the people that operate in this space know what they’re doing, and their ideas are good.&lt;/p&gt;
+
+&lt;p&gt;Sláinte!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 02 Nov 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019/literature-as-evidence</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/literature-as-evidence</guid>
+        
+        <category>literature</category>
+        
+        
+        <category>post</category>
+        
+      </item>
+    
+      <item>
+        <title>Base pleasure</title>
+        <description>&lt;p&gt;Where do the most visceral, intense pleasures in life come from? I’d say eating, procreating, and positive socializing. What about the most visceral, intense pains? I’d say bodily harm and negative socializing.&lt;/p&gt;
+
+&lt;p&gt;In addition to these &lt;em&gt;visceral&lt;/em&gt; pleasures and pains, humans experience a variety of other pleasures and pains that are more intellectual in nature – things like the contentment from solving an interesting problem, the altruistic buzz from helping another person that you don’t know, or the sadness from reflecting on an exam gone poorly. These sorts of pleasures and pains seem toned way down in subjective magnitude compared to the more visceral types.&lt;/p&gt;
+
+&lt;p&gt;Interestingly, the visceral pleasures and pains I listed aren’t unique to humans. They arise for most forms of life on Earth! There’s a huge class of organisms that experience eating, procreating, positive socializing, bodily harm, and negative socializing.&lt;/p&gt;
+
+&lt;p&gt;We consider it a pretty standard, well-accepted view that such a class of organisms is capable of experiencing &lt;em&gt;some&lt;/em&gt; amount of morally significant pleasure and pain. What seems more far-fetched is that that such a class of organisms is capable of experiencing morally significant pleasure and pain of &lt;em&gt;the same degree as humans.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The second claim seems more far-fetched because of a moral intuition most humans have. That moral intuition says ‘something like the number of neurons a given organism has plays an important role in the moral relevancy of its pleasure and pain’. Barring this moral intuition, we have no reason to believe that non-human organisms can’t experience morally significant pleasure and pain of the same degree as humans! A priori, why should we believe that rabbits aren’t capable of experiencing visceral pleasures and pains that are identically morally relevant to humans? What about &lt;a href=&quot;https://www.youtube.com/watch?v=lQBOidTHwgQ&quot;&gt;lady bugs&lt;/a&gt;? Rabbits, humans, and lady bugs all experience eating, procreating, positive socializing, bodily harm, and negative socializing!&lt;/p&gt;
+
+&lt;p&gt;The point of this reflection is to demonstrate that despite millennia of research and thought about the questions of meta-ethics and philosophy of mind, we’re still absolutely sure of almost nothing. Nearly all of our philosophizing about the universe is built up by using our moral intuitions, which we have no reason to believe reflect any sort of universal values! If an alien showed up tomorrow from a galaxy far, far away, it would probably hold moral intuitions completely different than nearly every single one of our ours.&lt;/p&gt;
+
+&lt;p&gt;Our entire system of ethics could well be false to &lt;em&gt;all&lt;/em&gt; other forms of intelligent life in the universe – this would make for extremely difficult interspecies negotiation if aliens were to come to Earth, or even if we were to create sentient AI here &lt;em&gt;on&lt;/em&gt; Earth.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 31 Oct 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019/base-pleasure</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/base-pleasure</guid>
+        
+        <category>ethics</category>
         
         
         <category>post</category>
@@ -252,35 +281,6 @@ damage upon innocent students. We could all be having so much more fun.&lt;/p&gt
         <category>politics</category>
         
         <category>media</category>
-        
-        
-        <category>post</category>
-        
-      </item>
-    
-      <item>
-        <title>Literature as evidence</title>
-        <description>&lt;p&gt;There is a long history of social-scientists using literature as foundational evidence for their ideas and theories. If you want proof of such a claim, go take a look at the now archaic &lt;em&gt;Totem and Taboo&lt;/em&gt; or even the OG &lt;em&gt;Communist Manifesto&lt;/em&gt;. For a more modern version, just crack open &lt;em&gt;Things Hidden since the Foundation of the World&lt;/em&gt;. You’ll be inundated.&lt;/p&gt;
-
-&lt;p&gt;At first, this seems laughable. Literature? As scientific evidence? Aren’t most great works of literature &lt;em&gt;fictional?&lt;/em&gt; How can something fictional possibly be used rigorously?&lt;/p&gt;
-
-&lt;p&gt;Alas, it cannot! Obviously, one should not use fictional literature as &lt;em&gt;rigorous, scientific&lt;/em&gt; evidence in the sense of ‘providing explicit information about an event or occurrence.’ If I claim that Alice killed Bob (the poor bastard), and then justify my claim by citing a classic Dostoevsky novel where Alice kills Bob (in this hypothetical world, such a novel exists), you’d rightly inform me of my idiocy.&lt;/p&gt;
-
-&lt;p&gt;As scholars of the humanities and social sciences love to point out, rigorous science isn’t everything. Speaking from experience, this is a hard pill to swallow. Despite the fact that extracting precise scientific value from literature is nearly impossible, literature does have an interesting characteristic that allows for the embedding and subsequent extraction of useful information.&lt;/p&gt;
-
-&lt;p&gt;The characteristic of which I speak stems from the fact that literature is a subset of books, and books are &lt;a href=&quot;https://en.wikipedia.org/wiki/Lindy_effect&quot;&gt;Lindy&lt;/a&gt;. This means that any literature in the zeitgeist of the current day has survived the cumulative literary scrutiny of all human beings who lived between the publishing of such literature and now. This is an extremely difficult thing to do, which is why we see such a tiny number of pieces of older literature that have maintained their high graces in the cultural tastes of every era since they were published.&lt;/p&gt;
-
-&lt;p&gt;It’s also a useful trait! We can (roughly) deduce that old literature which has been in the zeitgeist for a long time encodes something deep about the preferences of human beings. I suspect this is the utility that people like Freud, Marx, and Girard saw in it. Analyzing literature is then akin to analyzing a highly-agreed-upon version of human values and preferences, something which is extremely valuable if you’re studying human values and preferences.&lt;/p&gt;
-
-&lt;p&gt;The next time that you encounter a claim that makes use of literature for evidence, do your best to evaluate it while keeping the above characteristic in mind. Social science often seems like useless and obscurantist gobbledegook, but some of the people that operate in this space know what they’re doing, and their ideas are good.&lt;/p&gt;
-
-&lt;p&gt;Sláinte!&lt;/p&gt;
-</description>
-        <pubDate>Tue, 29 Oct 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2019/literature-as-evidence</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/literature-as-evidence</guid>
-        
-        <category>literature</category>
         
         
         <category>post</category>
