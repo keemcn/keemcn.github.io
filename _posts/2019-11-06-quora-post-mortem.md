@@ -7,7 +7,7 @@ tags: [media]
 use_math: false
 preview:
 ---
-I spent a few months last year trying to see how efficiently I could game the website [Quora](https://www.quora.com/) – the goal was to gain a large amount of followers and views in a very short amount of time. My efforts were very successful, and this is an analysis of how that happened.
+I spent a few months last year trying to see how efficiently I could game the website [Quora](https://www.quora.com/) – the goal was to gain a large amount of followers and views in a very short amount of time. My efforts were rather successful, and this is an analysis of how that happened.
 
 ## stats
 As a starting point, here are the four core stats from my Quora profile at the time of this post's writing (screenshots included for a dash of verifiability).
