@@ -5,9 +5,80 @@
     <description>My name's Keegan, and this is my blog – it's where I write stuff down after I've given it some thought. Hope you get something useful out of your time here!</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 06 Nov 2019 12:19:17 +0800</pubDate>
-    <lastBuildDate>Wed, 06 Nov 2019 12:19:17 +0800</lastBuildDate>
+    <pubDate>Sun, 10 Nov 2019 20:57:48 +0800</pubDate>
+    <lastBuildDate>Sun, 10 Nov 2019 20:57:48 +0800</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>Quora postmortem</title>
+        <description>&lt;p&gt;I spent a few months last year trying to see how efficiently I could game the website &lt;a href=&quot;https://www.quora.com/&quot;&gt;Quora&lt;/a&gt; – the goal was to gain a large amount of followers and views in a very short amount of time. My efforts were very successful, and this is an analysis of how that happened.&lt;/p&gt;
+
+&lt;h2 id=&quot;stats&quot;&gt;stats&lt;/h2&gt;
+&lt;p&gt;As a starting point, here are the four core stats from my Quora profile at the time of this post’s writing (screenshots included for a dash of verifiability).&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Followers: 1,444&lt;/li&gt;
+  &lt;li&gt;Content Views: 1,100,000&lt;/li&gt;
+  &lt;li&gt;Content Upvotes: 15,000&lt;/li&gt;
+  &lt;li&gt;Answers: 49&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/quora-post-mortem/img1.png&quot; alt=&quot;&quot; height=&quot;&quot; width=&quot;&quot; /&gt;
+&lt;img src=&quot;../images/quora-post-mortem/img2.png&quot; alt=&quot;&quot; height=&quot;&quot; width=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The total number of content views divided by number of answers is as a useful metric for measuring the efficiency of a writer’s growth on Quora. My averaged growth rate is 22,000 views/answer. For context, here are the averaged growth rates for some other successful Quora writers:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.quora.com/profile/Alon-Amit/answers&quot;&gt;Alon Amit&lt;/a&gt;: 13,171 views/answer&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.quora.com/profile/H%C3%A5kon-Hapnes-Strand&quot;&gt;Hakon Hapnes Strand&lt;/a&gt;: 9,003 views/answer&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.quora.com/profile/Daniel-McLaury&quot;&gt;Daniel McLaury&lt;/a&gt;: 3,339 views/answer&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Interpret the relative differences how you may, but I consider my efforts to be quite successful from a statistical perspective. When you consider that there are usually increasing returns to scale as you write more answers (i.e. your 1,000th answer will get more views than your 100th), it’s even more surprising that I was able to do far better per post than those highly successful writers &lt;em&gt;with a paltry 49 answers.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;As a more modest baseline, here are the averaged growth rates of some other Quorans who have roughly the same number of content views as me and answer questions about similar topics:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.quora.com/profile/Melissa-Dalis&quot;&gt;Melissa Dalis&lt;/a&gt;: 7,777 views/answer&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.quora.com/profile/Chia-Jeng-Yang-%E8%B0%A2%E5%BE%81%E9%98%B3&quot;&gt;Chia Jeng Yang&lt;/a&gt;: 5,882 views/answer&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.quora.com/profile/Steven-Schmatz&quot;&gt;Steven Schmatz&lt;/a&gt;: 4,140 views/answer&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.quora.com/profile/Jaime-Potter-1&quot;&gt;Jaime Potter&lt;/a&gt;: 3,836 views/answer&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.quora.com/profile/Patrick-Dugan-3&quot;&gt;Patrick Dugan&lt;/a&gt;: 3,500 views/answer&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Compared to this peer group, I did much better. Here’s how it happened.&lt;/p&gt;
+
+&lt;h2 id=&quot;story&quot;&gt;story&lt;/h2&gt;
+&lt;p&gt;The most common behavior on social media sites is called &lt;em&gt;lurking&lt;/em&gt;. Lurking is mere consumption, i.e. consumption without production. Users that lurk are, appropriately, called &lt;em&gt;lurkers&lt;/em&gt;. On Quora, lurking means viewing and upvoting answers but not writing any yourself. On Twitter, lurking means viewing and liking tweets but never sending any tweets yourself. On YouTube, lurking means viewing and commenting on videos without making any videos yourself. Such users are easily identified by having a high ratio of people whose content they consume vs. people who consume their content. You definitely know the type, because most users on most platforms are lurkers. They’re the commoners in online societies.&lt;/p&gt;
+
+&lt;p&gt;On the other hand, the ruling class in online societies is made up of &lt;em&gt;creators.&lt;/em&gt; Creators are the people who engage with the platform by making stuff. On Quora, this means actually answering questions. On Twitter, this means actually tweeting. On YouTube, this means actually making videos. Creators are rare, and only a small percentage of lurkers will ever transition to become creators. Creating is difficult, because it’s generally very discouraging at the outset. You post a few things that you spent a lot of time making, no one engages with them, and you feel bad. Going through this loop a few times is enough to discourage most people from continuing  their efforts.&lt;/p&gt;
+
+&lt;p&gt;I was a lurker on Quora for about a year, and then I started seeing answers from an absolute savant-level physics/math genius that was a few years younger than me (&lt;a href=&quot;https://www.quora.com/profile/Zane-Jakobs&quot;&gt;Zane Jakobs&lt;/a&gt;, he goes to CU Boulder and is now a friend of mine). I thought that if this &lt;em&gt;kid&lt;/em&gt; could get a bunch of followers, then surely I could too. Instead of just mindlessly posting into the void though, I developed a strategy. I had a rough idea of how social media platforms worked, and I thought that if I wrote answers to the right questions in the right way, I could probably grow at least an order of magnitude faster than Zane. This turned out to be correct – Zane’s averaged growth rate is 1,332 views/answer and mine is 22,000.&lt;/p&gt;
+
+&lt;p&gt;The first important thing I discovered about Quora was that its user base is &lt;a href=&quot;https://www.quora.com/What-s-the-latest-geographic-distribution-of-Quora-users&quot;&gt;largely from India&lt;/a&gt;, and Indians are &lt;em&gt;extremely&lt;/em&gt; tech literate. Their system of technical colleges is among the most prestigious and difficult to get into in the world (the IITs are &lt;em&gt;very&lt;/em&gt; well-reputed in American academia), and an outsized proportion of Indians study engineering and the various ‘hard’ sciences. A large proportion of the employees at major tech companies are from India. This is totally a sweeping generalization, but from what I observed, those facts meant that they were prestige-junkies of the same level as Americans.&lt;/p&gt;
+
+&lt;p&gt;With that in mind, I knew there was really only one obvious way of moving forward – to heavily utilize the tech status I had accumulated from my internships at Amazon. I soon discovered that similarly to America, Amazon is an extremely high-status employer in India. There’s a large amount of reverence for people that work there. So, I started answering questions about working as a data scientist for Amazon. They netted me an unbelievable amount of upvotes (5.9k &lt;a href=&quot;https://www.quora.com/What-is-it-like-to-be-a-data-scientist-at-Amazon&quot;&gt;here&lt;/a&gt;, 1k &lt;a href=&quot;https://www.quora.com/What-was-your-highest-point-as-a-data-scientist&quot;&gt;here&lt;/a&gt;, and 528 &lt;a href=&quot;https://www.quora.com/How-common-is-elitism-at-top-software-companies-such-as-Google-Facebook-Netflix-and-Amazon&quot;&gt;here&lt;/a&gt;), so I just kept on answering more and more questions about working as a data scientist for Amazon.&lt;/p&gt;
+
+&lt;p&gt;The algorithm promoted the hell out of my answers, and that’s basically the whole story. I tried to be smart about not picking questions that had answers which were already clear winners (i.e. had a bunch of upvotes), but the bulk of the explanation is that I figured out who the primary users of Quora were, did some preliminary psychological analysis on their behavioral tendencies, and wrote exclusively to cater to those tendencies. As you saw from the statistics, it worked like a charm.&lt;/p&gt;
+
+&lt;h2 id=&quot;slime&quot;&gt;slime&lt;/h2&gt;
+
+&lt;p&gt;This obviously feels a bit, idunno, &lt;em&gt;slimy?&lt;/em&gt; It feels sorta slimy in the same way that it feels sorta slimy when someone approaches you while you’re walking down the street and they get you to sign a petition for something that you know nothing about. It’s manipulative, but only slightly? It’s hard to put a pin on exactly what’s weird here, but it definitely puts my sensor in the &lt;em&gt;direction&lt;/em&gt; of wrong. This is why I don’t do it anymore. It was a sort of fun, mostly-harmless little social exercise, but doing it for years on end instead of a few months would be plainly gross.&lt;/p&gt;
+
+&lt;p&gt;That said, it’s interesting to see how easily a motivated actor can use these social media platforms to their advantage. Imagine if I had &lt;em&gt;zero&lt;/em&gt; moral compass, or even worse, a profit motive that compelled me to act like a totally subversive piece of shit. This is sort of what I imagine is happening everyday on most social media platforms. If I wanted to, I could easily spin up a fake profile on Facebook or Twitter or Quora and infiltrate basically any circle of people that I wanted to. Indeed, I happen to know a fairly prominent account on tech/VC Twitter that’s totally fake! The person who runs it does so purely to mess with bad actors in the space.&lt;/p&gt;
+
+&lt;p&gt;Another point I’d like to make is that most people don’t utilize the status and knowledge that they’ve accumulated to the extent that they could. The smartest college graduates in the world every year go into finance, consulting, and tech. They make good salaries while working on some of the most mundane problems the world has to offer. That Harvard degree you just got? How about instead of competing to climb the same ladder as 10,000 of your peers, try and figure out novel ways to exploit what you’ve earned! It’s a travesty to me that the default mode in modern American society is to blindly follow in the footsteps of others. Everyday, scores of students and adults march, lockstep, into the cave. They become so enamored by the beautiful images on the walls that they never dare to leave.&lt;/p&gt;
+
+&lt;p&gt;I dare you to break that spell.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 06 Nov 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019/quora-post-mortem</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/quora-post-mortem</guid>
+        
+        <category>media</category>
+        
+        
+        <category>post</category>
+        
+      </item>
     
       <item>
         <title>Graphs from scratch</title>
@@ -465,23 +536,6 @@ damage upon innocent students. We could all be having so much more fun.&lt;/p&gt
         
         
         <category>essay</category>
-        
-      </item>
-    
-      <item>
-        <title>there are no extraterrestrial intelligent beings</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/L3CmtYWO5b4&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-</description>
-        <pubDate>Mon, 10 Sep 2018 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2018/no-extraterrestrial-intelligent-beings</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/no-extraterrestrial-intelligent-beings</guid>
-        
-        <category>artificial-intelligence</category>
-        
-        <category>philosophy</category>
-        
-        
-        <category>video</category>
         
       </item>
     

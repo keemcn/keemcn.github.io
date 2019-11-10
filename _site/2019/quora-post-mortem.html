@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-144124722-2"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-144124722-2');
+    </script>
+    <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <!-- <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'> -->
+    <meta name='viewport' content='width=device-width'>
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" /> -->
+    <title>Quora postmortem</title>
+    <meta name="description" content="I spent a few months last year trying to see how efficiently I could game the website Quora – the goal was to gain a large amount of followers and views in a...">
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="canonical" href="http://localhost:4000/2019/quora-post-mortem">
+    <link rel="alternate" type="application/rss+xml" title="More Right" href="http://localhost:4000/feed.xml" />
+    <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
+    <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville&display=swap" rel="stylesheet">
+    
+
+</head>
+
+
+<body>
+  <aside class="main-header">
+  <header class="module">
+    <h1><a href="/"><b>More Right</b></a></h1>
+  </header>
+  <div class="module color2">
+    <span><i>Hi there! </i>My name's Keegan, and this is my blog – it's where I write stuff down after I've given it some thought. Hope you get something useful out of your time here!</span>
+  </div>
+  <nav class="module color4">
+    <div>
+      <a href="/">Blog</a>
+      <a href="/categories/">Categories</a>
+      <a href="/tags/">Tags</a>
+    </div>
+    <div>
+      <a href="/about/">About</a>
+      <a href="/now/">Now</a>
+    </div>
+  </nav>
+  <div class="module color3">
+    <a style="font-weight: medium; padding: .3em;" href="https://twitter.com/keegan_mcnamara" target="_blank">@keegan_mcnamara</a>
+    <a style="font-weight: medium; padding: .3em;" href="mailto:keemcn1@gmail.com" target="_blank">keemcn1@gmail.com</a>
+  </div>
+</aside>
+
+
+  <section class="main-content">
+    <article class="color3 module">
+  <a href="/2019/quora-post-mortem"><h1>Quora postmortem</h1></a>
+    <div>
+      <span class="tag-or-cat"><a href="/categories/#post">post</a></span>
+      
+        <span class="tag-or-cat"><a href="/tags/#media">media</a></span>
+      
+    </div>
+  <time>Nov 6, 2019</time>
+  <br>
+  <p>I spent a few months last year trying to see how efficiently I could game the website <a href="https://www.quora.com/">Quora</a> – the goal was to gain a large amount of followers and views in a very short amount of time. My efforts were very successful, and this is an analysis of how that happened.</p>
+
+<h2 id="stats">stats</h2>
+<p>As a starting point, here are the four core stats from my Quora profile at the time of this post’s writing (screenshots included for a dash of verifiability).</p>
+<ul>
+  <li>Followers: 1,444</li>
+  <li>Content Views: 1,100,000</li>
+  <li>Content Upvotes: 15,000</li>
+  <li>Answers: 49</li>
+</ul>
+
+<p><img src="../images/quora-post-mortem/img1.png" alt="" height="" width="" />
+<img src="../images/quora-post-mortem/img2.png" alt="" height="" width="" /></p>
+
+<p>The total number of content views divided by number of answers is as a useful metric for measuring the efficiency of a writer’s growth on Quora. My averaged growth rate is 22,000 views/answer. For context, here are the averaged growth rates for some other successful Quora writers:</p>
+<ul>
+  <li><a href="https://www.quora.com/profile/Alon-Amit/answers">Alon Amit</a>: 13,171 views/answer</li>
+  <li><a href="https://www.quora.com/profile/H%C3%A5kon-Hapnes-Strand">Hakon Hapnes Strand</a>: 9,003 views/answer</li>
+  <li><a href="https://www.quora.com/profile/Daniel-McLaury">Daniel McLaury</a>: 3,339 views/answer</li>
+</ul>
+
+<p>Interpret the relative differences how you may, but I consider my efforts to be quite successful from a statistical perspective. When you consider that there are usually increasing returns to scale as you write more answers (i.e. your 1,000th answer will get more views than your 100th), it’s even more surprising that I was able to do far better per post than those highly successful writers <em>with a paltry 49 answers.</em></p>
+
+<p>As a more modest baseline, here are the averaged growth rates of some other Quorans who have roughly the same number of content views as me and answer questions about similar topics:</p>
+
+<ul>
+  <li><a href="https://www.quora.com/profile/Melissa-Dalis">Melissa Dalis</a>: 7,777 views/answer</li>
+  <li><a href="https://www.quora.com/profile/Chia-Jeng-Yang-%E8%B0%A2%E5%BE%81%E9%98%B3">Chia Jeng Yang</a>: 5,882 views/answer</li>
+  <li><a href="https://www.quora.com/profile/Steven-Schmatz">Steven Schmatz</a>: 4,140 views/answer</li>
+  <li><a href="https://www.quora.com/profile/Jaime-Potter-1">Jaime Potter</a>: 3,836 views/answer</li>
+  <li><a href="https://www.quora.com/profile/Patrick-Dugan-3">Patrick Dugan</a>: 3,500 views/answer</li>
+</ul>
+
+<p>Compared to this peer group, I did much better. Here’s how it happened.</p>
+
+<h2 id="story">story</h2>
+<p>The most common behavior on social media sites is called <em>lurking</em>. Lurking is mere consumption, i.e. consumption without production. Users that lurk are, appropriately, called <em>lurkers</em>. On Quora, lurking means viewing and upvoting answers but not writing any yourself. On Twitter, lurking means viewing and liking tweets but never sending any tweets yourself. On YouTube, lurking means viewing and commenting on videos without making any videos yourself. Such users are easily identified by having a high ratio of people whose content they consume vs. people who consume their content. You definitely know the type, because most users on most platforms are lurkers. They’re the commoners in online societies.</p>
+
+<p>On the other hand, the ruling class in online societies is made up of <em>creators.</em> Creators are the people who engage with the platform by making stuff. On Quora, this means actually answering questions. On Twitter, this means actually tweeting. On YouTube, this means actually making videos. Creators are rare, and only a small percentage of lurkers will ever transition to become creators. Creating is difficult, because it’s generally very discouraging at the outset. You post a few things that you spent a lot of time making, no one engages with them, and you feel bad. Going through this loop a few times is enough to discourage most people from continuing  their efforts.</p>
+
+<p>I was a lurker on Quora for about a year, and then I started seeing answers from an absolute savant-level physics/math genius that was a few years younger than me (<a href="https://www.quora.com/profile/Zane-Jakobs">Zane Jakobs</a>, he goes to CU Boulder and is now a friend of mine). I thought that if this <em>kid</em> could get a bunch of followers, then surely I could too. Instead of just mindlessly posting into the void though, I developed a strategy. I had a rough idea of how social media platforms worked, and I thought that if I wrote answers to the right questions in the right way, I could probably grow at least an order of magnitude faster than Zane. This turned out to be correct – Zane’s averaged growth rate is 1,332 views/answer and mine is 22,000.</p>
+
+<p>The first important thing I discovered about Quora was that its user base is <a href="https://www.quora.com/What-s-the-latest-geographic-distribution-of-Quora-users">largely from India</a>, and Indians are <em>extremely</em> tech literate. Their system of technical colleges is among the most prestigious and difficult to get into in the world (the IITs are <em>very</em> well-reputed in American academia), and an outsized proportion of Indians study engineering and the various ‘hard’ sciences. A large proportion of the employees at major tech companies are from India. This is totally a sweeping generalization, but from what I observed, those facts meant that they were prestige-junkies of the same level as Americans.</p>
+
+<p>With that in mind, I knew there was really only one obvious way of moving forward – to heavily utilize the tech status I had accumulated from my internships at Amazon. I soon discovered that similarly to America, Amazon is an extremely high-status employer in India. There’s a large amount of reverence for people that work there. So, I started answering questions about working as a data scientist for Amazon. They netted me an unbelievable amount of upvotes (5.9k <a href="https://www.quora.com/What-is-it-like-to-be-a-data-scientist-at-Amazon">here</a>, 1k <a href="https://www.quora.com/What-was-your-highest-point-as-a-data-scientist">here</a>, and 528 <a href="https://www.quora.com/How-common-is-elitism-at-top-software-companies-such-as-Google-Facebook-Netflix-and-Amazon">here</a>), so I just kept on answering more and more questions about working as a data scientist for Amazon.</p>
+
+<p>The algorithm promoted the hell out of my answers, and that’s basically the whole story. I tried to be smart about not picking questions that had answers which were already clear winners (i.e. had a bunch of upvotes), but the bulk of the explanation is that I figured out who the primary users of Quora were, did some preliminary psychological analysis on their behavioral tendencies, and wrote exclusively to cater to those tendencies. As you saw from the statistics, it worked like a charm.</p>
+
+<h2 id="slime">slime</h2>
+
+<p>This obviously feels a bit, idunno, <em>slimy?</em> It feels sorta slimy in the same way that it feels sorta slimy when someone approaches you while you’re walking down the street and they get you to sign a petition for something that you know nothing about. It’s manipulative, but only slightly? It’s hard to put a pin on exactly what’s weird here, but it definitely puts my sensor in the <em>direction</em> of wrong. This is why I don’t do it anymore. It was a sort of fun, mostly-harmless little social exercise, but doing it for years on end instead of a few months would be plainly gross.</p>
+
+<p>That said, it’s interesting to see how easily a motivated actor can use these social media platforms to their advantage. Imagine if I had <em>zero</em> moral compass, or even worse, a profit motive that compelled me to act like a totally subversive piece of shit. This is sort of what I imagine is happening everyday on most social media platforms. If I wanted to, I could easily spin up a fake profile on Facebook or Twitter or Quora and infiltrate basically any circle of people that I wanted to. Indeed, I happen to know a fairly prominent account on tech/VC Twitter that’s totally fake! The person who runs it does so purely to mess with bad actors in the space.</p>
+
+<p>Another point I’d like to make is that most people don’t utilize the status and knowledge that they’ve accumulated to the extent that they could. The smartest college graduates in the world every year go into finance, consulting, and tech. They make good salaries while working on some of the most mundane problems the world has to offer. That Harvard degree you just got? How about instead of competing to climb the same ladder as 10,000 of your peers, try and figure out novel ways to exploit what you’ve earned! It’s a travesty to me that the default mode in modern American society is to blindly follow in the footsteps of others. Everyday, scores of students and adults march, lockstep, into the cave. They become so enamored by the beautiful images on the walls that they never dare to leave.</p>
+
+<p>I dare you to break that spell.</p>
+
+</article>
+
+<!--  include disqus.html  -->
+      <footer class="module color3">
+  <!-- <span class="right">Subscribe <a href="/feed.xml">via RSS</a></span> -->
+  <span class="right"><b>© 2019.</b><i> See them clamber, these nimble apes!</i></span>
+</footer>
+
+  </section>
+
+</body>
+</html>
