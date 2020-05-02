@@ -1,0 +1,22 @@
+I"�<h3 id="an-explanation">an explanation</h3>
+
+<p>Today is the day that I begin surfacing words from my personal reflection-journal/digital-thought-notebook thing. I have a (sort of) daily cadence of writing in it, because doing so helps me keep my head on straight. If I don’t work through the ambient thoughts in my brain in a systematic way like this, the thoughts either implode into nothingness or explode into existential and epistemic anxiety. Both of those outcomes are bad.</p>
+
+<p>Plus, I tweeted <a href="https://twitter.com/keegan_mcnamara/status/1188337574299013120">this</a> the other day, so I figured that instead of perpetuating the problems I pointed out, I’d start trying to solve them.</p>
+
+<p>A large part of me hates disturbing the former serenity and distilled nature of this website with something as filthy and unkempt as mere <em>thoughts</em> and <em>reflections</em> (the bile bubbles to the back of my throat as I type), but I’ve decided that if there’s any net positive effect on humanity as a result of my making such things public, then I ought to do it. As anyone who has taken an Analysis course knows, net positivity is not difficult to do ( <script type="math/tex">\forall \epsilon > 0,\exists...</script>), so I think I indeed ought to start.</p>
+
+<h3 id="some-changes">some changes</h3>
+<p>I’d still like there to be features that allow for some semblance of filterability on my writings, so I’ve added a <a href="https://keeganm.org/categories">categories</a> page and a <a href="https://keeganm.org/tags">tags</a> page. Implementing categories and tags from scratch in Jekyll was a bit of a pain in the ass, but I think it’ll be worth it in the longer term. I also have a fair number of thoughts about math and physics-related things, so I added MathJax support (do you even <script type="math/tex">\LaTeX</script>, bro?) for when I desperately need to reminisce on the days I spent breathing in toxic amounts of <a href="https://www.youtube.com/watch?v=PhNUjg9X4g8">Hagoromo</a> dust. Again, Jekyll is kind of a pain in the ass to do stuff like this with, but as my good friend Brennie would say, the ‘worth is high’.</p>
+
+<p>I’ll be categorizing these more spontaneous thoughts and writings as ‘posts’, as opposed to the far more time-consuming to produce ‘essays’ and ‘videos’. Perhaps someday I’ll gather the courage to put my poetry and prose on here. We’ll see.</p>
+
+<p>I’ve also changed the look and feel of the site. More specifically…</p>
+<ul>
+  <li>I changed the paragraph font to what I consider the most beautiful of all serifs, Libre Baskerville. I previously used Helvetica, which is nice for headings, but miserable to read for long periods of time. Such is the life of a sans.</li>
+  <li>I removed all of the colors from the site, with the notable exception of salmon (<span style="color: #ff5858;">#ff5858</span>). I use the same salmon color on my <a href="https://twitter.com/keegan_mcnamara">twitter profile</a>, and I enjoy having a cohesive brand identity in this one, very limited way. I’m also a proponent of design minimalism, which leads me to…</li>
+  <li>I thinned out all of the lines used for bounding boxes. This allows the elements on the screen to breathe, and it also focuses attention on the ones that matter. The bounding boxes themselves are actually totally unnecessary, but I like how they demarcate territory and group related elements together. They’re also somewhat of an homage to Engelbart and Kay’s invention of the notion of ‘windows’ for computer graphical user interfaces (read more <a href="https://en.wikipedia.org/wiki/History_of_the_graphical_user_interface">here</a>). Rectangles are cool.</li>
+</ul>
+
+<p>That’s everything pertinent that I can think of for the moment. Sláinte!</p>
+:ET
