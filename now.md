@@ -6,7 +6,6 @@ permalink: /now/
 
 _(This is [a now page](https://nownownow.com/about), and if you have your own site, you should make one, too.)_
 
-<<<<<<< HEAD
 I haven't been writing as much recently – I've been trying to work hard and focus. The big things in my life are currently:
 - building something of value
 - building personal infrastructure
@@ -33,8 +32,6 @@ This process and framing of building personal infrastructure has been a huge upd
 _Last updated: June 2020_
 
 <!--- FEBRUARY 2020
-=======
->>>>>>> 79631743e52faf23aa6d36ef87cc16c648528369
 I haven't been writing as much recently – I've been trying to work hard and focus. The big things in my life are currently
 - figuring out a career
 - figuring out a life
@@ -50,19 +47,9 @@ I graduated in December with a BA in mathematics and minor in astronomy from CU 
 
 Boulder is very good for my criteria, but Berkeley is better. In my estimation, the density of brilliance in the Bay Area is higher than any other large metropolitan area in the world. It is simply _the_ place to be for any activities that require brilliance – things like starting companies, producing art, and writing good blog posts. I'm excited to be here, and I've been loving it so far :)
 
-<<<<<<< HEAD
 Hopefully I can do justice to myself by writing out a bit more of what goes through my head on here. We'll see what happens in the next few months! -->
 
 <!--- OCTOBER 2019
-=======
-Hopefully I can do justice to myself by writing out a bit more of what goes through my head on here. We'll see what happens in the next few months!
-
----
-_Last updated: Feb 2020_
-
-[comment]: # (
-OCTOBER 2019
->>>>>>> 79631743e52faf23aa6d36ef87cc16c648528369
 The big things in my life are currently
 - figuring out a job
 - figuring out a life
@@ -88,9 +75,4 @@ In that pursuit, I'm spending **a lot** of time reading and thinking. I squeezed
 ## working on [Aloud](https://aloud.fyi)
 I can't help myself from doing something entrepreneurial with all this free time, so me and a friend have been working on a project called [Aloud](https://aloud.fyi). Aloud is a product I've wanted to exist for a very long time, and I'm happy that I can now deliver it to others.
 
-<<<<<<< HEAD
 We've raised a little bit of money from 1517 fund and CU Boulder to help get things started, and we're very excited about launching and growing.  -->
-=======
-We've raised a little bit of money from 1517 fund and CU Boulder to help get things started, and we're very excited about launching and growing. 
-)
->>>>>>> 79631743e52faf23aa6d36ef87cc16c648528369
