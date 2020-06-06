@@ -5,9 +5,70 @@
     <description>My name's Keegan, and this is my blog – it's where I write stuff down after I've given it some thought. Hope you get something useful out of your time here!</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 10 Nov 2019 21:00:54 +0800</pubDate>
-    <lastBuildDate>Sun, 10 Nov 2019 21:00:54 +0800</lastBuildDate>
-    <generator>Jekyll v3.8.6</generator>
+    <pubDate>Tue, 14 Apr 2020 10:24:10 -0600</pubDate>
+    <lastBuildDate>Tue, 14 Apr 2020 10:24:10 -0600</lastBuildDate>
+    <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>Title</title>
+        <description>
+</description>
+        <pubDate>Tue, 14 Apr 2020 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/2020/title</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/title</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>failed {Towards an Information-Theoretic Ontology}</title>
+        <description>&lt;p&gt;&lt;em&gt;Note: This post was a failed attempt at formalizing an iffy mental model. I realized that I don’t have the necessary physics background to be able to confidently say the things I tried outlining below. This is an incomplete, somewhat ugly agglomeration of ideas. Proceed at your own risk.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;gobbledegook&quot;&gt;gobbledegook&lt;/h2&gt;
+&lt;p&gt;Wow! You actually clicked through on the gobbledegook-filled title of this post! I’m impressed. In case you’re unsure about what those words mean, here’s a brief primer.&lt;/p&gt;
+
+&lt;p&gt;The title ‘Towards an Information-Theoretic Ontology’ just means that I think I’ve had a good insight into how the universe works, and that the insight uses concepts that come from Claude Shannon’s theory of information (note: if you haven’t read his &lt;a href=&quot;http://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf&quot;&gt;original paper&lt;/a&gt;, I highly recommend it).&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Information theory&lt;/em&gt; is a field of math that deals with how information, broadly conceived, is transmitted and stored. It gives a formal, rigorous way of thinking about bits and how computational devices can use them.&lt;/p&gt;
+
+&lt;p&gt;An &lt;em&gt;ontology&lt;/em&gt; is just a coherent framework that describes a group of things and how those things interact, but in the most pared-down way possible. To give you some intuition, a good example comes from particle physics: an ontology of particle physics would just be the list of particles and the list of fundamental forces that describe how they interact (we know of 4 such forces so far!). Sure, all of the higher level complexity in the universe is a direct result of those things and their interactions, but paring the complexity down to the pure essentials is part of the exercise of constructing an ontology. I’m also a math nerd, so I’m obligated to mention the obvious connection here to category theory. &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;idea&quot;&gt;idea&lt;/h2&gt;
+&lt;p&gt;The core insight is that conscious beings are information processors. We observe finite regions in time of the finite regions in space that are physically close to us, compress the information describing those regions, and store the compressed data in our heads. We can then recall the compressed data, decompress it, and utilize it to think. The goal is to formalize this notion of information processing and use it to build an ontology of the universe.&lt;/p&gt;
+
+&lt;h3 id=&quot;things&quot;&gt;things&lt;/h3&gt;
+&lt;p&gt;First, we begin with the &lt;em&gt;things&lt;/em&gt; in this ontology. The first type of &lt;em&gt;thing&lt;/em&gt; that we’re interested in is finite regions in time of finite regions of space. Imagine writing down all of the relevant positions and momenta of all of the subatomic particles that make up the Earth at some slice of time &lt;script type=&quot;math/tex&quot;&gt;t_{0}&lt;/script&gt;. Now imagine you zoom across the galaxy in a ship to some remote, empty corner of space. You also have an army of tiny, atomic-sized workers that can manipulate the positions and momenta of individual subatomic particles, and a machine that can pause time for the rest of the universe (but not for you and your atomic workers). If you had enough workers, enough subatomic particles to build with, and paused time for long enough, you could feed them directions from when you wrote down all of the relevant information about the Earth earlier and perfectly reconstruct the exact original state of the Earth at &lt;script type=&quot;math/tex&quot;&gt;t_{0}&lt;/script&gt;.&lt;/p&gt;
+
+&lt;p&gt;That’s cool, but we can go further. It turns out that time is, for all intents and purposes, discrete (the &lt;a href=&quot;https://en.wikipedia.org/wiki/Planck_time&quot;&gt;Planck time&lt;/a&gt;, denoted &lt;script type=&quot;math/tex&quot;&gt;t_{P}&lt;/script&gt;), so we now unpause time using our machine, wait one &lt;script type=&quot;math/tex&quot;&gt;t_{P}&lt;/script&gt;, and record the state of the Earth again. If we keep doing this process for all &lt;script type=&quot;math/tex&quot;&gt;\{t_{0}+nt_{p}, n \in \mathbb{N}\}&lt;/script&gt;, we can record everything on Earth until time itself ceases to exist.&lt;/p&gt;
+
+&lt;p&gt;But we don’t want to do that for all time – we just want to do that for some finite amount of time. This is to say that we’re only interested in all &lt;script type=&quot;math/tex&quot;&gt;% &lt;![CDATA[
+\{t_{0}+nt_{P}: n \in A \subset \mathbb{N}\ , \vert A \vert &lt; \infty \} %]]&gt;&lt;/script&gt;. Now that you have the intuition, we can crystallize things a bit. I call a &lt;em&gt;scene&lt;/em&gt; a bounded region of space and a perfect, complete record of the relevant characteristics of all of the subatomic particles in that region (type of particle, position, momentum) at a finite number of time slices. Without loss of generality, we can attach the temporal information into this set of ‘relevant characteristics’, and then obtain a set of tuples. So we finally arrive at this quasi-definition. A &lt;em&gt;scene&lt;/em&gt; is a set of tuples &lt;script type=&quot;math/tex&quot;&gt;\{a_{0},\ldots, a_{n}\}&lt;/script&gt; where each &lt;script type=&quot;math/tex&quot;&gt;a_{i}=(v,\vec d,\vec \rho,t_{0}+it_{P})&lt;/script&gt;. &lt;script type=&quot;math/tex&quot;&gt;v&lt;/script&gt; is the variety of particle, &lt;script type=&quot;math/tex&quot;&gt;\vec d&lt;/script&gt; is the position vector (quantized to a maximum resolution of the Planck length), and &lt;script type=&quot;math/tex&quot;&gt;\vec \rho&lt;/script&gt; is the momentum vector. Note that the indexing set on the tuples embeds the data about our &lt;script type=&quot;math/tex&quot;&gt;A&lt;/script&gt; from above into the scene. There are certainly some details that I’m skimping out on, but I’m just sketching out a bit of structure in this piece.&lt;/p&gt;
+
+&lt;p&gt;Great, so we have the notion of a scene – a perfect record of a region of spacetime…&lt;/p&gt;
+
+&lt;h3 id=&quot;relations&quot;&gt;relations&lt;/h3&gt;
+
+&lt;p&gt;There’s a fairly intuitive sense in which watching TV is like looking through a wormhole to the past, but we can add rigor to this notion. Unfortunately, the word ‘wormhole’ is already a well-defined concept in physics, so instead I’ll call this mathematical analogue a &lt;em&gt;tunnel&lt;/em&gt;. A &lt;em&gt;tunnel&lt;/em&gt; is a tuple &lt;script type=&quot;math/tex&quot;&gt;(A,B,C,f,g)&lt;/script&gt; where &lt;script type=&quot;math/tex&quot;&gt;A&lt;/script&gt; and &lt;script type=&quot;math/tex&quot;&gt;C&lt;/script&gt; are disjoint states of some bounded region of the standard Minkowski spacetime, &lt;script type=&quot;math/tex&quot;&gt;B&lt;/script&gt; is an arbitrary set, &lt;script type=&quot;math/tex&quot;&gt;f&lt;/script&gt; is a compression scheme that maps &lt;script type=&quot;math/tex&quot;&gt;A \to B&lt;/script&gt;, and &lt;script type=&quot;math/tex&quot;&gt;g&lt;/script&gt; is a decompression scheme that maps &lt;script type=&quot;math/tex&quot;&gt;B \to C&lt;/script&gt;. To disambiguate, a disjoint state of some bounded region of the standard Minkowski spacetime is…&lt;/p&gt;
+
+&lt;p&gt;Let’s do a sanity check to make sure that the tunnel as defined earlier…&lt;/p&gt;
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;In math-speak, an ontology is just a category (but with a lot less rigor and elegance in the definition). Like a category, an ontology has two sets – one is a set of &lt;em&gt;objects&lt;/em&gt;, and the other is a set of &lt;em&gt;morphisms&lt;/em&gt;. At a very high level, the objects are the &lt;em&gt;things&lt;/em&gt; you’re interested in, and the morphisms are the &lt;em&gt;ways that those things interact with one another&lt;/em&gt;. Some of the more famous categories are Set (objects are sets, morphisms are functions), Grp (objects are groups, morphisms are group homomorphisms), and Top (objects are topological spaces, morphisms are continuous functions between topological spaces). &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 24 Feb 2020 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2020/information-theoretic-ontology</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/information-theoretic-ontology</guid>
+        
+        <category>philosophy</category>
+        
+        
+        <category>post</category>
+        
+      </item>
     
       <item>
         <title>Quora postmortem</title>
@@ -25,7 +86,7 @@
 &lt;p&gt;&lt;img src=&quot;../images/quora-post-mortem/img1.png&quot; alt=&quot;&quot; height=&quot;&quot; width=&quot;&quot; /&gt;
 &lt;img src=&quot;../images/quora-post-mortem/img2.png&quot; alt=&quot;&quot; height=&quot;&quot; width=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;The total number of content views divided by number of answers is as a useful metric for measuring the efficiency of a writer’s growth on Quora. My averaged growth rate is 22,000 views/answer. For context, here are the averaged growth rates for some other successful Quora writers:&lt;/p&gt;
+&lt;p&gt;The total number of content views divided by number of answers is a useful metric for measuring the efficiency of a writer’s growth on Quora. My averaged growth rate is 22,000 views/answer. For context, here are the averaged growth rates for some other successful Quora writers:&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.quora.com/profile/Alon-Amit/answers&quot;&gt;Alon Amit&lt;/a&gt;: 13,171 views/answer&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.quora.com/profile/H%C3%A5kon-Hapnes-Strand&quot;&gt;Hakon Hapnes Strand&lt;/a&gt;: 9,003 views/answer&lt;/li&gt;
@@ -63,13 +124,13 @@
 
 &lt;p&gt;This obviously feels a bit, idunno, &lt;em&gt;slimy?&lt;/em&gt; It feels sorta slimy in the same way that it feels sorta slimy when someone approaches you while you’re walking down the street and they get you to sign a petition for something that you know nothing about. It’s manipulative, but only slightly? It’s hard to put a pin on exactly what’s weird here, but it definitely puts my sensor in the &lt;em&gt;direction&lt;/em&gt; of wrong. This is why I don’t do it anymore. It was a sort of fun, mostly-harmless little social exercise, but doing it for years on end instead of a few months would be plainly gross.&lt;/p&gt;
 
-&lt;p&gt;That said, it’s interesting to see how easily a motivated actor can use these social media platforms to their advantage. Imagine if I had &lt;em&gt;zero&lt;/em&gt; moral compass, or even worse, a profit motive that compelled me to act like a totally subversive piece of shit. This is sort of what I imagine is happening everyday on most social media platforms. If I wanted to, I could easily spin up a fake profile on Facebook or Twitter or Quora and infiltrate basically any circle of people that I wanted to. Indeed, I happen to know a fairly prominent account on tech/VC Twitter that’s totally fake! The person who runs it does so purely to mess with bad actors in the space.&lt;/p&gt;
+&lt;p&gt;That said, it’s interesting to see how easily a motivated actor can use these social media platforms to their advantage. Imagine if I had &lt;em&gt;zero&lt;/em&gt; moral compass, or even worse, a profit motive that compelled me to act like a totally subversive piece of shit – this is sort of what I imagine is happening everyday on most social media platforms. If I wanted to, I could easily spin up a fake profile on Facebook or Twitter or Quora and infiltrate basically any circle of people that I wanted to. Indeed, I happen to know a fairly prominent account on tech/VC Twitter that’s totally fake! The person who runs it does so purely to mess with bad actors in the space.&lt;/p&gt;
 
 &lt;p&gt;Another point I’d like to make is that most people don’t utilize the status and knowledge that they’ve accumulated to the extent that they could. The smartest college graduates in the world every year go into finance, consulting, and tech. They make good salaries while working on some of the most mundane problems the world has to offer. That Harvard degree you just got? How about instead of competing to climb the same ladder as 10,000 of your peers, try and figure out novel ways to exploit what you’ve earned! It’s a travesty to me that the default mode in modern American society is to blindly follow in the footsteps of others. Everyday, scores of students and adults march, lockstep, into the cave. They become so enamored by the beautiful images on the walls that they never dare to leave.&lt;/p&gt;
 
 &lt;p&gt;I dare you to break that spell.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 06 Nov 2019 00:00:00 +0800</pubDate>
+        <pubDate>Wed, 06 Nov 2019 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/2019/quora-post-mortem</link>
         <guid isPermaLink="true">http://localhost:4000/2019/quora-post-mortem</guid>
         
@@ -254,7 +315,7 @@ damage upon innocent students. We could all be having so much more fun.&lt;/p&gt
   &lt;/ol&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Mon, 04 Nov 2019 00:00:00 +0800</pubDate>
+        <pubDate>Mon, 04 Nov 2019 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/2019/graphs-from-scratch</link>
         <guid isPermaLink="true">http://localhost:4000/2019/graphs-from-scratch</guid>
         
@@ -285,7 +346,7 @@ damage upon innocent students. We could all be having so much more fun.&lt;/p&gt
 
 &lt;p&gt;Sláinte!&lt;/p&gt;
 </description>
-        <pubDate>Sat, 02 Nov 2019 00:00:00 +0800</pubDate>
+        <pubDate>Sat, 02 Nov 2019 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/2019/literature-as-evidence</link>
         <guid isPermaLink="true">http://localhost:4000/2019/literature-as-evidence</guid>
         
@@ -312,7 +373,7 @@ damage upon innocent students. We could all be having so much more fun.&lt;/p&gt
 
 &lt;p&gt;Our entire system of ethics could well be false to &lt;em&gt;all&lt;/em&gt; other forms of intelligent life in the universe – this would make for extremely difficult interspecies negotiation if aliens were to come to Earth, or even if we were to create sentient AI here &lt;em&gt;on&lt;/em&gt; Earth.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 31 Oct 2019 00:00:00 +0800</pubDate>
+        <pubDate>Thu, 31 Oct 2019 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/2019/base-pleasure</link>
         <guid isPermaLink="true">http://localhost:4000/2019/base-pleasure</guid>
         
@@ -345,7 +406,7 @@ damage upon innocent students. We could all be having so much more fun.&lt;/p&gt
 
 &lt;p&gt;Perhaps most things are like this! &lt;em&gt;Perhaps the world is a bit more complex than how the media portrays it!&lt;/em&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 30 Oct 2019 00:00:00 +0800</pubDate>
+        <pubDate>Wed, 30 Oct 2019 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/2019/the-illusory-stupidity-of-politicians</link>
         <guid isPermaLink="true">http://localhost:4000/2019/the-illusory-stupidity-of-politicians</guid>
         
@@ -382,7 +443,7 @@ damage upon innocent students. We could all be having so much more fun.&lt;/p&gt
 
 &lt;p&gt;That’s everything pertinent that I can think of for the moment. Sláinte!&lt;/p&gt;
 </description>
-        <pubDate>Mon, 28 Oct 2019 00:00:00 +0800</pubDate>
+        <pubDate>Mon, 28 Oct 2019 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/2019/a-new-era-of-more-right</link>
         <guid isPermaLink="true">http://localhost:4000/2019/a-new-era-of-more-right</guid>
         
@@ -399,7 +460,7 @@ damage upon innocent students. We could all be having so much more fun.&lt;/p&gt
         <title>My Essay in Palladium Magazine</title>
         <description>&lt;p&gt;I wrote a piece for Palladium about the video game industry, the increasingly exploitative tools it uses to gain/retain users, and why we need change. Read it &lt;a href=&quot;https://palladiummag.com/2019/09/12/the-siren-call-of-video-games-amid-decaying-social-fabric/&amp;quot;&quot;&gt;here&lt;/a&gt;!&lt;/p&gt;
 </description>
-        <pubDate>Fri, 13 Sep 2019 00:00:00 +0800</pubDate>
+        <pubDate>Fri, 13 Sep 2019 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/2019/palladium-piece</link>
         <guid isPermaLink="true">http://localhost:4000/2019/palladium-piece</guid>
         
@@ -428,111 +489,11 @@ damage upon innocent students. We could all be having so much more fun.&lt;/p&gt
 
 &lt;p&gt;Peace.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 27 May 2019 00:00:00 +0800</pubDate>
+        <pubDate>Mon, 27 May 2019 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/2019/sport-and-invisible-propaganda</link>
         <guid isPermaLink="true">http://localhost:4000/2019/sport-and-invisible-propaganda</guid>
         
         <category>social-observation</category>
-        
-        
-        <category>essay</category>
-        
-      </item>
-    
-      <item>
-        <title>The Only Reason College Prestige Matters</title>
-        <description>&lt;p&gt;Harvard. Stanford. MIT. Princeton. Yale. Northwestern. Johns Hopkins. UChicago. Berkeley. Columbia. Dartmouth.&lt;/p&gt;
-
-&lt;p&gt;These are all names that bring about strong emotions in most people. For some, those emotions are jealousy, anger, and disdain. For most others, they’re prestige, respect, and mystique.&lt;/p&gt;
-
-&lt;p&gt;But why do such institutions hold such high places in our hearts and minds? Why do we value graduates of that set of prestigious schools so much more than all of the others?&lt;/p&gt;
-
-&lt;p&gt;I think it’s solely because it’s hard to get in.&lt;/p&gt;
-
-&lt;p&gt;I know that when I’m looking at someone’s LinkedIn profile or resume, the biggest “wow!” factor is a degree from a prestigious institution. And the reason I’ve come up with to explain &lt;em&gt;why&lt;/em&gt; is not at all because of the things that they’ve learned while walking the hallowed halls of such places — anecdotally, the content and quality of an education varies very little within US colleges. Calc 3 at Stanford is pretty damn similar to Calc 3 at The University of Georgia.&lt;/p&gt;
-
-&lt;p&gt;Instead, the degree indicates to me that the person was given a stamp of approval by one of the most difficult, rigorous filtering processes that the world has to offer — the admissions committee. Any Stanford freshman in this year’s class of 2022 was among only 4.36% of students to be accepted. Read that one more time. &lt;strong&gt;Four point three six percent.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The sum total of a student’s entire life, both academic and otherwise, was evaluated by a brutally harsh committee of Stanford gatekeepers, and that student was let in. Those gatekeepers pored over every detail on that person’s admission profile and thought that they stood out among &lt;strong&gt;47,451&lt;/strong&gt; applicants. That’s remarkable, and indicates an immense amount of skill, dedication, and tenacity.&lt;/p&gt;
-
-&lt;p&gt;In short, it means they were a badass early on in their lives. Whether it was through parental pressures, natural talent, or whatever else, they pursued and achieved incredible things while they were less than ~18 years old. It’s &lt;em&gt;guaranteed&lt;/em&gt; that they did. And that’s why it’s valuable when I see it on a resume.&lt;/p&gt;
-
-&lt;p&gt;In doing this, I’m essentially just bootstrapping the sum total expertise and experience of those admissions committees and leveraging it to make a more informed opinion of a person. The probability that someone who has demonstrated badassery to the degree needed to get into an elite school will go on to continue demonstrating badassery thereafter (in any given area of their life) is &lt;em&gt;far&lt;/em&gt; higher than the probability that someone who graduated from community college after dropping out of high school will do the same.&lt;/p&gt;
-
-&lt;p&gt;I find this explanation to be deeply satisfying— it explains why I hold MIT drop-outs in the same raw intellectual talent regard as I hold people who spent the full 4 years at MIT. It explains why I hold Dartmouth graduates from the 70’s in far lower raw talent regard than the Dartmouth freshmen of today. It explains why I hold Harvard undergrads who go on to PhD programs at CU Boulder in higher talent regard than CU Boulder undergrads who go on to PhD programs at Harvard. And most of all, it explains why people who list Stanford as their education on LinkedIn after completing an online course on Udacity or Coursera are not impressive to me &lt;em&gt;whatsoever&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;In my evaluation, it’s all about leveraging the effort, research, and expertise of the admissions councils in order to establish a base confidence in the likelihood of a given person to be a badass.&lt;/p&gt;
-
-&lt;p&gt;This outlook is the most effective in the case where I’m considering people who are either currently enrolled in college or are recent graduates/drop outs. From there on out, where they went doesn’t matter as much as what they ended up doing for work.&lt;/p&gt;
-
-&lt;p&gt;This is best shown with an example. If Jill went to Yale but then worked for Deloitte for 10 years and did nothing of interest except earn one promotion, Jill is not a badass (in my book). If Joe went to Washington State but then worked for Google as a Software Engineer for 2 years and started 3 companies, one of which failed, one of which was sold for 200mm, and one of which was acquihired by Microsoft, I no longer care that he went to Washington State — he’s sufficiently demonstrated his badassery to me.&lt;/p&gt;
-
-&lt;p&gt;And while it’s totally feasible for edge cases to occur on both sides of the spectrum, telling ourselves romantic stories about them leads to false general perceptions.&lt;/p&gt;
-
-&lt;p&gt;Take one of my good friends from high school who was incredibly intelligent and an undeniable badass, but was denied admission at the Ivies he applied to. He ended up going to CU Boulder. Just because of this edge case, we shouldn’t tell ourselves a false narrative that CU Boulder graduates are as competent on average as MIT graduates.&lt;/p&gt;
-
-&lt;p&gt;On the other end, take a guy I met this past summer who was undoubtedly dumb. He had extremely poor technical abilities, didn’t learn quickly, and couldn’t communicate his thoughts in an effective way. He’s a Junior at Princeton. Just because of this edge case, we shouldn’t tell ourselves a false narrative that Princeton graduates are as competent on average as UMass Amherst graduates.&lt;/p&gt;
-
-&lt;p&gt;This is a tough pill to swallow as a college student at a less prestigious school. It means that you’ll likely have a more difficult time getting started in your professional career. Remember that all hope is not lost, however. If you can prove yourself by doing incredible things and persevering through the ‘prestige gap’, you can surpass anyone that may have come out of an Ivy league school or other top ranked institution.&lt;/p&gt;
-
-&lt;p&gt;Likewise, if you’re a college student at a prestigious school, you have a leg up out of the gates. But if you squander your career pursuing unimpressive, safe, or boring opportunities, you’ll lose your lead.&lt;/p&gt;
-
-&lt;p&gt;Either way, it’s most important &lt;em&gt;by far&lt;/em&gt; to take risks and do cool things. The majority of your life is spent &lt;strong&gt;not&lt;/strong&gt; in college, so make it count.&lt;/p&gt;
-
-&lt;p&gt;Peace.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 01 Feb 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2019/the-only-reason-college-prestige-matters</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/the-only-reason-college-prestige-matters</guid>
-        
-        <category>college</category>
-        
-        <category>social-observation</category>
-        
-        
-        <category>essay</category>
-        
-      </item>
-    
-      <item>
-        <title>Savor the Cereal</title>
-        <description>&lt;p&gt;When I was younger, I wasn’t an awesome human being. I didn’t try very hard in any of my classes, I played too many video games, I didn’t read enough, I ate like shit, and I exercised only when I felt so disgusted with myself that it felt like a fucking moral imperative.&lt;/p&gt;
-
-&lt;p&gt;I wanted to unearth my true potential, but I also knew that there wasn’t an ice cube’s chance in hell of that potential being actualized unless I changed my life in a really fundamental way.&lt;/p&gt;
-
-&lt;p&gt;That way came through reading. I forced myself to read 14 books in 2 weeks while working full-time at Amazon, and I learned some cool shit from some great writers like Atul Gawande, Nick Bostrom, and Ray Dalio. The books I read collectively sparked in me a deep-seated desire to re-evaluate my life and create a framework for self improvement.&lt;/p&gt;
-
-&lt;p&gt;That framework manifested itself in an increased drive to do certain thing and undergo periods of harsh self-reflection that then informed plans to create a rigorous routine of hard work and discipline. It also manifested itself in an increased need to consume ideas and thoughts in the form of reading books, Medium articles, blog posts, and Quora answers, watching terrific thought-pieces on YouTube, great documentaries on Netflix, and awesome short-films on Vimeo, and listening to podcasts from some of the great thinkers of our time.&lt;/p&gt;
-
-&lt;p&gt;It. Was. Fucking. Incessant. I spent damn near every waking minute consuming thoughts and ideas. Podcasts for breakfast, Podcasts while I was driving (one earbud out for safety!), YouTube videos during my lunch break, Medium articles as a mental break from coding, and documentaries late at night when I couldn’t focus anymore. I devoured media &lt;em&gt;voraciously.&lt;/em&gt; And this was the “good” media, too. The kind that everyone and their mother tells you to consume instead of the shitty news updates you see on Snapchat, Facebook, Twitter, and Instagram. I used said apps for a combined 10 minutes a day, just to make sure I wasn’t missing out on the US being bombed or some similarly important, historic event.&lt;/p&gt;
-
-&lt;p&gt;I thought I was doing great — being aware and motivated towards self improvement wasn’t the norm for people my age. I felt like I was succeeding in a culture where it was all too common to spend day after day drinking from the endless dopamine-fountain that is social media. But for some reason, at the end of every day, I felt just as empty as when I woke up.&lt;/p&gt;
-
-&lt;p&gt;This went on for some time, before I finally realized that I wasn’t &lt;em&gt;being.&lt;/em&gt; I was constantly in the &lt;strong&gt;on&lt;/strong&gt; position — thinking, reading, wondering, journaling, making note of the things that I was learning, engaging with people, etc…&lt;/p&gt;
-
-&lt;p&gt;Not once did I stop. Not once did I &lt;em&gt;smell the goddamn roses&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;So the next day, instead of listening to the new Sam Harris podcast while I scarfed down some cereal in an effort to get to the gym on schedule for my daily routine, I put my phone away and &lt;em&gt;just ate the fucking cereal&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Instead of pondering the ethics of honor culture while listening to the eloquent neuroscience PhD talk on 1.5x speed, I slowed down and tasted every single bite of that bowl of Honey Bunches of Oats that went into my mouth. Every delectable calorie that lay in the bowl below me was appreciated as it crossed my palate and subsequently slid down my gullet.&lt;/p&gt;
-
-&lt;p&gt;Have you ever realized that Honey Bunches of Oats is mostly just Corn Flakes and Frosted Flakes mixed together in an orgy of carbs? I sure as shit know that I hadn’t prior to that fateful morning.&lt;/p&gt;
-
-&lt;p&gt;It was &lt;em&gt;magical&lt;/em&gt; to slow down, be present in the moment, and be aware of how amazing the most mundane stuff in our lives is. I mean, it was &lt;em&gt;cereal&lt;/em&gt; for chrissakes.&lt;/p&gt;
-
-&lt;p&gt;Ever since then, I’ve made sure that I take the time every day to stop being so constantly &lt;strong&gt;on&lt;/strong&gt; and slow down to realize the wonderment that can be seen in every nook and cranny of ordinary being. &lt;strong&gt;That&lt;/strong&gt; is what has made me a better person and realize my potential in a fuller manner. No amount of podcasts, books, or thought-pieces can help you see the miraculous nature of everything we do.&lt;/p&gt;
-
-&lt;p&gt;Consuming is not being.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Savor the cereal.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Peace.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 21 Oct 2018 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2018/savor-the-cereal</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/savor-the-cereal</guid>
-        
-        <category>self-improvement</category>
         
         
         <category>essay</category>
