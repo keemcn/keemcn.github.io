@@ -5,6 +5,7 @@
     <description>My name's Keegan, and this is my blog – it's where I write stuff down after I've given it some thought. Hope you get something useful out of your time here!</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+<<<<<<< HEAD
     <pubDate>Tue, 14 Apr 2020 10:24:10 -0600</pubDate>
     <lastBuildDate>Tue, 14 Apr 2020 10:24:10 -0600</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
@@ -21,6 +22,13 @@
       </item>
     
       <item>
+=======
+    <pubDate>Sat, 02 May 2020 14:26:55 -0600</pubDate>
+    <lastBuildDate>Sat, 02 May 2020 14:26:55 -0600</lastBuildDate>
+    <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+>>>>>>> 79631743e52faf23aa6d36ef87cc16c648528369
         <title>failed {Towards an Information-Theoretic Ontology}</title>
         <description>&lt;p&gt;&lt;em&gt;Note: This post was a failed attempt at formalizing an iffy mental model. I realized that I don’t have the necessary physics background to be able to confidently say the things I tried outlining below. This is an incomplete, somewhat ugly agglomeration of ideas. Proceed at your own risk.&lt;/em&gt;&lt;/p&gt;
 
@@ -500,5 +508,63 @@ damage upon innocent students. We could all be having so much more fun.&lt;/p&gt
         
       </item>
     
+<<<<<<< HEAD
+=======
+      <item>
+        <title>The Only Reason College Prestige Matters</title>
+        <description>&lt;p&gt;Harvard. Stanford. MIT. Princeton. Yale. Northwestern. Johns Hopkins. UChicago. Berkeley. Columbia. Dartmouth.&lt;/p&gt;
+
+&lt;p&gt;These are all names that bring about strong emotions in most people. For some, those emotions are jealousy, anger, and disdain. For most others, they’re prestige, respect, and mystique.&lt;/p&gt;
+
+&lt;p&gt;But why do such institutions hold such high places in our hearts and minds? Why do we value graduates of that set of prestigious schools so much more than all of the others?&lt;/p&gt;
+
+&lt;p&gt;I think it’s solely because it’s hard to get in.&lt;/p&gt;
+
+&lt;p&gt;I know that when I’m looking at someone’s LinkedIn profile or resume, the biggest “wow!” factor is a degree from a prestigious institution. And the reason I’ve come up with to explain &lt;em&gt;why&lt;/em&gt; is not at all because of the things that they’ve learned while walking the hallowed halls of such places — anecdotally, the content and quality of an education varies very little within US colleges. Calc 3 at Stanford is pretty damn similar to Calc 3 at The University of Georgia.&lt;/p&gt;
+
+&lt;p&gt;Instead, the degree indicates to me that the person was given a stamp of approval by one of the most difficult, rigorous filtering processes that the world has to offer — the admissions committee. Any Stanford freshman in this year’s class of 2022 was among only 4.36% of students to be accepted. Read that one more time. &lt;strong&gt;Four point three six percent.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The sum total of a student’s entire life, both academic and otherwise, was evaluated by a brutally harsh committee of Stanford gatekeepers, and that student was let in. Those gatekeepers pored over every detail on that person’s admission profile and thought that they stood out among &lt;strong&gt;47,451&lt;/strong&gt; applicants. That’s remarkable, and indicates an immense amount of skill, dedication, and tenacity.&lt;/p&gt;
+
+&lt;p&gt;In short, it means they were a badass early on in their lives. Whether it was through parental pressures, natural talent, or whatever else, they pursued and achieved incredible things while they were less than ~18 years old. It’s &lt;em&gt;guaranteed&lt;/em&gt; that they did. And that’s why it’s valuable when I see it on a resume.&lt;/p&gt;
+
+&lt;p&gt;In doing this, I’m essentially just bootstrapping the sum total expertise and experience of those admissions committees and leveraging it to make a more informed opinion of a person. The probability that someone who has demonstrated badassery to the degree needed to get into an elite school will go on to continue demonstrating badassery thereafter (in any given area of their life) is &lt;em&gt;far&lt;/em&gt; higher than the probability that someone who graduated from community college after dropping out of high school will do the same.&lt;/p&gt;
+
+&lt;p&gt;I find this explanation to be deeply satisfying— it explains why I hold MIT drop-outs in the same raw intellectual talent regard as I hold people who spent the full 4 years at MIT. It explains why I hold Dartmouth graduates from the 70’s in far lower raw talent regard than the Dartmouth freshmen of today. It explains why I hold Harvard undergrads who go on to PhD programs at CU Boulder in higher talent regard than CU Boulder undergrads who go on to PhD programs at Harvard. And most of all, it explains why people who list Stanford as their education on LinkedIn after completing an online course on Udacity or Coursera are not impressive to me &lt;em&gt;whatsoever&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;In my evaluation, it’s all about leveraging the effort, research, and expertise of the admissions councils in order to establish a base confidence in the likelihood of a given person to be a badass.&lt;/p&gt;
+
+&lt;p&gt;This outlook is the most effective in the case where I’m considering people who are either currently enrolled in college or are recent graduates/drop outs. From there on out, where they went doesn’t matter as much as what they ended up doing for work.&lt;/p&gt;
+
+&lt;p&gt;This is best shown with an example. If Jill went to Yale but then worked for Deloitte for 10 years and did nothing of interest except earn one promotion, Jill is not a badass (in my book). If Joe went to Washington State but then worked for Google as a Software Engineer for 2 years and started 3 companies, one of which failed, one of which was sold for 200mm, and one of which was acquihired by Microsoft, I no longer care that he went to Washington State — he’s sufficiently demonstrated his badassery to me.&lt;/p&gt;
+
+&lt;p&gt;And while it’s totally feasible for edge cases to occur on both sides of the spectrum, telling ourselves romantic stories about them leads to false general perceptions.&lt;/p&gt;
+
+&lt;p&gt;Take one of my good friends from high school who was incredibly intelligent and an undeniable badass, but was denied admission at the Ivies he applied to. He ended up going to CU Boulder. Just because of this edge case, we shouldn’t tell ourselves a false narrative that CU Boulder graduates are as competent on average as MIT graduates.&lt;/p&gt;
+
+&lt;p&gt;On the other end, take a guy I met this past summer who was undoubtedly dumb. He had extremely poor technical abilities, didn’t learn quickly, and couldn’t communicate his thoughts in an effective way. He’s a Junior at Princeton. Just because of this edge case, we shouldn’t tell ourselves a false narrative that Princeton graduates are as competent on average as UMass Amherst graduates.&lt;/p&gt;
+
+&lt;p&gt;This is a tough pill to swallow as a college student at a less prestigious school. It means that you’ll likely have a more difficult time getting started in your professional career. Remember that all hope is not lost, however. If you can prove yourself by doing incredible things and persevering through the ‘prestige gap’, you can surpass anyone that may have come out of an Ivy league school or other top ranked institution.&lt;/p&gt;
+
+&lt;p&gt;Likewise, if you’re a college student at a prestigious school, you have a leg up out of the gates. But if you squander your career pursuing unimpressive, safe, or boring opportunities, you’ll lose your lead.&lt;/p&gt;
+
+&lt;p&gt;Either way, it’s most important &lt;em&gt;by far&lt;/em&gt; to take risks and do cool things. The majority of your life is spent &lt;strong&gt;not&lt;/strong&gt; in college, so make it count.&lt;/p&gt;
+
+&lt;p&gt;Peace.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 01 Feb 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2019/the-only-reason-college-prestige-matters</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/the-only-reason-college-prestige-matters</guid>
+        
+        <category>college</category>
+        
+        <category>social-observation</category>
+        
+        
+        <category>essay</category>
+        
+      </item>
+    
+>>>>>>> 79631743e52faf23aa6d36ef87cc16c648528369
   </channel>
 </rss>
