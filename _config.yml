@@ -1,6 +1,6 @@
 # Site settings
 title:        "More Right"
-description:  "My name's Keegan, and this is my blog – it's where I write stuff down after I've given it some thought. Hope you get something useful out of your time here!"
+description:  "my name's Keegan, and this is my blog. It's where I write stuff down after I've given it some thought. Hopefully you get something useful out of your time here!"
 baseurl:      "" # the subpath of your site, e.g. /blog/
 url:          "https://keeganm.org" # the base hostname & protocol for your site
 permalink:    /:year/:title

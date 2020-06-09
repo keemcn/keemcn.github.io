@@ -2,33 +2,130 @@
 <rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
   <channel>
     <title>More Right</title>
-    <description>My name's Keegan, and this is my blog – it's where I write stuff down after I've given it some thought. Hope you get something useful out of your time here!</description>
+    <description>my name's Keegan, and this is my blog. It's where I write stuff down after I've given it some thought. Hopefully you get something useful out of your time here!</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-<<<<<<< HEAD
-    <pubDate>Tue, 14 Apr 2020 10:24:10 -0600</pubDate>
-    <lastBuildDate>Tue, 14 Apr 2020 10:24:10 -0600</lastBuildDate>
+    <pubDate>Mon, 08 Jun 2020 21:39:50 -0600</pubDate>
+    <lastBuildDate>Mon, 08 Jun 2020 21:39:50 -0600</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
-        <title>Title</title>
-        <description>
+        <title>Electro-pastel Surge</title>
+        <description>&lt;p&gt;Through the quintuple-paned suburban lenses,&lt;/p&gt;
+
+&lt;p&gt;a universe of blind quiescence,&lt;/p&gt;
+
+&lt;p&gt;a bastard’s adventure, an infinitely finite generation&lt;/p&gt;
+
+&lt;p&gt;a binary life constructed, misconstrued&lt;/p&gt;
+
+&lt;p&gt;beeps, whirrs, flashes, a stack of bedside books bounded by the black Sag A*&lt;/p&gt;
+
+&lt;p&gt;incoherent fiefdoms of antiquity transmogrified a la modernité&lt;/p&gt;
+
+&lt;p&gt;an infinitely finite personal library&lt;/p&gt;
+
+&lt;p&gt;an infinitely finite life to scrape the ancient words from their scum-ridden pages, alas,&lt;/p&gt;
+
+&lt;p&gt;no bijection exists&lt;/p&gt;
+
+&lt;p&gt;a book which contains all books contains itself&lt;/p&gt;
+
+&lt;p&gt;a life which contains all lives surely must contain itself?&lt;/p&gt;
 </description>
-        <pubDate>Tue, 14 Apr 2020 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/2020/title</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/title</guid>
+        <pubDate>Mon, 08 Jun 2020 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/2020/electro-pastel-surge</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/electro-pastel-surge</guid>
         
         
       </item>
     
       <item>
-=======
-    <pubDate>Sat, 02 May 2020 14:26:55 -0600</pubDate>
-    <lastBuildDate>Sat, 02 May 2020 14:26:55 -0600</lastBuildDate>
-    <generator>Jekyll v4.0.0</generator>
+        <title>Persecution and the Art of the Alt</title>
+        <description>&lt;p&gt;The internet is a ghoulish cauldron, made of stainless steel and fueled by alchemy; it overflows with swirling ideas in their many forms. The digital entities of today that pour their ephemeral ideas from small glass flasks into the cauldron are descended from flesh-and-blood entities of the past.&lt;/p&gt;
+
+&lt;p&gt;Before the internet, there was a fountain, hewn of marble and fueled by sweat; it was filled with printed and written words. The flesh-and-blood entities of this era painstakingly scrawled their thoughts onto papyrus, slate, and 20 lb paper, then placed them gently, wistfully into the fountain.&lt;/p&gt;
+
+&lt;p&gt;The fountain and the cauldron come from the same place - they were created by the same species. Still, they differ.&lt;/p&gt;
+
+&lt;p&gt;The flesh-and-blood entities of the fountain era each represented a human being. Upon release, the ideas that these humans had birthed became immediately attached to their flesh-and-blood entities. There was no escape. The word of the entity was the word of the human. Pseudonyms were uncommon, and the famous examples of successful pseudonymous writing are mere aberrations in the vast desert of time. Authors that wished for their ideas and books not to be burned, buried, or besmirched by the ruling regimes of their day had to operate within the confines of those regimes’ Overton windows. For the majority of history, Overton windows were quite small. Because they could not say what they meant, they had to conceal their true ideas and heretically heterodox thoughts between the lines of their works.&lt;/p&gt;
+
+&lt;p&gt;Such is the subject of Strauss’ Persecution and the Art of Writing:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;An exoteric book contains then two teachings: a popular teaching of an edifying character, which is in the foreground; and a philosophic teaching concerning the most important subject, which is indicated only between the lines.&lt;/p&gt;
+
+  &lt;p&gt;. . .&lt;/p&gt;
+
+  &lt;p&gt;It has all the advantages of private communication without having its greatest disadvantage - that it reaches only the writer’s acquaintances. It has all the advantages of public communication without having its greatest disadvantage - capital punishment for the author.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;We thank these venerable authors of the past for their forfeiture of clarity in exchange for longevity. If Anaxagoras, Protagoras, Socrates, Plato, Xenophon, Aristotle, Avicenna, Averroes, Maimonides, Grotius, Descartes, Hobbes, Spinoza, Locke, Bayle, Wolff, Montesquieu, Voltaire, Rousseau, Lessing and Kant had not intentionally mired themselves in the muck of obscurantism, their ideas would not have survived to the modern era. Times have changed, though. Moloch’s granite cocks have sprung from the surface of the Earth in abundance, from George Washington’s of yore to Marc Benioff’s of today. The cauldron has been cast. The anonymous has arisen.&lt;/p&gt;
+
+&lt;p&gt;When the internet user of today signs into their favored social media platform, they sip on the filthy slime that has collected on the surface of the cauldron’s brew. The nourishing ideas, essays from the deep, have all sunk to the bottom - they are more difficult to retrieve. The alternative identities and anonymous accounts in the age of the cauldron provide the prominent and powerful a place to avoid the public punishment that would threaten to destroy their validity within the societal game they so deftly play. The naked muses of the best and brightest hide among the alts. Their ideas are judged on their own merit. The contest is pure.&lt;/p&gt;
+
+&lt;p&gt;Unlike the fountain, the cauldron is apolitical, unbiased, and welcoming. Any who so desire may empty their flasks into it. Any who so desire may sample the brew.&lt;/p&gt;
+
+&lt;p&gt;Seek, and ye shall find.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 02 Jun 2020 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/2020/persecution-and-the-art-of-the-alt</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/persecution-and-the-art-of-the-alt</guid>
+        
+        <category>politics</category>
+        
+        <category>governance</category>
+        
+        <category>observation</category>
+        
+        
+        <category>essay</category>
+        
+      </item>
     
       <item>
->>>>>>> 79631743e52faf23aa6d36ef87cc16c648528369
+        <title>Block</title>
+        <description>&lt;p&gt;monkey clambers&lt;/p&gt;
+
+&lt;p&gt;vie for mine &lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;__ coin&lt;/p&gt;
+
+&lt;p&gt;sweat for an electronic modicum&lt;/p&gt;
+
+&lt;p&gt;weep for a lost proton&lt;/p&gt;
+
+&lt;p&gt;press thread into pulp &lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;__ into paper&lt;/p&gt;
+
+&lt;p&gt;the vine unravel, the Schwein squeal, the blood drip, red … crimsone … film, glob, thick, halt.&lt;/p&gt;
+
+&lt;p&gt;valleys and mountains in the cushions, causally closed microscopae, logic consummate, a lite blue fizz flows to seas of abstraction. density propounded by men who do not know, grins mimicked by things that will not go. rest not, son incarnate, ride not, heathen cloaked in flesh.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 14 May 2020 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/2020/block</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/block</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>So Travel The Humans</title>
+        <description>&lt;p&gt;Humans pass through the port every day. They vary in their ways - some walk, trance-like through the array of experiences, senses, and sensations at the port. Others carry immense weight and still choose to jog lumberingly - them I do not envy, but them I indeed admire. More still choose to sprint, hamstrings and quadriceps firing at a taut, break-neck, break-body pace. They choose pain and hurting not in an effort to damage their bodies, but to heal their minds (or appease them if they are sickly with want). Still others walk with their cumbersome garments that reek of wealth and vanity. They do not see that the volume of their capes sweeps the others into the bay to drown in the black, poisoned waters.&lt;/p&gt;
+
+&lt;p&gt;More humans, invisible to the observer, slide softly amongst the others. They dress in a color that encodes the murk that once was called water - it permeates from the port to the boundary of the world.&lt;/p&gt;
+
+&lt;p&gt;All await a ship to carry them to an eternal darkness, but they do not know their voyage is eternal. Blinded by the spark that ignites the engine of the ship, their fate is invisible in the face of a naïve focus.&lt;/p&gt;
+
+&lt;p&gt;If they averted their eyes for a moment from the spark, they would see the gaze of death awaiting everywhere.&lt;/p&gt;
+
+&lt;p&gt;So travel the humans.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 23 Apr 2020 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/2020/so-travel-the-humans</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/so-travel-the-humans</guid>
+        
+        
+      </item>
+    
+      <item>
         <title>failed {Towards an Information-Theoretic Ontology}</title>
         <description>&lt;p&gt;&lt;em&gt;Note: This post was a failed attempt at formalizing an iffy mental model. I realized that I don’t have the necessary physics background to be able to confidently say the things I tried outlining below. This is an incomplete, somewhat ugly agglomeration of ideas. Proceed at your own risk.&lt;/em&gt;&lt;/p&gt;
 
@@ -427,144 +524,5 @@ damage upon innocent students. We could all be having so much more fun.&lt;/p&gt
         
       </item>
     
-      <item>
-        <title>A new era of more right</title>
-        <description>&lt;h3 id=&quot;an-explanation&quot;&gt;an explanation&lt;/h3&gt;
-
-&lt;p&gt;Today is the day that I begin surfacing words from my personal reflection-journal/digital-thought-notebook thing. I have a (sort of) daily cadence of writing in it, because doing so helps me keep my head on straight. If I don’t work through the ambient thoughts in my brain in a systematic way like this, the thoughts either implode into nothingness or explode into existential and epistemic anxiety. Both of those outcomes are bad.&lt;/p&gt;
-
-&lt;p&gt;Plus, I tweeted &lt;a href=&quot;https://twitter.com/keegan_mcnamara/status/1188337574299013120&quot;&gt;this&lt;/a&gt; the other day, so I figured that instead of perpetuating the problems I pointed out, I’d start trying to solve them.&lt;/p&gt;
-
-&lt;p&gt;A large part of me hates disturbing the former serenity and distilled nature of this website with something as filthy and unkempt as mere &lt;em&gt;thoughts&lt;/em&gt; and &lt;em&gt;reflections&lt;/em&gt; (the bile bubbles to the back of my throat as I type), but I’ve decided that if there’s any net positive effect on humanity as a result of my making such things public, then I ought to do it. As anyone who has taken an Analysis course knows, net positivity is not difficult to do ( &lt;script type=&quot;math/tex&quot;&gt;\forall \epsilon &gt; 0,\exists...&lt;/script&gt;), so I think I indeed ought to start.&lt;/p&gt;
-
-&lt;h3 id=&quot;some-changes&quot;&gt;some changes&lt;/h3&gt;
-&lt;p&gt;I’d still like there to be features that allow for some semblance of filterability on my writings, so I’ve added a &lt;a href=&quot;https://keeganm.org/categories&quot;&gt;categories&lt;/a&gt; page and a &lt;a href=&quot;https://keeganm.org/tags&quot;&gt;tags&lt;/a&gt; page. Implementing categories and tags from scratch in Jekyll was a bit of a pain in the ass, but I think it’ll be worth it in the longer term. I also have a fair number of thoughts about math and physics-related things, so I added MathJax support (do you even &lt;script type=&quot;math/tex&quot;&gt;\LaTeX&lt;/script&gt;, bro?) for when I desperately need to reminisce on the days I spent breathing in toxic amounts of &lt;a href=&quot;https://www.youtube.com/watch?v=PhNUjg9X4g8&quot;&gt;Hagoromo&lt;/a&gt; dust. Again, Jekyll is kind of a pain in the ass to do stuff like this with, but as my good friend Brennie would say, the ‘worth is high’.&lt;/p&gt;
-
-&lt;p&gt;I’ll be categorizing these more spontaneous thoughts and writings as ‘posts’, as opposed to the far more time-consuming to produce ‘essays’ and ‘videos’. Perhaps someday I’ll gather the courage to put my poetry and prose on here. We’ll see.&lt;/p&gt;
-
-&lt;p&gt;I’ve also changed the look and feel of the site. More specifically…&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;I changed the paragraph font to what I consider the most beautiful of all serifs, Libre Baskerville. I previously used Helvetica, which is nice for headings, but miserable to read for long periods of time. Such is the life of a sans.&lt;/li&gt;
-  &lt;li&gt;I removed all of the colors from the site, with the notable exception of salmon (&lt;span style=&quot;color: #ff5858;&quot;&gt;#ff5858&lt;/span&gt;). I use the same salmon color on my &lt;a href=&quot;https://twitter.com/keegan_mcnamara&quot;&gt;twitter profile&lt;/a&gt;, and I enjoy having a cohesive brand identity in this one, very limited way. I’m also a proponent of design minimalism, which leads me to…&lt;/li&gt;
-  &lt;li&gt;I thinned out all of the lines used for bounding boxes. This allows the elements on the screen to breathe, and it also focuses attention on the ones that matter. The bounding boxes themselves are actually totally unnecessary, but I like how they demarcate territory and group related elements together. They’re also somewhat of an homage to Engelbart and Kay’s invention of the notion of ‘windows’ for computer graphical user interfaces (read more &lt;a href=&quot;https://en.wikipedia.org/wiki/History_of_the_graphical_user_interface&quot;&gt;here&lt;/a&gt;). Rectangles are cool.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;That’s everything pertinent that I can think of for the moment. Sláinte!&lt;/p&gt;
-</description>
-        <pubDate>Mon, 28 Oct 2019 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/2019/a-new-era-of-more-right</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/a-new-era-of-more-right</guid>
-        
-        <category>meta</category>
-        
-        <category>design</category>
-        
-        
-        <category>post</category>
-        
-      </item>
-    
-      <item>
-        <title>My Essay in Palladium Magazine</title>
-        <description>&lt;p&gt;I wrote a piece for Palladium about the video game industry, the increasingly exploitative tools it uses to gain/retain users, and why we need change. Read it &lt;a href=&quot;https://palladiummag.com/2019/09/12/the-siren-call-of-video-games-amid-decaying-social-fabric/&amp;quot;&quot;&gt;here&lt;/a&gt;!&lt;/p&gt;
-</description>
-        <pubDate>Fri, 13 Sep 2019 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/2019/palladium-piece</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/palladium-piece</guid>
-        
-        <category>gaming</category>
-        
-        <category>governance</category>
-        
-        
-        <category>essay</category>
-        
-      </item>
-    
-      <item>
-        <title>Sport and Invisible Propaganda</title>
-        <description>&lt;p&gt;You know the feeling. You’re at the stadium, the anthem is being sung while a wounded veteran is paraded around next to the professional players. Tears well in your eyes, and it’s as though a balloon filled with liquid pride is gradually expanding in your upper abdomen. It’s incredibly unique – I, frankly, can’t think of more than a handful of instances wherein such a deep appreciation and sense of pride can be brought about in myself as if due to the flip of a switch. But why? Why does every American who’s ever seen a professional sports event know this feeling so vividly and experience it so intensely?&lt;/p&gt;
-
-&lt;p&gt;Noam Chomsky would probably turn to his propaganda model of media for an explanation. In its essence, Chomsky would say, the media’s primary purpose is as a tool to indoctrinate and suppress the masses. Prima facie, perhaps that claim sounds like just another academic spewing some “goddamned anti-American garbage.” But consider for a moment the perspective of a Martian peering down on America from outer space. This Martian would see a truly remarkable concentration of power and wealth within the government and the largest corporations. It seems to follow immediately that because humans are greedy creatures, those entities that control the vast majority of power and wealth in the US would want to continue to control that power and wealth. So then, as the astute Martian would point out, it makes perfect sense that those institutions would utilize a significant amount of the vast resources at their disposal to maintain their respective stakes. Well, as it were, some of the largest companies in the US are media companies. In addition to huge sums of capital, they control massive information distribution networks (e.g. TV, radio, social media, etc…), and the Martian would see that those networks and that capital were being appropriated to mold the public’s conception of the world away from the reality of corporate and governmental fascism and instead inculcate them with docility in order to maintain the status quo of power and wealth. What’s frightening about Chomsky’s model is that it’s coldly rational, unbiased politically, and posits that the existence of the propagandistic media is merely an emergent property of the concentrations of wealth that arise in capitalistic societies.&lt;/p&gt;
-
-&lt;p&gt;Through this lens, let’s take a deeper look at the culture of sports in modern society. Consider a relatively simple question that actually cuts quite deeply into the issue – why are athletes in the NFL paid so much money? Well, perhaps the prima facie answer is that they’re just extremely well qualified on a physical basis, and therefore deserving of special pay. Consider though that professional marathon runners, who are extremely well qualified on a physical basis (perhaps even moreso than NFL players), make vastly less money than NFL players. For example, Tamirat Tola, a 2016 Olympic Bronze medalist from Ethiopia, made a paltry $93,750 in 2018, while Jimmy Garropolo, the QB for the San Francisco 49ers, made $43,100,000. Physical qualification can’t be the answer. However, things become clear when you look at how much sponsorship money is being spent on each sport, and from who that money is coming. The NFL’s sponsorship revenue totaled $1.32 Billion in the 2017-2018 season, while the Professional Road Running Organization’s (PRRO) total prize money available for the 2018 season was a mere $330,000. The NFL’s sponsors are companies like Anheuser-Busch, Castrol, PepsiCo, and Frito-Lay, whereas the PRRO’s sponsors are companies like Publix (a grocery-store chain) and a small credit union in Washington DC. The NFL players are making more money because there’s a helluva lot more institutional money being poured into their market. The natural question to ask then is this: why aren’t companies like Anheuser-Busch and PepsiCo sponsoring the PRRO circuit? Well, it’s because the American public isn’t watching televised marathons – they’re watching their favorite NFL, MLB, NHL, and NBA teams.&lt;/p&gt;
-
-&lt;p&gt;People put a pretty astonishingly large amount of time and mental resources into sports. If you ask your next-door neighbor how your local NFL team is doing, you’re likely to get an extremely articulate and complex response that takes into account the abilities of individual players, the coaching staff’s play calling decisions, the player trading market, etc… They’re probably going to cite specific statistics and be able to discuss intricacies that required hours of observation, research, and thought. And it makes sense – in our society, there are things that people can use their intelligence on, take politics for example, but most can’t really get involved in those things in any meaningful way. So instead, they spend their intelligence on other things that are cognitively intensive, yet also accessible – things like spectator sports. Sports intensely occupy the minds of a vast majority of the population and diffuse a huge amount of latent time and intellectual capacity, which is precisely what the corporate and governmental entities that control the majority of power and wealth would want. So it’s quite natural that companies like Anheuser-Busch and PepsiCo are sponsoring the big spectator sports associations – those associations are doing a wonderful thing in the eyes of such companies. They’re efficiently squandering the time and cognitive effort of the broader populace that could otherwise be used to gain a deeper understanding of reality and potentially organize to bring about change in the upper echelons of power. Furthermore, it makes total sense that the armed forces show up, parade around veterans, and hold subtly nationalist ceremonies – they’re the grandaddy of the entities that have a vested interest in supporting such a quiescence of the broader populace. In an attempt to not inflame passions, I’ll leave that discussion to Chomsky.&lt;/p&gt;
-
-&lt;p&gt;Now let’s return to our initial situation. You’re watching your favorite team play, and you rise for the national anthem. Your heart swells with pride as the talented singer belts the anthem alongside a wounded veteran. With our newfound understanding, though, the sentiment of that situation changes. Spectator sports enforce jingoism, promote consumerism, and indoctrinate an impressionable society to maintain the status quo of power.&lt;/p&gt;
-
-&lt;p&gt;Think before you buy that ticket.&lt;/p&gt;
-
-&lt;p&gt;Peace.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 27 May 2019 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/2019/sport-and-invisible-propaganda</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/sport-and-invisible-propaganda</guid>
-        
-        <category>social-observation</category>
-        
-        
-        <category>essay</category>
-        
-      </item>
-    
-<<<<<<< HEAD
-=======
-      <item>
-        <title>The Only Reason College Prestige Matters</title>
-        <description>&lt;p&gt;Harvard. Stanford. MIT. Princeton. Yale. Northwestern. Johns Hopkins. UChicago. Berkeley. Columbia. Dartmouth.&lt;/p&gt;
-
-&lt;p&gt;These are all names that bring about strong emotions in most people. For some, those emotions are jealousy, anger, and disdain. For most others, they’re prestige, respect, and mystique.&lt;/p&gt;
-
-&lt;p&gt;But why do such institutions hold such high places in our hearts and minds? Why do we value graduates of that set of prestigious schools so much more than all of the others?&lt;/p&gt;
-
-&lt;p&gt;I think it’s solely because it’s hard to get in.&lt;/p&gt;
-
-&lt;p&gt;I know that when I’m looking at someone’s LinkedIn profile or resume, the biggest “wow!” factor is a degree from a prestigious institution. And the reason I’ve come up with to explain &lt;em&gt;why&lt;/em&gt; is not at all because of the things that they’ve learned while walking the hallowed halls of such places — anecdotally, the content and quality of an education varies very little within US colleges. Calc 3 at Stanford is pretty damn similar to Calc 3 at The University of Georgia.&lt;/p&gt;
-
-&lt;p&gt;Instead, the degree indicates to me that the person was given a stamp of approval by one of the most difficult, rigorous filtering processes that the world has to offer — the admissions committee. Any Stanford freshman in this year’s class of 2022 was among only 4.36% of students to be accepted. Read that one more time. &lt;strong&gt;Four point three six percent.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The sum total of a student’s entire life, both academic and otherwise, was evaluated by a brutally harsh committee of Stanford gatekeepers, and that student was let in. Those gatekeepers pored over every detail on that person’s admission profile and thought that they stood out among &lt;strong&gt;47,451&lt;/strong&gt; applicants. That’s remarkable, and indicates an immense amount of skill, dedication, and tenacity.&lt;/p&gt;
-
-&lt;p&gt;In short, it means they were a badass early on in their lives. Whether it was through parental pressures, natural talent, or whatever else, they pursued and achieved incredible things while they were less than ~18 years old. It’s &lt;em&gt;guaranteed&lt;/em&gt; that they did. And that’s why it’s valuable when I see it on a resume.&lt;/p&gt;
-
-&lt;p&gt;In doing this, I’m essentially just bootstrapping the sum total expertise and experience of those admissions committees and leveraging it to make a more informed opinion of a person. The probability that someone who has demonstrated badassery to the degree needed to get into an elite school will go on to continue demonstrating badassery thereafter (in any given area of their life) is &lt;em&gt;far&lt;/em&gt; higher than the probability that someone who graduated from community college after dropping out of high school will do the same.&lt;/p&gt;
-
-&lt;p&gt;I find this explanation to be deeply satisfying— it explains why I hold MIT drop-outs in the same raw intellectual talent regard as I hold people who spent the full 4 years at MIT. It explains why I hold Dartmouth graduates from the 70’s in far lower raw talent regard than the Dartmouth freshmen of today. It explains why I hold Harvard undergrads who go on to PhD programs at CU Boulder in higher talent regard than CU Boulder undergrads who go on to PhD programs at Harvard. And most of all, it explains why people who list Stanford as their education on LinkedIn after completing an online course on Udacity or Coursera are not impressive to me &lt;em&gt;whatsoever&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;In my evaluation, it’s all about leveraging the effort, research, and expertise of the admissions councils in order to establish a base confidence in the likelihood of a given person to be a badass.&lt;/p&gt;
-
-&lt;p&gt;This outlook is the most effective in the case where I’m considering people who are either currently enrolled in college or are recent graduates/drop outs. From there on out, where they went doesn’t matter as much as what they ended up doing for work.&lt;/p&gt;
-
-&lt;p&gt;This is best shown with an example. If Jill went to Yale but then worked for Deloitte for 10 years and did nothing of interest except earn one promotion, Jill is not a badass (in my book). If Joe went to Washington State but then worked for Google as a Software Engineer for 2 years and started 3 companies, one of which failed, one of which was sold for 200mm, and one of which was acquihired by Microsoft, I no longer care that he went to Washington State — he’s sufficiently demonstrated his badassery to me.&lt;/p&gt;
-
-&lt;p&gt;And while it’s totally feasible for edge cases to occur on both sides of the spectrum, telling ourselves romantic stories about them leads to false general perceptions.&lt;/p&gt;
-
-&lt;p&gt;Take one of my good friends from high school who was incredibly intelligent and an undeniable badass, but was denied admission at the Ivies he applied to. He ended up going to CU Boulder. Just because of this edge case, we shouldn’t tell ourselves a false narrative that CU Boulder graduates are as competent on average as MIT graduates.&lt;/p&gt;
-
-&lt;p&gt;On the other end, take a guy I met this past summer who was undoubtedly dumb. He had extremely poor technical abilities, didn’t learn quickly, and couldn’t communicate his thoughts in an effective way. He’s a Junior at Princeton. Just because of this edge case, we shouldn’t tell ourselves a false narrative that Princeton graduates are as competent on average as UMass Amherst graduates.&lt;/p&gt;
-
-&lt;p&gt;This is a tough pill to swallow as a college student at a less prestigious school. It means that you’ll likely have a more difficult time getting started in your professional career. Remember that all hope is not lost, however. If you can prove yourself by doing incredible things and persevering through the ‘prestige gap’, you can surpass anyone that may have come out of an Ivy league school or other top ranked institution.&lt;/p&gt;
-
-&lt;p&gt;Likewise, if you’re a college student at a prestigious school, you have a leg up out of the gates. But if you squander your career pursuing unimpressive, safe, or boring opportunities, you’ll lose your lead.&lt;/p&gt;
-
-&lt;p&gt;Either way, it’s most important &lt;em&gt;by far&lt;/em&gt; to take risks and do cool things. The majority of your life is spent &lt;strong&gt;not&lt;/strong&gt; in college, so make it count.&lt;/p&gt;
-
-&lt;p&gt;Peace.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 01 Feb 2019 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2019/the-only-reason-college-prestige-matters</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/the-only-reason-college-prestige-matters</guid>
-        
-        <category>college</category>
-        
-        <category>social-observation</category>
-        
-        
-        <category>essay</category>
-        
-      </item>
-    
->>>>>>> 79631743e52faf23aa6d36ef87cc16c648528369
   </channel>
 </rss>
