@@ -1,6 +1,6 @@
 .color1 {
     background: white;
-    border: $box-width solid $dark-grey;    
+    border: $box-width solid $dark-grey;
 }
 .color2 {
     background: white;
@@ -195,7 +195,7 @@ article {
     }
   }
   p {
-    
+
     line-height: 2em;
     color: $dark-grey;
     font-family: $serif-font-family;
@@ -251,7 +251,7 @@ blockquote {
 /*****************************************************************************/
 
 @media (max-width: 850px) {
-  
+
     body {
         font-size: large;
     }
@@ -261,9 +261,9 @@ blockquote {
         padding: 0.75em;
     }
     aside header {
-        margin-top: 0px;      
+        margin-top: 0px;
     }
-    
+
     aside .module {
         margin-right: 0px;
     }
@@ -287,7 +287,7 @@ blockquote {
         padding-left: $spacing-unit*1.4 !important;
         padding-right: $spacing-unit*1.4 !important;
         p {
-          font-size: medium;  
+          font-size: medium;
         }
     }
     nav {
